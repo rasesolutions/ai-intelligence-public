@@ -1,0 +1,65 @@
+name: Refresh public feed
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: public-feed-snapshot
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the public snapshot
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Test the public-data validator
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Refresh from the public feed
+        run: python3 tools/update_public_snapshot.py --output-dir data
+
+      - name: Publish a changed snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -- data/latest.json data/manifest.json
+          while IFS= read -r -d '' snapshot_path; do
+            case "$snapshot_path" in
+              data/latest.json|data/manifest.json) ;;
+              *) echo "Refusing an unexpected staged path." >&2; exit 1 ;;
+            esac
+          done < <(git diff --cached --name-only -z)
+          if git diff --cached --quiet; then
+            echo "Verified public content is unchanged; no commit needed."
+            exit 0
+          fi
+          git config user.name "Rase public feed snapshot"
+          git config user.email "snapshot@users.noreply.github.com"
+          git commit -m "Refresh approved public AI developments"
+          git push origin HEAD:main
+
+      - name: Summarize the verified capture
+        run: |
+          python3 - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          from pathlib import Path
+          manifest = json.loads(Path('data/manifest.json').read_text(encoding='utf-8'))
+          print('Public feed validation succeeded.')
+          print('')
+          print('The saved capture manifest:')
+          print('```json')
+          print(json.dumps(manifest, indent=2, ensure_ascii=False))
+          print('```')
+          PY
