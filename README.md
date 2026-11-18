@@ -25,6 +25,8 @@ The existing twice-daily Rase publishing workflow dispatches **Refresh public fe
 
 The refresh reads only the fixed public HTTPS feed and validates a strict field and URL whitelist. It does not access research packages, databases, administrative routes, subscribers or private website source. Source failures, malformed data and unknown fields fail closed and retain the previous verified snapshot. JSON and manifest are published together in one Git commit. Repeated identical content creates no additional commit.
 
+Accepted text is also screened for recognizable credentials, personal information, internal paths and private material. A flagged response is rejected before publication and must be corrected at the public source. These pattern checks supplement the existing publication eligibility rules; they do not replace editorial review or prove that every possible sensitive value can be detected.
+
 For a local refresh with Python 3.12 or later:
 
 ```sh
@@ -33,5 +35,7 @@ python tools/update_public_snapshot.py --output-dir data
 ```
 
 `--check` validates without writing. `--input path/to/feed.json` supports offline validation of a previously downloaded public feed. Publish only the two validated data files together, using a normal fast-forward push. Never force-push to resolve concurrent updates.
+
+Changes to the validator, workflow or publication policy require a pull request and owner approval. The reviewed refresh continues updating validated public data automatically. See [Security and emergency withdrawal](SECURITY.md) for private reporting and the procedure for removing material from the current snapshot, historical commits and external copies.
 
 Rase's original editorial summaries link to supporting evidence. Linked third-party publications retain their respective rights. This repository does not copy third-party articles or imagery.

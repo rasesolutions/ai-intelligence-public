@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Validate the fixed public feed and replace the current local snapshot."""
 import argparse
+import base64
 import calendar
 import datetime as dt
 import hashlib
+import html
 import ipaddress
 import json
 import os
@@ -12,6 +14,7 @@ import re
 import ssl
 import sys
 import tempfile
+import unicodedata
 import urllib.parse
 import urllib.request
 
@@ -23,6 +26,102 @@ TYPES = frozenset(("announcement first_demo first_access public_release commerci
     "in_force law_passed legislative market_launch milestone policy_adopted policy_launch "
     "policy_milestone preprint_submission preview_opened research_disclosure research_preprint "
     "research_publication").split())
+
+# These are rejection patterns, never extraction rules. Values are not logged.
+SENSITIVE_PATTERNS = tuple(re.compile(pattern, re.I) for pattern in (
+    r"-----BEGIN (?:[A-Z0-9]+ )*(?:PRIVATE KEY|PGP PRIVATE KEY BLOCK)-----",
+    r"\b(?:gh[pousr]_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{20,})\b",
+    r"\b(?:AKIA|ASIA)[A-Z0-9]{16}\b",
+    r"\bsk-(?:(?:proj|svcacct)-)?[A-Za-z0-9_-]{20,}\b",
+    r"\bxox[baprs]-[A-Za-z0-9-]{16,}\b",
+    r"\beyJ[A-Za-z0-9_-]{8,}\.[A-Za-z0-9_-]{8,}\.[A-Za-z0-9_-]{8,}\b",
+    r"\b(?:bearer\s+[A-Za-z0-9._~+/-]{12,}|authorization\s*:\s*basic\s+[A-Za-z0-9+/=]{12,})",
+    r"\b[A-Z][A-Z0-9+.-]{1,30}://[^\s/@:]+:[^\s/@]+@",
+    r"\b(?:api[\s_-]?key|access[\s_-]?token|refresh[\s_-]?token|auth[\s_-]?token|"
+    r"client[\s_-]?secret|password|passwd|secret|token|session[\s_-]?(?:id|cookie)|"
+    r"smtp[\s_-]?password|database[\s_-]?url)\b[\"']?\s*[:=]\s*[\"']?[^\s\"'<>]{4,}",
+    r"\b[A-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[A-Z0-9](?:[A-Z0-9.-]*[A-Z0-9])?\.[A-Z]{2,}\b",
+    r"\b\d{3}[- ]\d{2}[- ]\d{4}\b",
+    r"\b(?:ssn|social security(?: number)?)\s*[:=]?\s*\d{9}\b",
+    r"(?<!\w)(?:\+?1[-. ]?)?(?:\([2-9]\d{2}\)[-. ]?|[2-9]\d{2}[-. ])[2-9]\d{2}[-. ]\d{4}(?!\w)",
+    r"\b(?:phone|mobile|telephone|tel)\s*[:=]\s*\+?[\d ()+.-]{9,}",
+    r"\b\d{1,6}\s+(?:[A-Z0-9'.-]+\s+){1,6}(?:street|road|avenue|drive|lane|"
+    r"boulevard|court|terrace|parkway|st|rd|ave|dr|ln|blvd)\b"
+    r"(?=$|[.,;\n]|[ \t]+(?:(?:apt|apartment|suite|unit)\b|#|\d{5}(?:-\d{4})?\b))",
+    r"(?<!\w)[A-Z]:[\\/]",
+    r"\\\\[A-Z0-9_.-]+\\[A-Z0-9_$.-]+",
+    r"(?<![A-Z0-9])/(?:home|Users|root|etc|var/www|var/log|srv|opt/app)(?:/|\b)",
+    r"(?:^|[/\\\s])\.(?:env(?:\.[A-Z0-9_-]+)?|codex|git)(?:[/\\\s]|$)",
+    r"(?:\.deployment-results|storage/logs)(?:[/\\]|\b)",
+    r"\b(?:raw[ _-]research|internal[ _-]notes|editorial[ _-]notes|private[ _-]draft|"
+    r"subscriber[ _-](?:list|email|data)|research[ _-]package)\s*[:=]",
+    r"\b(?:internal only|do not publish|not for publication)\b|\bconfidential\s*:",
+))
+PRIVATE_PATHS = ("/includes", "/forms", "/data", "/database", "/tools", "/admin", "/tests",
+                 "/ai/admin", "/ai/newsletter", "/ai/media")
+SENSITIVE_QUERY_KEY = re.compile(r"token|secret|password|credential|api.?key", re.I)
+
+
+def normalized(value):
+    """Inspect common disguises without changing the public editorial text."""
+    for _ in range(2):
+        value = unicodedata.normalize("NFKC", html.unescape(urllib.parse.unquote(value)))
+    return "".join(char for char in value if unicodedata.category(char) != "Cf")
+
+
+def luhn(value):
+    digits = [int(char) for char in value if char.isdigit() and char.isascii()]
+    if not 13 <= len(digits) <= 19:
+        return False
+    return sum((digit if index % 2 == 0 else digit * 2 - (9 if digit > 4 else 0))
+               for index, digit in enumerate(reversed(digits))) % 10 == 0
+
+
+def sensitive(value):
+    if any(pattern.search(value) for pattern in SENSITIVE_PATTERNS):
+        return True
+    for match in re.finditer(r"(?<!\w)(?:\d[ -]?){12,18}\d(?!\w)", value):
+        if luhn(match.group()):
+            return True
+    for match in re.finditer(r"(?<!\w)\+\d[\d .()-]{8,24}\d(?!\w)", value):
+        if 10 <= sum(char.isdigit() for char in match.group()) <= 15:
+            return True
+    for match in re.finditer(r"https?://[^\s<>\"']+", value, re.I):
+        try:
+            parts = urllib.parse.urlsplit(match.group())
+            host = parts.hostname or ""
+            if parts.username is not None or parts.password is not None:
+                return True
+            if any(SENSITIVE_QUERY_KEY.search(key) for key, _ in urllib.parse.parse_qsl(parts.query, keep_blank_values=True)):
+                return True
+            if host in ("localhost", "localhost.localdomain") or host.endswith((".local", ".internal", ".corp")):
+                return True
+            try:
+                if not ipaddress.ip_address(host).is_global:
+                    return True
+            except ValueError:
+                pass
+            path = parts.path.casefold()
+            if host == "rasesolutions.com" and any(path == root or path.startswith(root + "/") for root in PRIVATE_PATHS):
+                return True
+        except ValueError:
+            return True
+    return False
+
+
+def public_text(value):
+    inspected = normalized(value)
+    require(not sensitive(inspected))
+    # Decode only plausible, bounded printable payloads; ordinary hashes and
+    # model identifiers are not rejected merely for looking random or long.
+    for match in re.finditer(r"(?<![A-Z0-9+/_-])[A-Z0-9+/_-]{24,8192}={0,2}(?![A-Z0-9+/_-])", inspected, re.I):
+        try:
+            token = match.group()
+            decoded = base64.b64decode(token + "=" * (-len(token) % 4), altchars=b"-_", validate=True).decode("ascii")
+        except (ValueError, UnicodeError):
+            continue
+        if all(char.isprintable() or char in "\n\r\t" for char in decoded):
+            require(not sensitive(normalized(decoded)))
 
 
 class SnapshotError(Exception):
@@ -46,6 +145,7 @@ def text(value, limit=16_000):
         value.encode("utf-8")
     except UnicodeError:
         raise SnapshotError("Invalid text encoding.")
+    public_text(value)
     return value
 
 
@@ -67,18 +167,16 @@ def url(value, profile=False):
         address = None
     require(address is None or address.is_global)
     if parts.hostname == "rasesolutions.com":
-        private = ("/includes", "/forms", "/data", "/database", "/tools", "/admin", "/tests",
-                   "/ai/admin", "/ai/newsletter", "/ai/media")
         decoded = urllib.parse.unquote(parts.path)
-        require(not any(decoded == path or decoded.startswith(path + "/") for path in private))
+        require(not any(decoded == path or decoded.startswith(path + "/") for path in PRIVATE_PATHS))
     if profile:
         require(parts.scheme == "https" and parts.netloc == "rasesolutions.com")
         require(not parts.query and not parts.fragment and port is None)
         require(re.fullmatch(r"/ai/[a-z0-9-]+/[a-z0-9-]+", parts.path))
         require(parts.path.split("/")[2] not in ("admin", "newsletter", "media", "data", "tools"))
     else:
-        query = urllib.parse.parse_qsl(parts.query)
-        require(not any(re.search(r"token|secret|password|credential|api.?key", key, re.I) for key, _ in query))
+        query = urllib.parse.parse_qsl(parts.query, keep_blank_values=True)
+        require(not any(SENSITIVE_QUERY_KEY.search(key) for key, _ in query))
     return value
 
 
@@ -108,7 +206,7 @@ def event_date(value):
 def item(value):
     fields(value, ("id", "url", "title", "summary", "content_text", "date_published", "tags", "_rase"),
            ("external_url", "date_modified"))
-    require(type(value["id"]) is str)
+    text(value["id"], 256)
     prefix = "urn:rase:ai:record:"
     identifier = value["id"][len(prefix):]
     require(value["id"].startswith(prefix))
