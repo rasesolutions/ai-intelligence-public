@@ -20,6 +20,277 @@
         "sources": [
           {
             "kind": "primary",
+            "title": "Anthropic prices initial public offering",
+            "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Anthropic announced IPO pricing on November 18. Its release schedules Nasdaq trading for November 19 and closing for November 20, subject to customary conditions.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Anthropic prices initial public offering — https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "id": "urn:rase:ai:record:RSI-REC-236a56a4169fdc687d240bde",
+      "summary": "Anthropic announced IPO pricing on November 18. Its release schedules Nasdaq trading for November 19 and closing for November 20, subject to customary conditions.",
+      "tags": [
+        "Business, finance, sales & productivity"
+      ],
+      "title": "Anthropic prices its initial public offering at $83 per share",
+      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/anthropic-initial-public-offering-pricing"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Microsoft describes Dragon Copilot 6.0 for nursing",
+            "url": "https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/microsoft-dragon-copilot-brings-ai-to-more-nurses/4574232"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The update adds generally available med-surg templates and Fabric export, alongside public previews for expanded nursing settings, simulation mode and session review.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Microsoft describes Dragon Copilot 6.0 for nursing — https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/microsoft-dragon-copilot-brings-ai-to-more-nurses/4574232",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/microsoft-dragon-copilot-brings-ai-to-more-nurses/4574232",
+      "id": "urn:rase:ai:record:RSI-REC-e9ddb893b8e4adf61286310e",
+      "summary": "The update adds generally available med-surg templates and Fabric export, alongside public previews for expanded nursing settings, simulation mode and session review.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "Microsoft announces Dragon Copilot 6.0 nursing updates",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/microsoft-dragon-copilot"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "OpenAI ChatGPT release notes for November 18, 2026",
+            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "The November 18 release notes introduce visible transcription during speech and remove the ten-minute recording limit, with global rollout across ChatGPT plans.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:40Z.\nPublic content reviewed/published: 2026-11-19T01:27:02Z.\nEvidence: OpenAI ChatGPT release notes for November 18, 2026 — https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date_modified": "2026-11-19T01:27:02Z",
+      "date_published": "2026-11-17T20:57:40Z",
+      "external_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "id": "urn:rase:ai:record:RSI-CAL-008",
+      "summary": "The November 18 release notes introduce visible transcription during speech and remove the ten-minute recording limit, with global rollout across ChatGPT plans.",
+      "tags": [
+        "Foundation models, assistants & multimodal AI"
+      ],
+      "title": "OpenAI announces ChatGPT Live Dictation rollout",
+      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/chatgpt"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Advancing chip design with OpenAI models",
+            "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "OpenAI published results on model-assisted chip design, describing Jalapeño and AMD optimizations alongside evaluations on two RISC-V processor cores.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Advancing chip design with OpenAI models — https://openai.com/index/advancing-chip-design-with-our-models/",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "id": "urn:rase:ai:record:RSI-REC-d90372881047a191c520712c",
+      "summary": "OpenAI published results on model-assisted chip design, describing Jalapeño and AMD optimizations alongside evaluations on two RISC-V processor cores.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "OpenAI reports model-assisted chip-design results",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/openai-model-assisted-chip-design-research"
+    },
+    {
+      "_rase": {
+        "event_type": "public_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Google introduces Gemini 4 Neon",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Google announced access through the Gemini API and selected business, app and Antigravity surfaces; the cyber variant remains a subsequent rollout.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Google introduces Gemini 4 Neon — https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "id": "urn:rase:ai:record:RSI-REC-a13c10d7ae820cd3cd219240",
+      "summary": "Google announced access through the Gemini API and selected business, app and Antigravity surfaces; the cyber variant remains a subsequent rollout.",
+      "tags": [
+        "Foundation models, assistants & multimodal AI"
+      ],
+      "title": "Google begins Gemini 4 Neon rollout",
+      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/gemini-4-neon"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Minimizing data requirements for chemical and material property prediction via cluster-based training set selection",
+            "url": "https://www.nature.com/articles/s43588-026-01076-9"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "A Nature Computational Science analysis compares 100 data-selection algorithms across 60 chemical and materials property-prediction tasks, finding advantages for cluster-based selection in its studied setting.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Minimizing data requirements for chemical and material property prediction via cluster-based training set selection — https://www.nature.com/articles/s43588-026-01076-9",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://www.nature.com/articles/s43588-026-01076-9",
+      "id": "urn:rase:ai:record:RSI-REC-2641061ef6f71a67bfa3fdba",
+      "summary": "A Nature Computational Science analysis compares 100 data-selection algorithms across 60 chemical and materials property-prediction tasks, finding advantages for cluster-based selection in its studied setting.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Princeton study compares 100 ways to select materials-training data",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/cluster-based-training-set-selection-for-chemical-and-material-prediction"
+    },
+    {
+      "_rase": {
+        "event_type": "commercial_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AWS introduces SageMaker AI cross-Region inference routing",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS announced general availability of SageMaker AI cross-Region inference routing on November 18, allowing customers to route requests among their deployed model endpoints.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: AWS introduces SageMaker AI cross-Region inference routing — https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
+      "id": "urn:rase:ai:record:RSI-REC-bac9494c9e656ad5572efdfd",
+      "summary": "AWS announced general availability of SageMaker AI cross-Region inference routing on November 18, allowing customers to route requests among their deployed model endpoints.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "SageMaker AI adds generally available cross-Region inference routing",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-sagemaker-ai-cross-region-inference-routing"
+    },
+    {
+      "_rase": {
+        "event_type": "first_access",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Google announces the Project Genie update featuring Genie 4",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The service update opens first access to Genie 4 and adds a creation agent and community gallery, while Pro access remains a waitlist.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Google announces the Project Genie update featuring Genie 4 — https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "id": "urn:rase:ai:record:RSI-REC-4f3e583a3de886b43e01628c",
+      "summary": "The service update opens first access to Genie 4 and adds a creation agent and community gallery, while Pro access remains a waitlist.",
+      "tags": [
+        "Generative video, audio, images, design & creative tools"
+      ],
+      "title": "Project Genie starts Genie 4 access for eligible Ultra subscribers",
+      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/project-genie-with-genie-4"
+    },
+    {
+      "_rase": {
+        "event_type": "preview_opened",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Microsoft announces managed Foundry IQ resources",
+            "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/foundry-iq-now-managed-for-you-in-every-foundry-project/4573316"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Microsoft invited access requests for managed project knowledge resources; the announced December expansion remains a plan rather than current general availability.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Microsoft announces managed Foundry IQ resources — https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/foundry-iq-now-managed-for-you-in-every-foundry-project/4573316",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/foundry-iq-now-managed-for-you-in-every-foundry-project/4573316",
+      "id": "urn:rase:ai:record:RSI-REC-0d63f6a9aecf25c8db49d8e1",
+      "summary": "Microsoft invited access requests for managed project knowledge resources; the announced December expansion remains a plan rather than current general availability.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "Microsoft announces managed Foundry IQ private preview",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/managed-foundry-iq-resources"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
             "title": "OpenAI and Le Groupe Figaro announce a publishing partnership",
             "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership/"
           }
@@ -219,6 +490,222 @@
       ],
       "title": "NY Attorney General AI Safety, Standards, Enforcement and Transparency Unit announced",
       "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/ny-attorney-general-ai-safety-standards-enforcement-and-transparency-unit"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-17"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Google announces expanded Tasks in Gemini features",
+            "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 17 update starts a six-country free rollout, with additional advanced capabilities beginning in the United States and future integrations separately identified as plans.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Google announces expanded Tasks in Gemini features — https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "id": "urn:rase:ai:record:RSI-REC-07d6792140d6feac7ce16b8e",
+      "summary": "The November 17 update starts a six-country free rollout, with additional advanced capabilities beginning in the United States and future integrations separately identified as plans.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "Google expands free Tasks in Gemini access",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/tasks-in-gemini"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-17"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Google introduces temporary threads in Search AI Mode",
+            "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The browser feature separates a temporary AI Mode conversation from account history and personalization as it rolls out globally in supported languages.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Google introduces temporary threads in Search AI Mode — https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+      "id": "urn:rase:ai:record:RSI-REC-d8f8cb874f80add952ca30b8",
+      "summary": "The browser feature separates a temporary AI Mode conversation from account history and personalization as it rolls out globally in supported languages.",
+      "tags": [
+        "Foundation models, assistants & multimodal AI"
+      ],
+      "title": "Google announces temporary threads in Search AI Mode",
+      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/google-search-ai-mode-temporary-threads"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-17"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Genesis AI announces its $500 million Series A",
+            "url": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Genesis AI announced a $500 million Series A at a $3.5 billion post-money valuation to support its robotics platform and planned Eno deployments.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Genesis AI announces its $500 million Series A — https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
+      "id": "urn:rase:ai:record:RSI-REC-3f2223ce4cdbc6712b93cd09",
+      "summary": "Genesis AI announced a $500 million Series A at a $3.5 billion post-money valuation to support its robotics platform and planned Eno deployments.",
+      "tags": [
+        "Robotics, humanoids, household robots & physical AI"
+      ],
+      "title": "Genesis AI raises $500 million for its robotics platform",
+      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/genesis-ai-and-eno-robotics-platform"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-17"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "ROBOTERA expands deployment across China Post's Guangdong network",
+            "url": "https://www.prnewswire.com/news-releases/robotera-expands-humanoid-robot-deployment-across-china-posts-guangdong-network-reaching-eight-cities-province-wide-302941865.html"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "ROBOTERA says its humanoid parcel-handling deployment now spans 11 China Post hubs in eight Guangdong cities, expanding a pilot that began in March 2026.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: ROBOTERA expands deployment across China Post's Guangdong network — https://www.prnewswire.com/news-releases/robotera-expands-humanoid-robot-deployment-across-china-posts-guangdong-network-reaching-eight-cities-province-wide-302941865.html",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://www.prnewswire.com/news-releases/robotera-expands-humanoid-robot-deployment-across-china-posts-guangdong-network-reaching-eight-cities-province-wide-302941865.html",
+      "id": "urn:rase:ai:record:RSI-REC-cf4634fda4823556249b9951",
+      "summary": "ROBOTERA says its humanoid parcel-handling deployment now spans 11 China Post hubs in eight Guangdong cities, expanding a pilot that began in March 2026.",
+      "tags": [
+        "Robotics, humanoids, household robots & physical AI"
+      ],
+      "title": "ROBOTERA reports humanoids operating at 11 China Post hubs",
+      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/robotera-china-post-humanoid-parcel-handling-deployment"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-17"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Google announces no-cost personal avatars in Vids",
+            "url": "https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The access expansion lets personal Google account holders create and reuse an avatar of their own likeness in Vids videos.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Google announces no-cost personal avatars in Vids — https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/",
+      "id": "urn:rase:ai:record:RSI-REC-3f10249fa62462df8334af5c",
+      "summary": "The access expansion lets personal Google account holders create and reuse an avatar of their own likeness in Vids videos.",
+      "tags": [
+        "Generative video, audio, images, design & creative tools"
+      ],
+      "title": "Google opens Vids personal avatars to personal accounts at no cost",
+      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/google-vids-personal-avatars"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-17"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Isomorphic Labs announces Series C investment round",
+            "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round"
+          },
+          {
+            "kind": "primary",
+            "title": "Isomorphic Labs November 17 funding release",
+            "url": "https://storage.googleapis.com/isomorphiclabs-website-public-artifacts/ISOMORPHIC_LABS_FUNDING_17-11-26.pdf"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Isomorphic Labs announced $5 billion in Series C funding to expand its AI drug-design engine, therapeutic-candidate programs and bioengineering infrastructure.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Isomorphic Labs announces Series C investment round — https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round\nEvidence: Isomorphic Labs November 17 funding release — https://storage.googleapis.com/isomorphiclabs-website-public-artifacts/ISOMORPHIC_LABS_FUNDING_17-11-26.pdf",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round",
+      "id": "urn:rase:ai:record:RSI-REC-8552a3c622d47678a383c816",
+      "summary": "Isomorphic Labs announced $5 billion in Series C funding to expand its AI drug-design engine, therapeutic-candidate programs and bioengineering infrastructure.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Isomorphic Labs announces $5 billion Series C funding",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/isomorphic-labs-ai-drug-discovery-platform"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-17"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Google Home November 2026 update and Gemini regional expansion",
+            "url": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "The dated update announces country expansion and audio-aware event descriptions; separately announced December thermostat features remain planned.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:42Z.\nPublic content reviewed/published: 2026-11-19T01:27:02Z.\nEvidence: Google Home November 2026 update and Gemini regional expansion — https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
+      "date_modified": "2026-11-19T01:27:02Z",
+      "date_published": "2026-11-17T20:57:42Z",
+      "external_url": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
+      "id": "urn:rase:ai:record:RSI-P-270",
+      "summary": "The dated update announces country expansion and audio-aware event descriptions; separately announced December thermostat features remain planned.",
+      "tags": [
+        "Consumer electronics, wearables & smart homes"
+      ],
+      "title": "Google announces November Gemini for Home and camera-alert updates",
+      "url": "https://rasesolutions.com/ai/consumer-electronics-wearables-smart-homes/gemini-for-home"
     },
     {
       "_rase": {
@@ -1045,488 +1532,6 @@
       ],
       "title": "Matrix Robotics reports its MATRIX-3 tour-guide demonstration",
       "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/matrix-3-humanoid-ciie-tour-guide"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-11"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Announcing the general availability of MCP server for Red Hat Enterprise Linux",
-            "url": "https://www.redhat.com/en/blog/announcing-general-availability-mcp-server-red-hat-enterprise-linux"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the public release.\n\nVerified development date: 2026-11-11 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:40Z.\nEvidence: Announcing the general availability of MCP server for Red Hat Enterprise Linux — https://www.redhat.com/en/blog/announcing-general-availability-mcp-server-red-hat-enterprise-linux",
-      "date_published": "2026-11-17T20:57:40Z",
-      "external_url": "https://www.redhat.com/en/blog/announcing-general-availability-mcp-server-red-hat-enterprise-linux",
-      "id": "urn:rase:ai:record:RSI-CAL-015",
-      "summary": "The cited source documents the public release.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "MCP server for Red Hat Enterprise Linux public release documented",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/mcp-server-for-red-hat-enterprise-linux"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-11"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "SwitchX 3.0: four references, moving backgrounds | Beeble Updates",
-            "url": "https://beeble.ai/updates/2026-11-11-switchx-3"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the public release.\n\nVerified development date: 2026-11-11 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:40Z.\nEvidence: SwitchX 3.0: four references, moving backgrounds | Beeble Updates — https://beeble.ai/updates/2026-11-11-switchx-3",
-      "date_published": "2026-11-17T20:57:40Z",
-      "external_url": "https://beeble.ai/updates/2026-11-11-switchx-3",
-      "id": "urn:rase:ai:record:RSI-CAL-021",
-      "summary": "The cited source documents the public release.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "SwitchX 3.0 public release documented",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/switchx-3-0"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-11"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing ERNIE 5.5 Flash Preview · ERNIE",
-            "url": "https://ernie.baidu.com/release/ernie-5-5-flash-preview/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-11 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: Introducing ERNIE 5.5 Flash Preview · ERNIE — https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
-      "id": "urn:rase:ai:record:RSI-P-060",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "ERNIE 5.5 Flash Preview announced",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/ernie-5-5-flash-preview"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-11"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research | MiniMax",
-            "url": "https://www.minimax.io/blog/minimax-h3-image"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-11 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research | MiniMax — https://www.minimax.io/blog/minimax-h3-image",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://www.minimax.io/blog/minimax-h3-image",
-      "id": "urn:rase:ai:record:RSI-P-064",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "MiniMax H3-Image announced",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/minimax-h3-image"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-10"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing AI Skills in Coworker: Turn Your Best Practices Into Reusable Workflows - Salesforce",
-            "url": "https://www.salesforce.com/blog/ai-skills-in-coworker/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the public release.\n\nVerified development date: 2026-11-10 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: Introducing AI Skills in Coworker: Turn Your Best Practices Into Reusable Workflows - Salesforce — https://www.salesforce.com/blog/ai-skills-in-coworker/",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://www.salesforce.com/blog/ai-skills-in-coworker/",
-      "id": "urn:rase:ai:record:RSI-CAL-036",
-      "summary": "The cited source documents the public release.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "Agentforce Coworker (AI Skills) public release documented",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/agentforce-coworker-ai-skills"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-10"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing Scribe v3 and v3 Live, our most accurate speech to text models",
-            "url": "https://elevenlabs.io/blog/scribe-v3"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_profile_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-10 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nPublic content reviewed/published: 2026-11-17T23:49:48Z.\nEvidence: Introducing Scribe v3 and v3 Live, our most accurate speech to text models — https://elevenlabs.io/blog/scribe-v3",
-      "date_modified": "2026-11-17T23:49:48Z",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://elevenlabs.io/blog/scribe-v3",
-      "id": "urn:rase:ai:record:RSI-P-063",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "ElevenLabs Scribe v3 / v3 Live announced",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/elevenlabs-scribe-v3-v3-live"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-10"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Just a moment...",
-            "url": "https://ifm.ai/pan2/press-release/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The developer published the PAN 2 world model and accompanying research materials on 10 November 2026.\n\nVerified development date: 2026-11-10 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: Just a moment... — https://ifm.ai/pan2/press-release/",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://ifm.ai/pan2/press-release/",
-      "id": "urn:rase:ai:record:RSI-P-065",
-      "summary": "The developer published the PAN 2 world model and accompanying research materials on 10 November 2026.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "Institute of Foundation Models released PAN 2",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/pan-2-world-model"
-    },
-    {
-      "_rase": {
-        "event_type": "research_disclosure",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-10"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "pi-H3: Video Generation in 2–4 Steps Without a VAE Decoder",
-            "url": "https://hanshengchen.com/blog/pi-h3/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_profile_publication"
-      },
-      "content_text": "The cited publication dates disclosure of the research.\n\nVerified development date: 2026-11-10 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nPublic content reviewed/published: 2026-11-18T00:00:13Z.\nEvidence: pi-H3: Video Generation in 2–4 Steps Without a VAE Decoder — https://hanshengchen.com/blog/pi-h3/",
-      "date_modified": "2026-11-18T00:00:13Z",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://hanshengchen.com/blog/pi-h3/",
-      "id": "urn:rase:ai:record:RSI-P-066",
-      "summary": "The cited publication dates disclosure of the research.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "pi-H3 fast video generation research disclosed",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/pi-h3-fast-video-generation"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-10"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "The Zebra Launches Insurance MCP Integration for AI Agents",
-            "url": "https://www.thezebra.com/about/press-center/mcp-integration-ai-agents/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-10 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: The Zebra Launches Insurance MCP Integration for AI Agents — https://www.thezebra.com/about/press-center/mcp-integration-ai-agents/",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://www.thezebra.com/about/press-center/mcp-integration-ai-agents/",
-      "id": "urn:rase:ai:record:RSI-P-073",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "The Zebra insurance MCP server announced",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/the-zebra-insurance-mcp-server"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-10"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Gemini Robotics 2.5: Accelerating Physical Intelligence — Google DeepMind",
-            "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-10 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: Gemini Robotics 2.5: Accelerating Physical Intelligence — Google DeepMind — https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "id": "urn:rase:ai:record:RSI-P-084",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Robotics, humanoids, household robots & physical AI"
-      ],
-      "title": "Gemini Robotics 2.5 announced",
-      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/gemini-robotics-2-5"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-09"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "K-EXAONE 2.5 API Available for Free - LG AI Research News",
-            "url": "https://www.lgresearch.ai/news/view?seq=755"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-09 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:40Z.\nEvidence: K-EXAONE 2.5 API Available for Free - LG AI Research News — https://www.lgresearch.ai/news/view?seq=755",
-      "date_published": "2026-11-17T20:57:40Z",
-      "external_url": "https://www.lgresearch.ai/news/view?seq=755",
-      "id": "urn:rase:ai:record:RSI-CAL-012",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "K-EXAONE 2.5 announced",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/k-exaone-2-5"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-09"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing TPU 8tx and TPU 8i Max",
-            "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-09 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: Introducing TPU 8tx and TPU 8i Max — https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-      "id": "urn:rase:ai:record:RSI-CAL-048",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "Google TPU 8tx and TPU 8i Max announced",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/google-tpu-8tx-and-tpu-8i-max"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-09"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 \\ Anthropic",
-            "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-09 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: Introducing Claude Fable 5.2 and Claude Mythos 5.2 \\ Anthropic — https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "id": "urn:rase:ai:record:RSI-P-057",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "Claude Fable 5.2 and Claude Mythos 5.2 announced",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/claude-fable-5-2-and-claude-mythos-5-2"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-09"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-            "url": "https://research.meta.ai/blog/muse-ember"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-09 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: Introducing Our Smallest, Most Efficient Model: Muse Ember — https://research.meta.ai/blog/muse-ember",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://research.meta.ai/blog/muse-ember",
-      "id": "urn:rase:ai:record:RSI-P-058",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "Muse Ember announced",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/muse-ember"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-09"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Seed News - ByteDance Seed Team",
-            "url": "https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-09 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: Seed News - ByteDance Seed Team — https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5",
-      "id": "urn:rase:ai:record:RSI-P-085",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "Seedream 5.5 announced",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/seedream-5-5"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-06"
-        },
-        "sources": [
-          {
-            "kind": "independent",
-            "title": "TYM unveils level-3 autonomous tractor at Daegu farm machinery expo - The Herald Business",
-            "url": "https://biz.heraldcorp.com/article/10928286"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_profile_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-06 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nPublic content reviewed/published: 2026-11-18T00:00:13Z.\nEvidence: TYM unveils level-3 autonomous tractor at Daegu farm machinery expo - The Herald Business — https://biz.heraldcorp.com/article/10928286",
-      "date_modified": "2026-11-18T00:00:13Z",
-      "date_published": "2026-11-17T20:57:41Z",
-      "id": "urn:rase:ai:record:RSI-P-082",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Transportation, manufacturing, agriculture & energy"
-      ],
-      "title": "TYM Level-3 autonomous tractor announced",
-      "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/tym-level-3-autonomous-tractor"
     }
   ],
   "language": "en",
