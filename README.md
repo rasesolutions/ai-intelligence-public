@@ -51,3 +51,4 @@ Changes to the validator, workflow or publication policy require a pull request 
 See [Repository administration](ADMIN.md) for the no-bypass branch rules, required CI, token permissions and remaining manual setup considerations.
 
 Rase's original editorial summaries link to supporting evidence. Linked third-party publications retain their respective rights. This repository does not copy third-party articles or imagery.
+
