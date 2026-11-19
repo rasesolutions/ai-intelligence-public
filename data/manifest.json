@@ -1,19 +1,19 @@
 {
-  "captured_at_utc": "2026-11-18T22:08:28Z",
-  "content_sha256": "402ce98fd342ae289e70d8f416c395e8b63089e324c6134bf6fd28a736a5abe3",
-  "date_bounds": {
-    "earliest": {
-      "certainty": "verified",
-      "precision": "day",
-      "value": "2026-11-06"
-    },
-    "latest": {
-      "certainty": "verified",
-      "precision": "day",
-      "value": "2026-11-18"
-    }
-  },
-  "item_count": 50,
-  "publication_scope": "Public feed profiles",
-  "source_url": "https://rasesolutions.com/ai/feed.json"
+   "captured_at_utc": "2026-11-18T22:08:28Z",
+   "content_sha256": "402ce98fd342ae289e70d8f416c395e8b63089e324c6134bf6fd28a736a5abe3",
+   "date_bounds": {
+      "earliest": {
+         "certainty": "verified",
+         "precision": "day",
+         "value": "2026-11-06"
+      },
+      "latest": {
+         "certainty": "verified",
+         "precision": "day",
+         "value": "2026-11-18"
+      }
+   },
+   "item_count": 50,
+   "publication_scope": "Public feed profiles",
+   "source_url": "https://rasesolutions.com/ai/feed.json"
 }
