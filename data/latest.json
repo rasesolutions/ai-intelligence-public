@@ -11,6 +11,76 @@
   "items": [
     {
       "_rase": {
+        "event_type": "legal_milestone",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-19"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Addressing Remote Access to Advanced Semiconductors",
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm"
+          },
+          {
+            "kind": "primary",
+            "title": "Federal Register document 2026-23529",
+            "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The interim final rule is published and becomes effective on November 19.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: Addressing Remote Access to Advanced Semiconductors — https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm\nEvidence: Federal Register document 2026-23529 — https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
+      "date_published": "2026-11-19T14:14:46Z",
+      "external_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm",
+      "id": "urn:rase:ai:record:RSI-REC-ad912db69c0eccb541da839c",
+      "summary": "The interim final rule is published and becomes effective on November 19.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "BIS remote advanced-compute rule becomes effective",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/bis-remote-advanced-compute-controls"
+    },
+    {
+      "_rase": {
+        "event_type": "public_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-19"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Ribera AI announces funding and the launch of BrokerBot 2.0",
+            "url": "https://www.prnewswire.com/news-releases/on-the-heels-of-its-15-000-nar-nxt-pitch-battle-win-brokerbot-announces-additional-funding-and-the-launch-of-brokerbot-2-0--302944736.html"
+          },
+          {
+            "kind": "primary",
+            "title": "BrokerBot: AI teammates for real estate brokerages",
+            "url": "https://brokerbot.ai/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Ribera AI announced an updated real estate AI platform connected to organizational documents, tools and workflows; access details require a company walkthrough.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: Ribera AI announces funding and the launch of BrokerBot 2.0 — https://www.prnewswire.com/news-releases/on-the-heels-of-its-15-000-nar-nxt-pitch-battle-win-brokerbot-announces-additional-funding-and-the-launch-of-brokerbot-2-0--302944736.html\nEvidence: BrokerBot: AI teammates for real estate brokerages — https://brokerbot.ai/",
+      "date_published": "2026-11-19T14:14:46Z",
+      "external_url": "https://www.prnewswire.com/news-releases/on-the-heels-of-its-15-000-nar-nxt-pitch-battle-win-brokerbot-announces-additional-funding-and-the-launch-of-brokerbot-2-0--302944736.html",
+      "id": "urn:rase:ai:record:RSI-REC-d438e5df3912b66a52538943",
+      "summary": "Ribera AI announced an updated real estate AI platform connected to organizational documents, tools and workflows; access details require a company walkthrough.",
+      "tags": [
+        "Business, finance, sales & productivity"
+      ],
+      "title": "BrokerBot announces version 2.0 for real estate organizations",
+      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/brokerbot-2-0"
+    },
+    {
+      "_rase": {
         "event_type": "announcement",
         "original_event_date": {
           "certainty": "verified",
@@ -38,6 +108,36 @@
       ],
       "title": "Anthropic prices its initial public offering at $83 per share",
       "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/anthropic-initial-public-offering-pricing"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Research acceleration: The jagged frontier",
+            "url": "https://openai.com/index/research-acceleration-jagged-frontier/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "An internal observational report describes uneven agent assistance across research tasks.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: Research acceleration: The jagged frontier — https://openai.com/index/research-acceleration-jagged-frontier/",
+      "date_published": "2026-11-19T14:14:46Z",
+      "external_url": "https://openai.com/index/research-acceleration-jagged-frontier/",
+      "id": "urn:rase:ai:record:RSI-REC-4a2e1c33694fc9d9a3313806",
+      "summary": "An internal observational report describes uneven agent assistance across research tasks.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "OpenAI publishes updated research-acceleration measurements",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/openai-research-acceleration-report"
     },
     {
       "_rase": {
@@ -141,6 +241,71 @@
         "sources": [
           {
             "kind": "primary",
+            "title": "OpenAI ChatGPT release notes for November 18, 2026",
+            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+          },
+          {
+            "kind": "primary",
+            "title": "Using ChatGPT for accounting work",
+            "url": "https://help.openai.com/en/articles/20001709-using-chatgpt-for-accounting-work"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The Accounting plugin supports preparation of reconciliations, invoice entries and reports, subject to desktop setup, workspace eligibility and human review.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: OpenAI ChatGPT release notes for November 18, 2026 — https://help.openai.com/en/articles/6825453-chatgpt-release-notes\nEvidence: Using ChatGPT for accounting work — https://help.openai.com/en/articles/20001709-using-chatgpt-for-accounting-work",
+      "date_published": "2026-11-19T14:14:46Z",
+      "external_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "id": "urn:rase:ai:record:RSI-REC-213cd5d949a23e7414244fc3",
+      "summary": "The Accounting plugin supports preparation of reconciliations, invoice entries and reports, subject to desktop setup, workspace eligibility and human review.",
+      "tags": [
+        "Business, finance, sales & productivity"
+      ],
+      "title": "OpenAI announces Accounting workflows in ChatGPT",
+      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/chatgpt-accounting-plugin"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Machine learning-driven regulation of the four-electron LiOH pathway in lithium–oxygen batteries with prolonged cycling",
+            "url": "https://www.nature.com/articles/s41467-026-79335-6"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The accepted study reports computational screening and lithium-oxygen battery experiments.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: Machine learning-driven regulation of the four-electron LiOH pathway in lithium–oxygen batteries with prolonged cycling — https://www.nature.com/articles/s41467-026-79335-6",
+      "date_published": "2026-11-19T14:14:46Z",
+      "external_url": "https://www.nature.com/articles/s41467-026-79335-6",
+      "id": "urn:rase:ai:record:RSI-REC-eb68ec0fbf021948d7737def",
+      "summary": "The accepted study reports computational screening and lithium-oxygen battery experiments.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Journal publishes machine-learning-guided battery catalyst study",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/machine-learning-guided-lithium-oxygen-catalyst-study"
+    },
+    {
+      "_rase": {
+        "event_type": "public_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
             "title": "Google introduces Gemini 4 Neon",
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
           }
@@ -159,6 +324,36 @@
       ],
       "title": "Google begins Gemini 4 Neon rollout",
       "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/gemini-4-neon"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Managing frontier AI risk: From training to deployment",
+            "url": "https://openai.com/index/managing-frontier-ai-risk/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "A company report explains stated safeguards at three deployment stages.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: Managing frontier AI risk: From training to deployment — https://openai.com/index/managing-frontier-ai-risk/",
+      "date_published": "2026-11-19T14:14:46Z",
+      "external_url": "https://openai.com/index/managing-frontier-ai-risk/",
+      "id": "urn:rase:ai:record:RSI-REC-95aad603e648485cdf1f6867",
+      "summary": "A company report explains stated safeguards at three deployment stages.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "OpenAI publishes model-lifecycle risk-management account",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/openai-frontier-model-risk-management-report"
     },
     {
       "_rase": {
@@ -222,6 +417,96 @@
     },
     {
       "_rase": {
+        "event_type": "preview_opened",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Announcing Public Preview of Guest RDMA for Azure Boost",
+            "url": "https://techcommunity.microsoft.com/blog/azurecompute/announcing-public-preview-of-guest-rdma-for-azure-boost/4573027"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Microsoft announced Guest RDMA preview for supported Azure Boost virtual machines, including data movement for AI training and inference infrastructure.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: Announcing Public Preview of Guest RDMA for Azure Boost — https://techcommunity.microsoft.com/blog/azurecompute/announcing-public-preview-of-guest-rdma-for-azure-boost/4573027",
+      "date_published": "2026-11-19T14:14:46Z",
+      "external_url": "https://techcommunity.microsoft.com/blog/azurecompute/announcing-public-preview-of-guest-rdma-for-azure-boost/4573027",
+      "id": "urn:rase:ai:record:RSI-REC-92ac89cb4994735441253821",
+      "summary": "Microsoft announced Guest RDMA preview for supported Azure Boost virtual machines, including data movement for AI training and inference infrastructure.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "Azure opens Guest RDMA public preview",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/azure-boost-guest-rdma"
+    },
+    {
+      "_rase": {
+        "event_type": "commercial_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Amazon OpenSearch Memory is now generally available",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS launched managed persistent agent memory in five Regions, with searchable interactions, derived memories and configurable access and expiration.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: Amazon OpenSearch Memory is now generally available — https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/",
+      "date_published": "2026-11-19T14:14:46Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/",
+      "id": "urn:rase:ai:record:RSI-REC-fe7b2e2234cb98292cb3f936",
+      "summary": "AWS launched managed persistent agent memory in five Regions, with searchable interactions, derived memories and configurable access and expiration.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "Amazon OpenSearch Memory reaches general availability",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/amazon-opensearch-memory"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Humyn Labs Raises USD 47M in Series A",
+            "url": "https://humynlabs.ai/blog/humyn-labs-raises-usd-47m-in-series-a"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The company's original announcement identifies equity and debt financing for data infrastructure.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: Humyn Labs Raises USD 47M in Series A — https://humynlabs.ai/blog/humyn-labs-raises-usd-47m-in-series-a",
+      "date_published": "2026-11-19T14:14:46Z",
+      "external_url": "https://humynlabs.ai/blog/humyn-labs-raises-usd-47m-in-series-a",
+      "id": "urn:rase:ai:record:RSI-REC-cc5b741ac34c8e91085aa850",
+      "summary": "The company's original announcement identifies equity and debt financing for data infrastructure.",
+      "tags": [
+        "Robotics, humanoids, household robots & physical AI"
+      ],
+      "title": "Humyn announces physical AI financing and expansion plans",
+      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/humyn-labs-physical-ai-data-infrastructure"
+    },
+    {
+      "_rase": {
         "event_type": "first_access",
         "original_event_date": {
           "certainty": "verified",
@@ -279,6 +564,71 @@
       ],
       "title": "Microsoft announces managed Foundry IQ private preview",
       "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/managed-foundry-iq-resources"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "ROCm 10.2.0: Advancing Performance, Stability, and Developer Experience",
+            "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-10.2-blog/README.html"
+          },
+          {
+            "kind": "primary",
+            "title": "ROCm Core SDK 10.2.0 release notes",
+            "url": "https://rocm.docs.amd.com/en/latest/about/release-notes.html"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The existing ROCm stack receives framework, platform and developer-tool updates.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: ROCm 10.2.0: Advancing Performance, Stability, and Developer Experience — https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-10.2-blog/README.html\nEvidence: ROCm Core SDK 10.2.0 release notes — https://rocm.docs.amd.com/en/latest/about/release-notes.html",
+      "date_published": "2026-11-19T14:14:46Z",
+      "external_url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-10.2-blog/README.html",
+      "id": "urn:rase:ai:record:RSI-REC-e80ba1e8fc65f8aa287f9b55",
+      "summary": "The existing ROCm stack receives framework, platform and developer-tool updates.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "AMD releases ROCm 10.2.0",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amd-rocm"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-18"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Physics-informed offline reinforcement learning reduces worst-case fuel risk in maritime routing",
+            "url": "https://www.nature.com/articles/s41598-026-79923-y"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The research evaluates modeled fuel risk using historical maritime data.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: Physics-informed offline reinforcement learning reduces worst-case fuel risk in maritime routing — https://www.nature.com/articles/s41598-026-79923-y",
+      "date_published": "2026-11-19T14:14:46Z",
+      "external_url": "https://www.nature.com/articles/s41598-026-79923-y",
+      "id": "urn:rase:ai:record:RSI-REC-73781e69b6565084769322fa",
+      "summary": "The research evaluates modeled fuel risk using historical maritime data.",
+      "tags": [
+        "Transportation, manufacturing, agriculture & energy"
+      ],
+      "title": "Journal publishes Pier offline routing study",
+      "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/pier-maritime-routing-research"
     },
     {
       "_rase": {
@@ -1200,338 +1550,6 @@
       ],
       "title": "NVIDIA Rubin HPC announced",
       "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/nvidia-rubin-hpc"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-16"
-        },
-        "sources": [
-          {
-            "kind": "independent",
-            "title": "Intel Shares First Benchmarks of Its Next-Gen Crescent Island \"D270\" GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 A",
-            "url": "https://wccftech.com/intel-first-benchmarks-crescent-island-d270-xe3p-gpu-a-5-9x-faster-rtx-pro-6000-fp64/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_profile_publication"
-      },
-      "content_text": "The cited source documents the dated update.\n\nVerified development date: 2026-11-16 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nPublic content reviewed/published: 2026-11-17T23:56:16Z.\nEvidence: Intel Shares First Benchmarks of Its Next-Gen Crescent Island \"D270\" GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 A — https://wccftech.com/intel-first-benchmarks-crescent-island-d270-xe3p-gpu-a-5-9x-faster-rtx-pro-6000-fp64/",
-      "date_modified": "2026-11-17T23:56:16Z",
-      "date_published": "2026-11-17T20:57:41Z",
-      "id": "urn:rase:ai:record:RSI-P-078",
-      "summary": "The cited source documents the dated update.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "Intel Crescent Island (D270) GPU update documented",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/intel-crescent-island-d270-gpu"
-    },
-    {
-      "_rase": {
-        "event_type": "research_disclosure",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-16"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Less Data, Faster Discovery: Researchers Rethink AI’s Role in Developing New Materials | News",
-            "url": "https://www.mtu.edu/news/2026/11/less-data-faster-discovery-researchers-rethink-ais-role-in-developing-new-materials.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited publication dates disclosure of the research.\n\nVerified development date: 2026-11-16 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: Less Data, Faster Discovery: Researchers Rethink AI’s Role in Developing New Materials | News — https://www.mtu.edu/news/2026/11/less-data-faster-discovery-researchers-rethink-ais-role-in-developing-new-materials.html",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://www.mtu.edu/news/2026/11/less-data-faster-discovery-researchers-rethink-ais-role-in-developing-new-materials.html",
-      "id": "urn:rase:ai:record:RSI-P-080",
-      "summary": "The cited publication dates disclosure of the research.",
-      "tags": [
-        "Education, research & scientific discovery"
-      ],
-      "title": "Data-efficient ML for materials property prediction research disclosed",
-      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/data-efficient-ml-for-materials-property-prediction"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-16"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Pony.ai and Toyota launch driverless commercial service with the Gen-7 bZ4X Robotaxi",
-            "url": "https://blog.pony.ai/pony-ai-and-toyota-launch-fully-driverless-commercial-services-with-gen-7-bz4x-robotaxi/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_profile_publication"
-      },
-      "content_text": "Pony.ai's 16 November announcement confirms that customers can hail the jointly developed Toyota bZ4X in its Guangzhou deployment.\n\nVerified development date: 2026-11-16 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nPublic content reviewed/published: 2026-11-17T23:56:19Z.\nEvidence: Pony.ai and Toyota launch driverless commercial service with the Gen-7 bZ4X Robotaxi — https://blog.pony.ai/pony-ai-and-toyota-launch-fully-driverless-commercial-services-with-gen-7-bz4x-robotaxi/",
-      "date_modified": "2026-11-17T23:56:19Z",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://blog.pony.ai/pony-ai-and-toyota-launch-fully-driverless-commercial-services-with-gen-7-bz4x-robotaxi/",
-      "id": "urn:rase:ai:record:RSI-P-114",
-      "summary": "Pony.ai's 16 November announcement confirms that customers can hail the jointly developed Toyota bZ4X in its Guangzhou deployment.",
-      "tags": [
-        "Transportation, manufacturing, agriculture & energy"
-      ],
-      "title": "Pony.ai launched Gen-7 bZ4X robotaxi service in Guangzhou",
-      "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/pony-ai-robotaxi"
-    },
-    {
-      "_rase": {
-        "event_type": "research_disclosure",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-16"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "An open agentic AI co-scientist for clinical and biomedical discovery | Nature Medicine",
-            "url": "https://www.nature.com/articles/s41591-026-04808-6"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Nature Medicine publishes the OpenScientist paper.\n\nVerified development date: 2026-11-16 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:42Z.\nEvidence: An open agentic AI co-scientist for clinical and biomedical discovery | Nature Medicine — https://www.nature.com/articles/s41591-026-04808-6",
-      "date_published": "2026-11-17T20:57:42Z",
-      "external_url": "https://www.nature.com/articles/s41591-026-04808-6",
-      "id": "urn:rase:ai:record:RSI-P-254",
-      "summary": "Nature Medicine publishes the OpenScientist paper.",
-      "tags": [
-        "Education, research & scientific discovery"
-      ],
-      "title": "Nature Medicine publishes the OpenScientist paper",
-      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/openscientist"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-15"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "GitHub - meituan-longcat/LongCat-Video · GitHub",
-            "url": "https://github.com/meituan-longcat/LongCat-Video"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the public release.\n\nVerified development date: 2026-11-15 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: GitHub - meituan-longcat/LongCat-Video · GitHub — https://github.com/meituan-longcat/LongCat-Video",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://github.com/meituan-longcat/LongCat-Video",
-      "id": "urn:rase:ai:record:RSI-P-068",
-      "summary": "The cited source documents the public release.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "LongCat-Video-Avatar 1.6 public release documented",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/longcat-video-avatar-1-6"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-13"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "GitHub release metadata for rust-v0.169.0",
-            "url": "https://api.github.com/repos/openai/codex/releases/tags/rust-v0.169.0"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "OpenAI's official repository records publication of the Codex CLI v0.169.0 release at 08:37 UTC.\n\nVerified development date: 2026-11-13 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: GitHub release metadata for rust-v0.169.0 — https://api.github.com/repos/openai/codex/releases/tags/rust-v0.169.0",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://api.github.com/repos/openai/codex/releases/tags/rust-v0.169.0",
-      "id": "urn:rase:ai:record:RSI-P-071",
-      "summary": "OpenAI's official repository records publication of the Codex CLI v0.169.0 release at 08:37 UTC.",
-      "tags": [
-        "AI software development & programming"
-      ],
-      "title": "Codex CLI v0.169.0 published",
-      "url": "https://rasesolutions.com/ai/ai-software-development-programming/openai-codex-cli"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-12"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_profile_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-12 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:40Z.\nPublic content reviewed/published: 2026-11-17T23:40:29Z.\nEvidence: Introducing Gemini 4 Hydrogen for Agentic Workflows — https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "date_modified": "2026-11-17T23:40:29Z",
-      "date_published": "2026-11-17T20:57:40Z",
-      "external_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "id": "urn:rase:ai:record:RSI-CAL-010",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "Gemini 4 Hydrogen announced",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/gemini-4-hydrogen"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-12"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Intelligent eyewear collections with Gemini features",
-            "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-12 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: Intelligent eyewear collections with Gemini features — https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
-      "id": "urn:rase:ai:record:RSI-CAL-041",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Consumer electronics, wearables & smart homes"
-      ],
-      "title": "Intelligent Eyewear with Gemini (Android XR collections) announced",
-      "url": "https://rasesolutions.com/ai/consumer-electronics-wearables-smart-homes/intelligent-eyewear-with-gemini-android-xr-collections"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-12"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "AMD Advances the Instinct MI400 Series for AI - AMD Newsroom",
-            "url": "https://newsroom.amd.com/news/amd-advances-instinct-mi400-series-ai-scientific-computing/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-12 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: AMD Advances the Instinct MI400 Series for AI - AMD Newsroom — https://newsroom.amd.com/news/amd-advances-instinct-mi400-series-ai-scientific-computing/",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://newsroom.amd.com/news/amd-advances-instinct-mi400-series-ai-scientific-computing/",
-      "id": "urn:rase:ai:record:RSI-CAL-049",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "AMD Instinct MI450X announced",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amd-instinct-mi450x"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-12"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "We Wrote About MCP’s Risks. Then We Built a Server. | Thread AI",
-            "url": "https://www.threadai.com/resources/introducing-lemma-mcp-server"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-12 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nEvidence: We Wrote About MCP’s Risks. Then We Built a Server. | Thread AI — https://www.threadai.com/resources/introducing-lemma-mcp-server",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://www.threadai.com/resources/introducing-lemma-mcp-server",
-      "id": "urn:rase:ai:record:RSI-P-074",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "Lemma MCP server announced",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/lemma-mcp-server"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-11"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Access Denied",
-            "url": "https://www.globenewswire.com/news-release/2026/11/11/3400917/0/en/matrix-robotics-matrix-3-makes-its-ciie-debut-as-a-humanoid-tour-guide-in-a-real-world-setting-for-the-first-time.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Matrix Robotics issued its announcement on November 11, describing an earlier demonstration at the Shanghai expo. This is the report date.\n\nVerified development date: 2026-11-11 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:40Z.\nEvidence: Access Denied — https://www.globenewswire.com/news-release/2026/11/11/3400917/0/en/matrix-robotics-matrix-3-makes-its-ciie-debut-as-a-humanoid-tour-guide-in-a-real-world-setting-for-the-first-time.html",
-      "date_published": "2026-11-17T20:57:40Z",
-      "external_url": "https://www.globenewswire.com/news-release/2026/11/11/3400917/0/en/matrix-robotics-matrix-3-makes-its-ciie-debut-as-a-humanoid-tour-guide-in-a-real-world-setting-for-the-first-time.html",
-      "id": "urn:rase:ai:record:RSI-CAL-006",
-      "summary": "Matrix Robotics issued its announcement on November 11, describing an earlier demonstration at the Shanghai expo. This is the report date.",
-      "tags": [
-        "Robotics, humanoids, household robots & physical AI"
-      ],
-      "title": "Matrix Robotics reports its MATRIX-3 tour-guide demonstration",
-      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/matrix-3-humanoid-ciie-tour-guide"
     }
   ],
   "language": "en",
