@@ -1,0 +1,54 @@
+name: Validate public snapshot
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - name: Check out the proposed changes
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+
+      - name: Test the public-data safeguards
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Validate the committed public feed
+        run: python3 tools/update_public_snapshot.py --input data/latest.json --check
+
+      - name: Verify the manifest matches the committed bytes
+        run: |
+          python3 - <<'PY'
+          import datetime as dt
+          import hashlib
+          import importlib.util
+          import json
+          from pathlib import Path
+          import tempfile
+          spec = importlib.util.spec_from_file_location('snapshot', Path('tools/update_public_snapshot.py'))
+          snapshot = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(snapshot)
+          feed_bytes = Path('data/latest.json').read_bytes()
+          feed = json.loads(feed_bytes)
+          manifest = json.loads(Path('data/manifest.json').read_bytes(), object_pairs_hook=snapshot.pairs)
+          assert manifest['content_sha256'] == hashlib.sha256(feed_bytes).hexdigest(), 'Manifest hash mismatch'
+          assert type(manifest['item_count']) is int and manifest['item_count'] == len(feed['items']), 'Manifest count mismatch'
+          capture = snapshot.timestamp(manifest['captured_at_utc'])
+          assert capture <= dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), 'Future capture time'
+          with tempfile.TemporaryDirectory() as folder:
+              snapshot.update(Path(folder), Path('data/latest.json'))
+              expected = json.loads((Path(folder) / 'manifest.json').read_bytes())
+          expected['captured_at_utc'] = capture
+          assert manifest == expected, 'Unexpected manifest metadata'
+          print('Committed public feed and manifest match.')
+          PY
