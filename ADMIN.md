@@ -8,7 +8,7 @@ Apply the reviewed `.github/branch-protection.json` configuration to `main`: req
 
 For initial setup, first merge the founder-approved bootstrap PR with passing CI, then apply protection immediately. CODEOWNERS must exist on the base branch before GitHub can enforce it. Verify the CODEOWNERS errors API, branch-setting readback, an unmerged data-only probe and an unmerged code-change probe. Never add a temporary broad bypass to work around a bootstrap or review failure.
 
-`@raakesh-blokhra` currently owns code and has repository write access. An author cannot approve their own GitHub PR. Future code PRs authored under that same account need another eligible code owner, or must be independently authored for the owner to review. Adding reviewers/teams and their repository access is an administrator task; do not invent a reviewer identity or self-approve through automation.
+`@raakesh-blokhra` currently owns code and has repository write access. An author cannot submit an approving review on their own GitHub PR. In the verified zero-general-approvals configuration, a founder-authored fix could merge normally after CI without a self-review submission; a bot-authored PR that also changed README remained blocked for owner review after CI passed. CODEOWNERS does not establish a separate independent reviewer for the owner's own changes. If that additional separation is required, an administrator must establish another eligible code owner or independent PR author. Do not invent a reviewer identity, submit a false approval or add a bypass.
 
 ## Actions permissions and completion
 
