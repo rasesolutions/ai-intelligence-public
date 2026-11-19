@@ -34,6 +34,7 @@ class Proposals(unittest.TestCase):
         self.git_calls = []
         self.api_calls = []
         self.changes = True
+        self.remote_url = f"https://github.com/{proposal.REPOSITORY}.git"
         self.proposals = []
         self.branch_exists = False
         self.closed = []
@@ -63,7 +64,7 @@ class Proposals(unittest.TestCase):
     def git(self, repo, *arguments):
         self.git_calls.append(arguments)
         if arguments in (("remote", "get-url", "origin"), ("remote", "get-url", "--push", "--all", "origin")):
-            return f"https://github.com/{proposal.REPOSITORY}.git"
+            return self.remote_url
         if arguments[:2] == ("diff", "--name-only"):
             return "\n".join(proposal.FILES) if self.changes else ""
         if arguments == ("rev-parse", "HEAD"):
@@ -114,6 +115,21 @@ class Proposals(unittest.TestCase):
         self.assertEqual(proposal.propose(self.repo, BASE)["state"], "noop")
         self.assertEqual(self.writes(), [])
         self.assertFalse(any(method != "GET" for _, method, *_ in self.api_calls))
+
+    def test_actions_checkout_remote_without_git_suffix_can_propose(self):
+        self.remote_url = f"https://github.com/{proposal.REPOSITORY}"
+        result = proposal.propose(self.repo, BASE)
+        self.assertEqual(result["state"], "created")
+        self.assertEqual(len([call for call in self.git_calls if "push" in call]), 1)
+
+    def test_other_hosts_repositories_and_multiple_push_urls_are_rejected(self):
+        for value in ("https://github.com/another/repo", "https://evil.example/" + proposal.REPOSITORY,
+                      f"https://github.com/{proposal.REPOSITORY}.git\nhttps://evil.example/repo"):
+            self.remote_url = value
+            with self.assertRaises(proposal.PublicationError):
+                proposal.propose(self.repo, BASE)
+        self.assertEqual(self.writes(), [])
+        self.assertEqual(self.api_calls, [])
 
     def test_unexpected_worktree_is_rejected_before_network_or_writes(self):
         proposal.guard.verify_worktree.side_effect = proposal.guard.GuardError("Safe rejection")

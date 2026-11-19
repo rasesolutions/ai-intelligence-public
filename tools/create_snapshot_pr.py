@@ -184,9 +184,10 @@ def propose(repo, base_sha, probe=False):
     repo = Path(repo).resolve()
     valid_sha(base_sha)
     require(bool(os.environ.get("GH_TOKEN")))
-    expected_remote = f"https://github.com/{REPOSITORY}.git"
-    require(git(repo, "remote", "get-url", "origin") == expected_remote)
-    require(git(repo, "remote", "get-url", "--push", "--all", "origin") == expected_remote)
+    # actions/checkout uses the canonical HTTPS URL without the optional .git suffix.
+    expected_remotes = {f"https://github.com/{REPOSITORY}", f"https://github.com/{REPOSITORY}.git"}
+    require(git(repo, "remote", "get-url", "origin") in expected_remotes)
+    require(git(repo, "remote", "get-url", "--push", "--all", "origin") in expected_remotes)
     guard.verify_worktree(repo, base_sha)
     contents = pair(repo)
     source_sha = validate_pair(contents)
