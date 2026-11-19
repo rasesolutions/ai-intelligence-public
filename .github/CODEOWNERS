@@ -1,0 +1,7 @@
+# Every code, policy and workflow path requires owner review.
+* @raakesh-blokhra
+
+# Already-approved public snapshots still require a PR and passing CI.
+# These exact paths have no code owner; all other paths retain the owner.
+/data/latest.json
+/data/manifest.json

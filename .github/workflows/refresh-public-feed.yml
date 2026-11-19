@@ -2,6 +2,11 @@ name: Refresh public feed
 
 on:
   workflow_dispatch:
+    inputs:
+      verification_probe:
+        description: Open an unmerged verification PR using metadata formatting only
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -17,52 +22,58 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: write
+      pull-requests: write
     steps:
-      - name: Check out the public snapshot
+      - name: Check out the reviewed public snapshot code
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           ref: main
           fetch-depth: 1
           persist-credentials: false
 
-      - name: Test the public-data validator
+      - name: Pin the starting commit
+        id: base
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Test the public-data and Git safeguards
         run: python3 -m unittest discover -s tests -v
 
       - name: Refresh from the public feed
         run: python3 tools/update_public_snapshot.py --output-dir data
 
-      - name: Publish a changed snapshot
-        shell: bash
+      - name: Prepare verification-only metadata formatting
+        if: inputs.verification_probe
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          path = Path('data/manifest.json')
+          manifest = json.loads(path.read_bytes())
+          path.write_text(json.dumps(manifest, ensure_ascii=False, sort_keys=True, indent=3) + '\n', encoding='utf-8')
+          PY
+
+      - name: Propose a validated data-only PR
         env:
           GH_TOKEN: ${{ github.token }}
+          SNAPSHOT_BASE: ${{ steps.base.outputs.sha }}
+          VERIFICATION_PROBE: ${{ inputs.verification_probe }}
         run: |
           set -euo pipefail
-          git add -- data/latest.json data/manifest.json
-          while IFS= read -r -d '' snapshot_path; do
-            case "$snapshot_path" in
-              data/latest.json|data/manifest.json) ;;
-              *) echo "Refusing an unexpected staged path." >&2; exit 1 ;;
-            esac
-          done < <(git diff --cached --name-only -z)
-          if git diff --cached --quiet; then
-            echo "Verified public content is unchanged; no commit needed."
-            exit 0
+          snapshot_args=(--base-sha "$SNAPSHOT_BASE")
+          if [[ "$VERIFICATION_PROBE" == "true" ]]; then
+            snapshot_args+=(--verification-probe)
           fi
-          git config user.name "Rase public feed snapshot"
-          git config user.email "snapshot@users.noreply.github.com"
-          git commit -m "Refresh approved public AI developments"
-          git -c credential.helper= -c 'credential.helper=!gh auth git-credential' push origin HEAD:main
+          python3 tools/create_snapshot_pr.py "${snapshot_args[@]}" > "$RUNNER_TEMP/public-snapshot-pr.json"
 
-      - name: Summarize the verified capture
+      - name: Summarize the verified proposal
         run: |
           python3 - <<'PY' >> "$GITHUB_STEP_SUMMARY"
           import json
+          import os
           from pathlib import Path
-          manifest = json.loads(Path('data/manifest.json').read_text(encoding='utf-8'))
-          print('Public feed validation succeeded.')
-          print('')
-          print('The saved capture manifest:')
+          proposal = json.loads((Path(os.environ['RUNNER_TEMP']) / 'public-snapshot-pr.json').read_text())
+          print('Validated public-data proposal (no direct push to main):')
           print('```json')
-          print(json.dumps(manifest, indent=2, ensure_ascii=False))
+          print(json.dumps(proposal, indent=2, ensure_ascii=False))
           print('```')
           PY
