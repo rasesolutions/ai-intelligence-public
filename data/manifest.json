@@ -1,11 +1,11 @@
 {
-  "captured_at_utc": "2026-11-19T14:16:37Z",
-  "content_sha256": "16b2872230ed1b19a256896ba39f642ee15606393e6d23ae01fff0cfb7ebc24f",
+  "captured_at_utc": "2026-11-20T01:19:04Z",
+  "content_sha256": "312f555f0a2741ecc56575f0454906e0ee7f531385ee2bafb137500469c1feae",
   "date_bounds": {
     "earliest": {
       "certainty": "verified",
       "precision": "day",
-      "value": "2026-11-16"
+      "value": "2026-11-17"
     },
     "latest": {
       "certainty": "verified",
