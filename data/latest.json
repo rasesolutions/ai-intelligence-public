@@ -11,6 +11,262 @@
   "items": [
     {
       "_rase": {
+        "event_type": "policy_milestone",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Government response: Human Rights and the Regulation of AI",
+            "url": "https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/219105/government-response-human-rights-and-the-regulation-of-ai/"
+          },
+          {
+            "kind": "primary",
+            "title": "2nd Special Report - Human Rights and the Regulation of AI: Government Response",
+            "url": "https://api.parliament.uk/committees/publications/55901"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "A new response publication follows the earlier committee report; proposed reforms are not enacted law.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: Government response: Human Rights and the Regulation of AI — https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/219105/government-response-human-rights-and-the-regulation-of-ai/\nEvidence: 2nd Special Report - Human Rights and the Regulation of AI: Government Response — https://api.parliament.uk/committees/publications/55901",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/219105/government-response-human-rights-and-the-regulation-of-ai/",
+      "id": "urn:rase:ai:record:RSI-REC-c6cb1643fbcd766b8f4831fd",
+      "summary": "A new response publication follows the earlier committee report; proposed reforms are not enacted law.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "Parliament publishes government response to AI human-rights report",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/uk-human-rights-ai-regulation-scrutiny"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "nference Enters Long-Term Partnership with Cedars-Sinai to Develop AI-Enabled Platform for Advancing Clinical Research and Patient Care",
+            "url": "https://www.prnewswire.com/news-releases/nference-enters-long-term-partnership-with-cedars-sinai-to-develop-ai-enabled-platform-for-advancing-clinical-research-and-patient-care-302946419.html"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The partners plan infrastructure for de-identified multimodal clinical research.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: nference Enters Long-Term Partnership with Cedars-Sinai to Develop AI-Enabled Platform for Advancing Clinical Research and Patient Care — https://www.prnewswire.com/news-releases/nference-enters-long-term-partnership-with-cedars-sinai-to-develop-ai-enabled-platform-for-advancing-clinical-research-and-patient-care-302946419.html",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://www.prnewswire.com/news-releases/nference-enters-long-term-partnership-with-cedars-sinai-to-develop-ai-enabled-platform-for-advancing-clinical-research-and-patient-care-302946419.html",
+      "id": "urn:rase:ai:record:RSI-REC-4801b8707fd11ec039c57e04",
+      "summary": "The partners plan infrastructure for de-identified multimodal clinical research.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "nference announces Cedars-Sinai research-data collaboration",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/nference-cedars-sinai-clinical-research-platform-partnership"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Danaher Collaborates with Microsoft to Make Scientific Instruments Agentically Connected and Laboratories More Intelligent",
+            "url": "https://www.prnewswire.com/news-releases/danaher-collaborates-with-microsoft-to-make-scientific-instruments-agentically-connected-and-laboratories-more-intelligent-302946263.html"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The platform is under development, with staged commercial applications and later instruments planned.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: Danaher Collaborates with Microsoft to Make Scientific Instruments Agentically Connected and Laboratories More Intelligent — https://www.prnewswire.com/news-releases/danaher-collaborates-with-microsoft-to-make-scientific-instruments-agentically-connected-and-laboratories-more-intelligent-302946263.html",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://www.prnewswire.com/news-releases/danaher-collaborates-with-microsoft-to-make-scientific-instruments-agentically-connected-and-laboratories-more-intelligent-302946263.html",
+      "id": "urn:rase:ai:record:RSI-REC-dd510804f77f59f03512714a",
+      "summary": "The platform is under development, with staged commercial applications and later instruments planned.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Danaher announces Microsoft partnership for agent-enabled instruments",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/danaher-microsoft-agentic-laboratory-instruments-partnership"
+    },
+    {
+      "_rase": {
+        "event_type": "legal_milestone",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "OpenAI Usage policies, effective November 20, 2026",
+            "url": "https://openai.com/policies/usage-policies/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The provider policy reaches its stated effective date; the earlier October announcement remains separate.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: OpenAI Usage policies, effective November 20, 2026 — https://openai.com/policies/usage-policies/",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://openai.com/policies/usage-policies/",
+      "id": "urn:rase:ai:record:RSI-REC-ebc44fdc0bfb0d6bc05d672e",
+      "summary": "The provider policy reaches its stated effective date; the earlier October announcement remains separate.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "OpenAI October usage-policy amendments become effective",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/openai-usage-policies-october-2026-update"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "System of agentic AI for the discovery of metal–organic frameworks",
+            "url": "https://www.nature.com/articles/s43588-026-01058-x"
+          },
+          {
+            "kind": "primary",
+            "title": "System of Agentic AI for the Discovery of Metal-Organic Frameworks",
+            "url": "https://arxiv.org/abs/2504.14110"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The journal article connects generated structures with feasibility checks and selected synthesis experiments.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: System of agentic AI for the discovery of metal–organic frameworks — https://www.nature.com/articles/s43588-026-01058-x\nEvidence: System of Agentic AI for the Discovery of Metal-Organic Frameworks — https://arxiv.org/abs/2504.14110",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://www.nature.com/articles/s43588-026-01058-x",
+      "id": "urn:rase:ai:record:RSI-REC-4a3dc27e9d841959ed894d1f",
+      "summary": "The journal article connects generated structures with feasibility checks and selected synthesis experiments.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Journal publishes MOFGen agentic materials-discovery study",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/mofgen-materials-discovery-research"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "A multimodal foundation model for molecular and morphologic data in oncology",
+            "url": "https://www.nature.com/articles/s43018-026-01252-w"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The paper evaluates molecularly guided whole-slide representations on oncology research tasks.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: A multimodal foundation model for molecular and morphologic data in oncology — https://www.nature.com/articles/s43018-026-01252-w",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://www.nature.com/articles/s43018-026-01252-w",
+      "id": "urn:rase:ai:record:RSI-REC-c4fdc1267c643dc00256b9a5",
+      "summary": "The paper evaluates molecularly guided whole-slide representations on oncology research tasks.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "Journal publishes THREADS multimodal oncology study",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/threads-oncology-foundation-model-research"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Anthropic announces closing of initial public offering and concurrent private placement",
+            "url": "https://www.anthropic.com/news/ipo-close"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "The company reports completed closing, distinct from earlier pricing and trading milestones.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nPublic content reviewed/published: 2026-11-20T14:10:20Z.\nEvidence: Anthropic announces closing of initial public offering and concurrent private placement — https://www.anthropic.com/news/ipo-close",
+      "date_modified": "2026-11-20T14:10:20Z",
+      "date_published": "2026-11-19T01:27:02Z",
+      "external_url": "https://www.anthropic.com/news/ipo-close",
+      "id": "urn:rase:ai:record:RSI-REC-236a56a4169fdc687d240bde",
+      "summary": "The company reports completed closing, distinct from earlier pricing and trading milestones.",
+      "tags": [
+        "Business, finance, sales & productivity"
+      ],
+      "title": "Anthropic confirms closing of IPO and concurrent private placement",
+      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/anthropic-initial-public-offering-pricing"
+    },
+    {
+      "_rase": {
+        "event_type": "policy_milestone",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "New AI guidance to cut paperwork and free more time for care",
+            "url": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care"
+          },
+          {
+            "kind": "primary",
+            "title": "Artificial intelligence (AI) in social care",
+            "url": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The guidance covers children's and adults' social care in England, emphasizing governance, data protection and professional oversight.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: New AI guidance to cut paperwork and free more time for care — https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care\nEvidence: Artificial intelligence (AI) in social care — https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care",
+      "id": "urn:rase:ai:record:RSI-REC-2eacccdad986cf51963af446",
+      "summary": "The guidance covers children's and adults' social care in England, emphasizing governance, data protection and professional oversight.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "Departments publish non-statutory social-care AI guidance for England",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/ai-guidance-for-social-care-in-england"
+    },
+    {
+      "_rase": {
         "event_type": "public_release",
         "original_event_date": {
           "certainty": "verified",
@@ -38,6 +294,66 @@
       ],
       "title": "Everee launches a payroll assistant with confirmation before changes",
       "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/ask-everee"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-19"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AWS Marketplace now supports agentic payments with AgentCore",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS announced agentic per-request Marketplace payments with account billing and customer-defined transaction controls.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: AWS Marketplace now supports agentic payments with AgentCore — https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
+      "id": "urn:rase:ai:record:RSI-REC-4b7eda0af019c4563a6600a1",
+      "summary": "AWS announced agentic per-request Marketplace payments with account billing and customer-defined transaction controls.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "AWS connects Marketplace purchases with AgentCore payments",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/aws-marketplace-agentic-payments"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-19"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "SageMaker AI detects response-time, GPU-use and configuration issues",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-monitors-endpoints/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS announced inference-endpoint monitoring and recommendation workflows with customer-controlled application of changes.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: SageMaker AI detects response-time, GPU-use and configuration issues — https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-monitors-endpoints/",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-monitors-endpoints/",
+      "id": "urn:rase:ai:record:RSI-REC-f734c3be29b36cd0600a87f1",
+      "summary": "AWS announced inference-endpoint monitoring and recommendation workflows with customer-controlled application of changes.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "SageMaker adds monitoring for inference slowdowns and idle GPUs",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-sagemaker-ai-inference-endpoint-monitoring"
     },
     {
       "_rase": {
@@ -241,6 +557,36 @@
         "sources": [
           {
             "kind": "primary",
+            "title": "AWS AppConfig launches native AI model and prompt configurations",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-appconfig-native-ai-model-invocation-prompt-configurations/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS announced two AI-specific configuration profile types with gradual rollout and alarm-driven rollback.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: AWS AppConfig launches native AI model and prompt configurations — https://aws.amazon.com/about-aws/whats-new/2026/11/aws-appconfig-native-ai-model-invocation-prompt-configurations/",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-appconfig-native-ai-model-invocation-prompt-configurations/",
+      "id": "urn:rase:ai:record:RSI-REC-93531f701c646066d12726f7",
+      "summary": "AWS announced two AI-specific configuration profile types with gradual rollout and alarm-driven rollback.",
+      "tags": [
+        "AI software development & programming"
+      ],
+      "title": "AppConfig adds versioned model and prompt configurations",
+      "url": "https://rasesolutions.com/ai/ai-software-development-programming/aws-appconfig-ai-configuration-profiles"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-19"
+        },
+        "sources": [
+          {
+            "kind": "primary",
             "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
             "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/"
           }
@@ -262,7 +608,7 @@
     },
     {
       "_rase": {
-        "event_type": "significant_update",
+        "event_type": "commercial_release",
         "original_event_date": {
           "certainty": "verified",
           "precision": "day",
@@ -271,25 +617,24 @@
         "sources": [
           {
             "kind": "primary",
-            "title": "Anthropic Marks its IPO at Nasdaq",
-            "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq"
+            "title": "Amazon Polly now supports voice cloning",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-polly-now-supports-voice-cloning/"
           }
         ],
         "summary_scope": "event",
         "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_event_publication"
+        "website_update_scope": "profile_first_publication"
       },
-      "content_text": "The exchange confirms the November 19 trading debut, following the prior pricing announcement.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nPublic content reviewed/published: 2026-11-20T01:17:14Z.\nEvidence: Anthropic Marks its IPO at Nasdaq — https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
-      "date_modified": "2026-11-20T01:17:14Z",
-      "date_published": "2026-11-19T01:27:02Z",
-      "external_url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
-      "id": "urn:rase:ai:record:RSI-REC-236a56a4169fdc687d240bde",
-      "summary": "The exchange confirms the November 19 trading debut, following the prior pricing announcement.",
+      "content_text": "AWS announced selected-customer access to Polly voice cloning, with a request process and language restrictions.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: Amazon Polly now supports voice cloning — https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-polly-now-supports-voice-cloning/",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-polly-now-supports-voice-cloning/",
+      "id": "urn:rase:ai:record:RSI-REC-c0b01cd9d2de9a4eb4db5dbf",
+      "summary": "AWS announced selected-customer access to Polly voice cloning, with a request process and language restrictions.",
       "tags": [
-        "Business, finance, sales & productivity"
+        "Generative video, audio, images, design & creative tools"
       ],
-      "title": "Anthropic begins trading on Nasdaq",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/anthropic-initial-public-offering-pricing"
+      "title": "Amazon Polly introduces gated access to voice cloning",
+      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/amazon-polly-voice-cloning"
     },
     {
       "_rase": {
@@ -351,6 +696,66 @@
       ],
       "title": "Google opens Genie 4 access through the Gemini API",
       "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/project-genie-with-genie-4"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-19"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "RADIN Health announces RADINA and a planned RSNA unveiling",
+            "url": "https://www.prnewswire.com/news-releases/radin-health-unveils-radina-the-autonomous-ai-ecosystem-for-imaging-at-rsna-2026-302946222.html"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "RADIN announced an imaging workflow platform and Concierge component, with an official unveiling planned for November29.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: RADIN Health announces RADINA and a planned RSNA unveiling — https://www.prnewswire.com/news-releases/radin-health-unveils-radina-the-autonomous-ai-ecosystem-for-imaging-at-rsna-2026-302946222.html",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://www.prnewswire.com/news-releases/radin-health-unveils-radina-the-autonomous-ai-ecosystem-for-imaging-at-rsna-2026-302946222.html",
+      "id": "urn:rase:ai:record:RSI-REC-b957718b745267c8645cd4a0",
+      "summary": "RADIN announced an imaging workflow platform and Concierge component, with an official unveiling planned for November29.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "RADIN announces RADINA ahead of a planned RSNA demonstration",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/radina-imaging-workflow-platform"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-19"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AWS Transform automates source and migration target actions",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS announced centrally managed preparation and post-launch actions for migration plans.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: AWS Transform automates source and migration target actions — https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
+      "id": "urn:rase:ai:record:RSI-REC-b227f0e3044021c8bbcb0475",
+      "summary": "AWS announced centrally managed preparation and post-launch actions for migration plans.",
+      "tags": [
+        "AI software development & programming"
+      ],
+      "title": "AWS Transform adds reusable migration preparation actions",
+      "url": "https://rasesolutions.com/ai/ai-software-development-programming/aws-transform-migration-source-actions"
     },
     {
       "_rase": {
@@ -416,6 +821,36 @@
       ],
       "title": "Natural adds card-payment acceptance for business agents",
       "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/natural-accept"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-19"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AWS Marketplace agent mode helps assess, buy and deploy solutions",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS announced expanded agent-mode procurement and deployment workflows with explicit confirmation steps.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: AWS Marketplace agent mode helps assess, buy and deploy solutions — https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion/",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion/",
+      "id": "urn:rase:ai:record:RSI-REC-d00b29c81d2ecf7a29745ecb",
+      "summary": "AWS announced expanded agent-mode procurement and deployment workflows with explicit confirmation steps.",
+      "tags": [
+        "Business, finance, sales & productivity"
+      ],
+      "title": "AWS Marketplace agent mode adds purchasing and deployment assistance",
+      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/aws-marketplace-agent-mode"
     },
     {
       "_rase": {
@@ -551,6 +986,76 @@
       ],
       "title": "Gemini API previews on-demand tool schema retrieval",
       "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/gemini-api-tool-retrieval"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-19"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Dongwoon Anatech Enters Robot Motion Control Market, Powering the Future of Physical AI",
+            "url": "https://www.prnewswire.com/news-releases/dongwoon-anatech-enters-robot-motion-control-market-powering-the-future-of-physical-ai-302943847.html"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The chipmaker describes development plans for actuation and power-control components.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: Dongwoon Anatech Enters Robot Motion Control Market, Powering the Future of Physical AI — https://www.prnewswire.com/news-releases/dongwoon-anatech-enters-robot-motion-control-market-powering-the-future-of-physical-ai-302943847.html",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://www.prnewswire.com/news-releases/dongwoon-anatech-enters-robot-motion-control-market-powering-the-future-of-physical-ai-302943847.html",
+      "id": "urn:rase:ai:record:RSI-REC-c1090902e205908e88a6f8a6",
+      "summary": "The chipmaker describes development plans for actuation and power-control components.",
+      "tags": [
+        "Robotics, humanoids, household robots & physical AI"
+      ],
+      "title": "Dongwoon Anatech announces robotics motion-control expansion",
+      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/dongwoon-anatech-robotics-motion-control-business"
+    },
+    {
+      "_rase": {
+        "event_type": "public_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-19"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "OpenAI API changelog",
+            "url": "https://developers.openai.com/api/docs/changelog"
+          },
+          {
+            "kind": "primary",
+            "title": "GPT-Live-1.1 model documentation",
+            "url": "https://developers.openai.com/api/docs/models/gpt-live-1.1"
+          },
+          {
+            "kind": "primary",
+            "title": "OpenAI ChatGPT release notes for November 18, 2026",
+            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Developer API access and WebRTC standby are documented in the November19 changelog, distinct from earlier ChatGPT availability.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: OpenAI API changelog — https://developers.openai.com/api/docs/changelog\nEvidence: GPT-Live-1.1 model documentation — https://developers.openai.com/api/docs/models/gpt-live-1.1\nEvidence: OpenAI ChatGPT release notes for November 18, 2026 — https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date_published": "2026-11-20T14:10:20Z",
+      "external_url": "https://developers.openai.com/api/docs/changelog",
+      "id": "urn:rase:ai:record:RSI-REC-59ee2d826c728d269ec335a9",
+      "summary": "Developer API access and WebRTC standby are documented in the November19 changelog, distinct from earlier ChatGPT availability.",
+      "tags": [
+        "Foundation models, assistants & multimodal AI"
+      ],
+      "title": "OpenAI makes GPT-Live-1.1 available in the API",
+      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/gpt-live-1-1-api"
     },
     {
       "_rase": {
@@ -1071,498 +1576,6 @@
       ],
       "title": "Journal publishes Pier offline routing study",
       "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/pier-maritime-routing-research"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-18"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "OpenAI and Le Groupe Figaro announce a publishing partnership",
-            "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The agreement covers article discovery through summaries, excerpts and links.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-18T19:15:06Z.\nEvidence: OpenAI and Le Groupe Figaro announce a publishing partnership — https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership/",
-      "date_published": "2026-11-18T19:15:06Z",
-      "external_url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership/",
-      "id": "urn:rase:ai:record:RSI-NEWS-20261118-003",
-      "summary": "The agreement covers article discovery through summaries, excerpts and links.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "Le Groupe Figaro and OpenAI announce their partnership",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/openai-and-le-groupe-figaro-publishing-partnership"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-18"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Google expands Gemini to eligible lower-memory Android devices",
-            "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The availability update brings Gemini features to supported lower-memory devices.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-18T19:15:06Z.\nEvidence: Google expands Gemini to eligible lower-memory Android devices — https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "date_published": "2026-11-18T19:15:06Z",
-      "external_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "id": "urn:rase:ai:record:RSI-NEWS-20261118-007",
-      "summary": "The availability update brings Gemini features to supported lower-memory devices.",
-      "tags": [
-        "Consumer electronics, wearables & smart homes"
-      ],
-      "title": "Google expands the Gemini app to eligible Android Go phones",
-      "url": "https://rasesolutions.com/ai/consumer-electronics-wearables-smart-homes/gemini-app-for-eligible-android-go-devices"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-18"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Google Labs introduces Stitch Loop",
-            "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The product agent begins with waitlist access for interested teams.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-18T19:15:06Z.\nEvidence: Google Labs introduces Stitch Loop — https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
-      "date_published": "2026-11-18T19:15:06Z",
-      "external_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
-      "id": "urn:rase:ai:record:RSI-NEWS-20261118-008",
-      "summary": "The product agent begins with waitlist access for interested teams.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "Google Labs announces Stitch Loop and opens its waitlist",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/stitch-loop"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-18"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Meta announces the Loblaw connector and Muse voice rollout in Canada",
-            "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The connector supports shopping through participating Loblaw banners.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-18T19:15:06Z.\nEvidence: Meta announces the Loblaw connector and Muse voice rollout in Canada — https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
-      "date_published": "2026-11-18T19:15:06Z",
-      "external_url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
-      "id": "urn:rase:ai:record:RSI-NEWS-20261118-009",
-      "summary": "The connector supports shopping through participating Loblaw banners.",
-      "tags": [
-        "Consumer electronics, wearables & smart homes"
-      ],
-      "title": "Meta announces the Loblaw connector for Muse in Canada",
-      "url": "https://rasesolutions.com/ai/consumer-electronics-wearables-smart-homes/muse-loblaw-shopping-connector-in-canada"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-18"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Commons committee report: Guardrails for growth: AI safety and security",
-            "url": "https://publications.parliament.uk/pa/cm5902/cmselect/cmbeis/689/report.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The report recommends legislation, oversight and incident reporting.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-18T19:15:06Z.\nEvidence: Commons committee report: Guardrails for growth: AI safety and security — https://publications.parliament.uk/pa/cm5902/cmselect/cmbeis/689/report.html",
-      "date_published": "2026-11-18T19:15:06Z",
-      "external_url": "https://publications.parliament.uk/pa/cm5902/cmselect/cmbeis/689/report.html",
-      "id": "urn:rase:ai:record:RSI-NEWS-20261118-010",
-      "summary": "The report recommends legislation, oversight and incident reporting.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "Commons committee publishes its AI safety and security report",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/guardrails-for-growth-ai-safety-and-security"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-18"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Ofqual letter on AI in assessments and wearable technology",
-            "url": "https://www.gov.uk/government/publications/letter-to-awarding-organisations-about-misuse-of-ai-and-wearable-technology/letter-to-awarding-organisations-about-artificial-intelligence-in-non-exam-assessments-and-misuse-of-wearable-technology"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The regulator sets out planned coursework proposals and exam-board requests.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-18T19:15:06Z.\nEvidence: Ofqual letter on AI in assessments and wearable technology — https://www.gov.uk/government/publications/letter-to-awarding-organisations-about-misuse-of-ai-and-wearable-technology/letter-to-awarding-organisations-about-artificial-intelligence-in-non-exam-assessments-and-misuse-of-wearable-technology",
-      "date_published": "2026-11-18T19:15:06Z",
-      "external_url": "https://www.gov.uk/government/publications/letter-to-awarding-organisations-about-misuse-of-ai-and-wearable-technology/letter-to-awarding-organisations-about-artificial-intelligence-in-non-exam-assessments-and-misuse-of-wearable-technology",
-      "id": "urn:rase:ai:record:RSI-NEWS-20261118-011",
-      "summary": "The regulator sets out planned coursework proposals and exam-board requests.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "Ofqual publishes its letter on AI and wearable technology",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/ofqual-letter-on-ai-assessments-and-wearables"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-17"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Attorney General James Announces Creation of AI Safety, Standards, Enforcement, and Transparency Unit",
-            "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-announces-creation-ai-safety-standards-enforcement-and"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_profile_publication"
-      },
-      "content_text": "The cited source documents the announcement.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nPublic content reviewed/published: 2026-11-17T22:49:52Z.\nEvidence: Attorney General James Announces Creation of AI Safety, Standards, Enforcement, and Transparency Unit — https://ag.ny.gov/press-release/2026/attorney-general-james-announces-creation-ai-safety-standards-enforcement-and",
-      "date_modified": "2026-11-17T22:49:52Z",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-announces-creation-ai-safety-standards-enforcement-and",
-      "id": "urn:rase:ai:record:RSI-CAL-056",
-      "summary": "The cited source documents the announcement.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "NY Attorney General AI Safety, Standards, Enforcement and Transparency Unit announced",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/ny-attorney-general-ai-safety-standards-enforcement-and-transparency-unit"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-17"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Google announces expanded Tasks in Gemini features",
-            "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The November 17 update starts a six-country free rollout, with additional advanced capabilities beginning in the United States and future integrations separately identified as plans.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Google announces expanded Tasks in Gemini features — https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "date_published": "2026-11-19T01:27:02Z",
-      "external_url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "id": "urn:rase:ai:record:RSI-REC-07d6792140d6feac7ce16b8e",
-      "summary": "The November 17 update starts a six-country free rollout, with additional advanced capabilities beginning in the United States and future integrations separately identified as plans.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "Google expands free Tasks in Gemini access",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/tasks-in-gemini"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-17"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Google introduces temporary threads in Search AI Mode",
-            "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The browser feature separates a temporary AI Mode conversation from account history and personalization as it rolls out globally in supported languages.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Google introduces temporary threads in Search AI Mode — https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
-      "date_published": "2026-11-19T01:27:02Z",
-      "external_url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
-      "id": "urn:rase:ai:record:RSI-REC-d8f8cb874f80add952ca30b8",
-      "summary": "The browser feature separates a temporary AI Mode conversation from account history and personalization as it rolls out globally in supported languages.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "Google announces temporary threads in Search AI Mode",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/google-search-ai-mode-temporary-threads"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-17"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Genesis AI announces its $500 million Series A",
-            "url": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Genesis AI announced a $500 million Series A at a $3.5 billion post-money valuation to support its robotics platform and planned Eno deployments.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Genesis AI announces its $500 million Series A — https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
-      "date_published": "2026-11-19T01:27:02Z",
-      "external_url": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
-      "id": "urn:rase:ai:record:RSI-REC-3f2223ce4cdbc6712b93cd09",
-      "summary": "Genesis AI announced a $500 million Series A at a $3.5 billion post-money valuation to support its robotics platform and planned Eno deployments.",
-      "tags": [
-        "Robotics, humanoids, household robots & physical AI"
-      ],
-      "title": "Genesis AI raises $500 million for its robotics platform",
-      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/genesis-ai-and-eno-robotics-platform"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-17"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "ROBOTERA expands deployment across China Post's Guangdong network",
-            "url": "https://www.prnewswire.com/news-releases/robotera-expands-humanoid-robot-deployment-across-china-posts-guangdong-network-reaching-eight-cities-province-wide-302941865.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "ROBOTERA says its humanoid parcel-handling deployment now spans 11 China Post hubs in eight Guangdong cities, expanding a pilot that began in March 2026.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: ROBOTERA expands deployment across China Post's Guangdong network — https://www.prnewswire.com/news-releases/robotera-expands-humanoid-robot-deployment-across-china-posts-guangdong-network-reaching-eight-cities-province-wide-302941865.html",
-      "date_published": "2026-11-19T01:27:02Z",
-      "external_url": "https://www.prnewswire.com/news-releases/robotera-expands-humanoid-robot-deployment-across-china-posts-guangdong-network-reaching-eight-cities-province-wide-302941865.html",
-      "id": "urn:rase:ai:record:RSI-REC-cf4634fda4823556249b9951",
-      "summary": "ROBOTERA says its humanoid parcel-handling deployment now spans 11 China Post hubs in eight Guangdong cities, expanding a pilot that began in March 2026.",
-      "tags": [
-        "Robotics, humanoids, household robots & physical AI"
-      ],
-      "title": "ROBOTERA reports humanoids operating at 11 China Post hubs",
-      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/robotera-china-post-humanoid-parcel-handling-deployment"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-17"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Google announces no-cost personal avatars in Vids",
-            "url": "https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The access expansion lets personal Google account holders create and reuse an avatar of their own likeness in Vids videos.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Google announces no-cost personal avatars in Vids — https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/",
-      "date_published": "2026-11-19T01:27:02Z",
-      "external_url": "https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/",
-      "id": "urn:rase:ai:record:RSI-REC-3f10249fa62462df8334af5c",
-      "summary": "The access expansion lets personal Google account holders create and reuse an avatar of their own likeness in Vids videos.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "Google opens Vids personal avatars to personal accounts at no cost",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/google-vids-personal-avatars"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-17"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Isomorphic Labs announces Series C investment round",
-            "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round"
-          },
-          {
-            "kind": "primary",
-            "title": "Isomorphic Labs November 17 funding release",
-            "url": "https://storage.googleapis.com/isomorphiclabs-website-public-artifacts/ISOMORPHIC_LABS_FUNDING_17-11-26.pdf"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Isomorphic Labs announced $5 billion in Series C funding to expand its AI drug-design engine, therapeutic-candidate programs and bioengineering infrastructure.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Isomorphic Labs announces Series C investment round — https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round\nEvidence: Isomorphic Labs November 17 funding release — https://storage.googleapis.com/isomorphiclabs-website-public-artifacts/ISOMORPHIC_LABS_FUNDING_17-11-26.pdf",
-      "date_published": "2026-11-19T01:27:02Z",
-      "external_url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round",
-      "id": "urn:rase:ai:record:RSI-REC-8552a3c622d47678a383c816",
-      "summary": "Isomorphic Labs announced $5 billion in Series C funding to expand its AI drug-design engine, therapeutic-candidate programs and bioengineering infrastructure.",
-      "tags": [
-        "Education, research & scientific discovery"
-      ],
-      "title": "Isomorphic Labs announces $5 billion Series C funding",
-      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/isomorphic-labs-ai-drug-discovery-platform"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-17"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Google Home November 2026 update and Gemini regional expansion",
-            "url": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_event_publication"
-      },
-      "content_text": "The dated update announces country expansion and audio-aware event descriptions; separately announced December thermostat features remain planned.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:42Z.\nPublic content reviewed/published: 2026-11-19T01:27:02Z.\nEvidence: Google Home November 2026 update and Gemini regional expansion — https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
-      "date_modified": "2026-11-19T01:27:02Z",
-      "date_published": "2026-11-17T20:57:42Z",
-      "external_url": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
-      "id": "urn:rase:ai:record:RSI-P-270",
-      "summary": "The dated update announces country expansion and audio-aware event descriptions; separately announced December thermostat features remain planned.",
-      "tags": [
-        "Consumer electronics, wearables & smart homes"
-      ],
-      "title": "Google announces November Gemini for Home and camera-alert updates",
-      "url": "https://rasesolutions.com/ai/consumer-electronics-wearables-smart-homes/gemini-for-home"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-17"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "OpenAI introduces GPT-6.2 Astra and Sol",
-            "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
-          },
-          {
-            "kind": "primary",
-            "title": "OpenAI API changelog",
-            "url": "https://developers.openai.com/api/docs/changelog"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "OpenAI opens access through ChatGPT Work, Codex and its API.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-18T19:15:06Z.\nEvidence: OpenAI introduces GPT-6.2 Astra and Sol — https://openai.com/index/introducing-gpt-6-2-astra-sol/\nEvidence: OpenAI API changelog — https://developers.openai.com/api/docs/changelog",
-      "date_published": "2026-11-18T19:15:06Z",
-      "external_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "id": "urn:rase:ai:record:RSI-NEWS-20261118-001",
-      "summary": "OpenAI opens access through ChatGPT Work, Codex and its API.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "OpenAI releases GPT-6.2 Astra and Sol",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/gpt-6-2-astra-and-sol"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-17"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "OpenAI introduces ChatGPT for Sales",
-            "url": "https://openai.com/index/introducing-chatgpt-for-sales/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The launch adds dedicated sales workflows and partner plugin connections.\n\nVerified development date: 2026-11-17 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-18T19:15:06Z.\nEvidence: OpenAI introduces ChatGPT for Sales — https://openai.com/index/introducing-chatgpt-for-sales/",
-      "date_published": "2026-11-18T19:15:06Z",
-      "external_url": "https://openai.com/index/introducing-chatgpt-for-sales/",
-      "id": "urn:rase:ai:record:RSI-NEWS-20261118-002",
-      "summary": "The launch adds dedicated sales workflows and partner plugin connections.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "OpenAI introduces ChatGPT for Sales",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/chatgpt-for-sales"
     }
   ],
   "language": "en",

@@ -1,16 +1,16 @@
 {
-  "captured_at_utc": "2026-11-20T01:19:04Z",
-  "content_sha256": "312f555f0a2741ecc56575f0454906e0ee7f531385ee2bafb137500469c1feae",
+  "captured_at_utc": "2026-11-20T14:12:54Z",
+  "content_sha256": "27c66f3c5738d9bd34ca2afdeecad0400ced0cc9b188f8173fc4ed344f9f3df4",
   "date_bounds": {
     "earliest": {
       "certainty": "verified",
       "precision": "day",
-      "value": "2026-11-17"
+      "value": "2026-11-18"
     },
     "latest": {
       "certainty": "verified",
       "precision": "day",
-      "value": "2026-11-19"
+      "value": "2026-11-20"
     }
   },
   "item_count": 50,
