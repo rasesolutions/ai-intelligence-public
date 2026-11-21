@@ -11,6 +11,71 @@
   "items": [
     {
       "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 21 AWS announcement expands the existing web-grounding tool’s languages. Its country-code option is documented as current API context, without treating every location-aware control as newly invented.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Web Search on Amazon Bedrock expands language support and country-aware search — https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
+      "date_published": "2026-11-21T14:12:13Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
+      "id": "urn:rase:ai:record:RSI-REC-896dfc2094c91a70261faa92",
+      "summary": "The November 21 AWS announcement expands the existing web-grounding tool’s languages. Its country-code option is documented as current API context, without treating every location-aware control as newly invented.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "Bedrock Web Search expands to five more languages and non-US English",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/amazon-bedrock-web-search-language-and-country-update"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Large language model surrogates for Bayesian optimization of antibody sequences",
+            "url": "https://www.nature.com/articles/s41598-026-71466-6"
+          },
+          {
+            "kind": "primary",
+            "title": "AbL2BO author implementation",
+            "url": "https://github.com/mogam-ai/AbL2BO"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The journal publication evaluates a language-model surrogate for candidate selection; it does not announce a medicine or clinical result.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Large language model surrogates for Bayesian optimization of antibody sequences — https://www.nature.com/articles/s41598-026-71466-6\nEvidence: AbL2BO author implementation — https://github.com/mogam-ai/AbL2BO",
+      "date_published": "2026-11-21T14:12:13Z",
+      "external_url": "https://www.nature.com/articles/s41598-026-71466-6",
+      "id": "urn:rase:ai:record:RSI-REC-7268345a3fcc105ccaa739cf",
+      "summary": "The journal publication evaluates a language-model surrogate for candidate selection; it does not announce a medicine or clinical result.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "Scientific Reports publishes AbL2BO antibody-optimization research",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/abl2bo-antibody-sequence-optimization-research"
+    },
+    {
+      "_rase": {
         "event_type": "policy_milestone",
         "original_event_date": {
           "certainty": "verified",
@@ -43,6 +108,41 @@
       ],
       "title": "Parliament publishes government response to AI human-rights report",
       "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/uk-human-rights-ai-regulation-scrutiny"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "UK–EU Summit 2026 Joint Statement, paragraph 54",
+            "url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html"
+          },
+          {
+            "kind": "primary",
+            "title": "European Council EU–UK summit main results",
+            "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/20/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 20 summit statement includes possible AI safety/security cooperation in a framework intended for early 2027.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: UK–EU Summit 2026 Joint Statement, paragraph 54 — https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html\nEvidence: European Council EU–UK summit main results — https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/20/",
+      "date_published": "2026-11-21T14:12:13Z",
+      "external_url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html",
+      "id": "urn:rase:ai:record:RSI-REC-f7d385fdfab8bd9251394603",
+      "summary": "The November 20 summit statement includes possible AI safety/security cooperation in a framework intended for early 2027.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "EU and UK announce intention to launch Digital Partnership",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/eu-uk-digital-partnership-plan"
     },
     {
       "_rase": {
@@ -108,6 +208,36 @@
       ],
       "title": "GAO publishes mental-health AI chatbot spotlight",
       "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/gao-ai-chatbots-and-mental-health-spotlight"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Frontier and Center: Why your data agents need a wind tunnel",
+            "url": "https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Google Cloud published a November 20 technical account of an internal simulator that creates synthetic enterprise data and answer keys for evaluating data agents.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Frontier and Center: Why your data agents need a wind tunnel — https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents",
+      "date_published": "2026-11-21T14:12:13Z",
+      "external_url": "https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents",
+      "id": "urn:rase:ai:record:RSI-REC-d8aa13145a6d5b367b34247d",
+      "summary": "Google Cloud published a November 20 technical account of an internal simulator that creates synthetic enterprise data and answer keys for evaluating data agents.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "Google publishes technical account of internal data-agent simulator",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/google-cloud-internal-data-agent-simulator"
     },
     {
       "_rase": {
@@ -366,6 +496,106 @@
     },
     {
       "_rase": {
+        "event_type": "commercial_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Alibaba Cloud Model Studio model releases and updates",
+            "url": "https://docs.modelstudio.console.alibabacloud.com/en/model-studio/newly-released-models"
+          },
+          {
+            "kind": "primary",
+            "title": "Alibaba Cloud Model Studio: Macaron-MindLab",
+            "url": "https://www.alibabacloud.com/help/en/model-studio/macaron-mindlab"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The provider's November 20 release entry documents regional hosted API access. Earlier Macaron variants and the model's original creation date remain separate.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Alibaba Cloud Model Studio model releases and updates — https://docs.modelstudio.console.alibabacloud.com/en/model-studio/newly-released-models\nEvidence: Alibaba Cloud Model Studio: Macaron-MindLab — https://www.alibabacloud.com/help/en/model-studio/macaron-mindlab",
+      "date_published": "2026-11-21T14:12:13Z",
+      "external_url": "https://docs.modelstudio.console.alibabacloud.com/en/model-studio/newly-released-models",
+      "id": "urn:rase:ai:record:RSI-REC-3c7f063212faa809afff0d68",
+      "summary": "The provider's November 20 release entry documents regional hosted API access. Earlier Macaron variants and the model's original creation date remain separate.",
+      "tags": [
+        "Foundation models, assistants & multimodal AI"
+      ],
+      "title": "Macaron V1.1 Venti Pro becomes available in Alibaba Cloud's Singapore deployment",
+      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/macaron-v1-1-venti-pro-on-alibaba-cloud"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AgentCore runtime instances now support Amazon EC2 G7 instances",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-ec2-g7/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS announced G7 instance support in Amazon Bedrock AgentCore runtime instances on November 20, adding a GPU option for agents running rendering and model-inference workloads.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: AgentCore runtime instances now support Amazon EC2 G7 instances — https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-ec2-g7/",
+      "date_published": "2026-11-21T14:12:13Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-ec2-g7/",
+      "id": "urn:rase:ai:record:RSI-REC-5d10ed5e68d2cf5df52daaeb",
+      "summary": "AWS announced G7 instance support in Amazon Bedrock AgentCore runtime instances on November 20, adding a GPU option for agents running rendering and model-inference workloads.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "AgentCore adds EC2 G7 support for runtime instances",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/amazon-bedrock-agentcore-g7-runtime-support"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Zscaler frontier-model provider collaboration announcement",
+            "url": "https://www.zscaler.com/press/zscaler-partners-frontier-model-providers-help-enterprises-safely-embrace-ai-and-stop-ai"
+          },
+          {
+            "kind": "primary",
+            "title": "Zscaler issuer-distributed collaboration release",
+            "url": "https://www.globenewswire.com/news-release/2026/11/20/3407821/0/en/zscaler-partners-with-frontier-model-providers-to-help-enterprises-safely-embrace-ai-and-stop-ai-driven-attacks.html"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The issuer describes Anthropic and Mistral work, while qualifying the Exploit Paths capability as a planned limited preview.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Zscaler frontier-model provider collaboration announcement — https://www.zscaler.com/press/zscaler-partners-frontier-model-providers-help-enterprises-safely-embrace-ai-and-stop-ai\nEvidence: Zscaler issuer-distributed collaboration release — https://www.globenewswire.com/news-release/2026/11/20/3407821/0/en/zscaler-partners-with-frontier-model-providers-to-help-enterprises-safely-embrace-ai-and-stop-ai-driven-attacks.html",
+      "date_published": "2026-11-21T14:12:13Z",
+      "external_url": "https://www.zscaler.com/press/zscaler-partners-frontier-model-providers-help-enterprises-safely-embrace-ai-and-stop-ai",
+      "id": "urn:rase:ai:record:RSI-REC-e173ae51f2b4dce84a078040",
+      "summary": "The issuer describes Anthropic and Mistral work, while qualifying the Exploit Paths capability as a planned limited preview.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "Zscaler announces frontier-model security collaborations",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/zscaler-frontier-model-security-collaborations"
+    },
+    {
+      "_rase": {
         "event_type": "significant_update",
         "original_event_date": {
           "certainty": "verified",
@@ -459,6 +689,41 @@
       ],
       "title": "Journal publishes THREADS multimodal oncology study",
       "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/threads-oncology-foundation-model-research"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Commerce OIG evaluation initiation, project 2027-551",
+            "url": "https://www.oig.doc.gov/evaluation-of-biss-oversight-of-advanced-computing-chip-diversion-and-remote-access-through-overseas-data-centers/"
+          },
+          {
+            "kind": "primary",
+            "title": "Commerce OIG signed initiation memorandum",
+            "url": "https://www.oig.doc.gov/wp-content/OIGPublications/2026-11-20_Evaluation-of-BIS-Controls-Over-Chip-Diversion-and-Remote-Access_Announcement_SECURED.pdf"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 20 memo opens an evaluation of diversion and remote-access controls; it does not report completed findings.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Commerce OIG evaluation initiation, project 2027-551 — https://www.oig.doc.gov/evaluation-of-biss-oversight-of-advanced-computing-chip-diversion-and-remote-access-through-overseas-data-centers/\nEvidence: Commerce OIG signed initiation memorandum — https://www.oig.doc.gov/wp-content/OIGPublications/2026-11-20_Evaluation-of-BIS-Controls-Over-Chip-Diversion-and-Remote-Access_Announcement_SECURED.pdf",
+      "date_published": "2026-11-21T14:12:13Z",
+      "external_url": "https://www.oig.doc.gov/evaluation-of-biss-oversight-of-advanced-computing-chip-diversion-and-remote-access-through-overseas-data-centers/",
+      "id": "urn:rase:ai:record:RSI-REC-bb0027572d09b5329c6b75c7",
+      "summary": "The November 20 memo opens an evaluation of diversion and remote-access controls; it does not report completed findings.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "Commerce OIG initiates advanced-computing oversight evaluation",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/commerce-oig-review-of-advanced-compute-diversion-controls"
     },
     {
       "_rase": {
@@ -658,6 +923,41 @@
     },
     {
       "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Fixstars launches GLM-5.3 on Fixstars Inference Cloud",
+            "url": "https://news.fixstars.com/7618/"
+          },
+          {
+            "kind": "primary",
+            "title": "Fixstars Inference Cloud: Fast, Japan-hosted inference for open-weight models",
+            "url": "https://www.fixstars.com/en/products-services/inference-cloud"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 20 provider release documents direct-contract access to an optimized model. The underlying model predates this service update and FastMetal access remains planned.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Fixstars launches GLM-5.3 on Fixstars Inference Cloud — https://news.fixstars.com/7618/\nEvidence: Fixstars Inference Cloud: Fast, Japan-hosted inference for open-weight models — https://www.fixstars.com/en/products-services/inference-cloud",
+      "date_published": "2026-11-21T14:12:13Z",
+      "external_url": "https://news.fixstars.com/7618/",
+      "id": "urn:rase:ai:record:RSI-REC-10d999abcf0482ba40f48d20",
+      "summary": "The November 20 provider release documents direct-contract access to an optimized model. The underlying model predates this service update and FastMetal access remains planned.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "Fixstars adds GLM-5.3 to its Japan-hosted inference service",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/fixstars-inference-cloud-glm-5-3-access"
+    },
+    {
+      "_rase": {
         "event_type": "policy_milestone",
         "original_event_date": {
           "certainty": "verified",
@@ -732,6 +1032,46 @@
         "sources": [
           {
             "kind": "primary",
+            "title": "TikTok announces more AI-content clarity and control tools",
+            "url": "https://newsroom.tiktok.com/TikTok-more-tools-to-provide-clarity-and-control-around-ai-generated-content?lang=en-150"
+          },
+          {
+            "kind": "primary",
+            "title": "More tools to provide clarity and control around AI-generated content",
+            "url": "https://newsroom.tiktok.com/more-tools-to-provide-clarity-and-control-around-ai-generated-content-CA?lang=en-CA"
+          },
+          {
+            "kind": "primary",
+            "title": "Identify AI-Generated Content",
+            "url": "https://ai-generated-detect.tiktokv-row.com/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The earlier November 19 announcement documents a public provenance checker and staged opt-in likeness rollout. November 20 regional republication is supporting context rather than a second launch.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: TikTok announces more AI-content clarity and control tools — https://newsroom.tiktok.com/TikTok-more-tools-to-provide-clarity-and-control-around-ai-generated-content?lang=en-150\nEvidence: More tools to provide clarity and control around AI-generated content — https://newsroom.tiktok.com/more-tools-to-provide-clarity-and-control-around-ai-generated-content-CA?lang=en-CA\nEvidence: Identify AI-Generated Content — https://ai-generated-detect.tiktokv-row.com/",
+      "date_published": "2026-11-21T14:12:13Z",
+      "external_url": "https://newsroom.tiktok.com/TikTok-more-tools-to-provide-clarity-and-control-around-ai-generated-content?lang=en-150",
+      "id": "urn:rase:ai:record:RSI-REC-8783b686ce27dd15adeeb47b",
+      "summary": "The earlier November 19 announcement documents a public provenance checker and staged opt-in likeness rollout. November 20 regional republication is supporting context rather than a second launch.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "TikTok launches its provenance checker and starts Likeness Detection rollout",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/tiktok-ai-provenance-and-likeness-tools"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-19"
+        },
+        "sources": [
+          {
+            "kind": "primary",
             "title": "AWS Marketplace now supports agentic payments with AgentCore",
             "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/"
           }
@@ -780,6 +1120,46 @@
       ],
       "title": "SageMaker adds monitoring for inference slowdowns and idle GPUs",
       "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-sagemaker-ai-inference-endpoint-monitoring"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-19"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+            "url": "https://arxiv.org/abs/2611.26409"
+          },
+          {
+            "kind": "primary",
+            "title": "Tencent WeMM-Video official repository",
+            "url": "https://github.com/Tencent/WeMM-Video"
+          },
+          {
+            "kind": "primary",
+            "title": "WeMM-Video model collection license and third-party notices",
+            "url": "https://github.com/Tencent/WeMM-Video/blob/main/LICENSE"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The original arXiv v1 submission is November 19, 2026. Later discovery and model-registry activity are not represented as a new November 20 or November 21 commercial launch.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding — https://arxiv.org/abs/2611.26409\nEvidence: Tencent WeMM-Video official repository — https://github.com/Tencent/WeMM-Video\nEvidence: WeMM-Video model collection license and third-party notices — https://github.com/Tencent/WeMM-Video/blob/main/LICENSE",
+      "date_published": "2026-11-21T14:12:13Z",
+      "external_url": "https://arxiv.org/abs/2611.26409",
+      "id": "urn:rase:ai:record:RSI-REC-f0b0ae3f3a1db38949dbf7fe",
+      "summary": "The original arXiv v1 submission is November 19, 2026. Later discovery and model-registry activity are not represented as a new November 20 or November 21 commercial launch.",
+      "tags": [
+        "Foundation models, assistants & multimodal AI"
+      ],
+      "title": "Tencent publishes the WeMM-Video technical report",
+      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/wemm-video"
     },
     {
       "_rase": {
@@ -1256,361 +1636,6 @@
       ],
       "title": "Natural adds card-payment acceptance for business agents",
       "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/natural-accept"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "AWS Marketplace agent mode helps assess, buy and deploy solutions",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "AWS announced expanded agent-mode procurement and deployment workflows with explicit confirmation steps.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: AWS Marketplace agent mode helps assess, buy and deploy solutions — https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion/",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion/",
-      "id": "urn:rase:ai:record:RSI-REC-d00b29c81d2ecf7a29745ecb",
-      "summary": "AWS announced expanded agent-mode procurement and deployment workflows with explicit confirmation steps.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "AWS Marketplace agent mode adds purchasing and deployment assistance",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/aws-marketplace-agent-mode"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Lianlian DigiTech Launches LianLian XWorker, an AI Workforce Platform for Global Commerce",
-            "url": "https://www.prnewswire.com/ae/news-releases/lianlian-digitech-launches-lianlian-xworker-an-ai-workforce-platform-for-global-commerce-302945402.html"
-          },
-          {
-            "kind": "primary",
-            "title": "LianLian XWorker User Service Agreement",
-            "url": "https://ai.lianlianpay.com/agreement"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Lianlian announced XWorker's global-commerce offering; access and commercial execution remain conditional.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: Lianlian DigiTech Launches LianLian XWorker, an AI Workforce Platform for Global Commerce — https://www.prnewswire.com/ae/news-releases/lianlian-digitech-launches-lianlian-xworker-an-ai-workforce-platform-for-global-commerce-302945402.html\nEvidence: LianLian XWorker User Service Agreement — https://ai.lianlianpay.com/agreement",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://www.prnewswire.com/ae/news-releases/lianlian-digitech-launches-lianlian-xworker-an-ai-workforce-platform-for-global-commerce-302945402.html",
-      "id": "urn:rase:ai:record:RSI-REC-2ffa380110f5cf73e0e0f47e",
-      "summary": "Lianlian announced XWorker's global-commerce offering; access and commercial execution remain conditional.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "Lianlian announces XWorker for coordinated business-agent workflows",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/lianlian-xworker"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Ribera AI announces funding and the launch of BrokerBot 2.0",
-            "url": "https://www.prnewswire.com/news-releases/on-the-heels-of-its-15-000-nar-nxt-pitch-battle-win-brokerbot-announces-additional-funding-and-the-launch-of-brokerbot-2-0--302944736.html"
-          },
-          {
-            "kind": "primary",
-            "title": "BrokerBot: AI teammates for real estate brokerages",
-            "url": "https://brokerbot.ai/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Ribera AI announced an updated real estate AI platform connected to organizational documents, tools and workflows; access details require a company walkthrough.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: Ribera AI announces funding and the launch of BrokerBot 2.0 — https://www.prnewswire.com/news-releases/on-the-heels-of-its-15-000-nar-nxt-pitch-battle-win-brokerbot-announces-additional-funding-and-the-launch-of-brokerbot-2-0--302944736.html\nEvidence: BrokerBot: AI teammates for real estate brokerages — https://brokerbot.ai/",
-      "date_published": "2026-11-19T14:14:46Z",
-      "external_url": "https://www.prnewswire.com/news-releases/on-the-heels-of-its-15-000-nar-nxt-pitch-battle-win-brokerbot-announces-additional-funding-and-the-launch-of-brokerbot-2-0--302944736.html",
-      "id": "urn:rase:ai:record:RSI-REC-d438e5df3912b66a52538943",
-      "summary": "Ribera AI announced an updated real estate AI platform connected to organizational documents, tools and workflows; access details require a company walkthrough.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "BrokerBot announces version 2.0 for real estate organizations",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/brokerbot-2-0"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
-            "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/"
-          },
-          {
-            "kind": "primary",
-            "title": "Google Selects Blue Origin’s New Glenn for Project Suncatcher",
-            "url": "https://www.blueorigin.com/news/google-selects-new-glenn-for-project-suncatcher"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "A New Glenn research mission is targeted for Q1 2029; no launch has occurred under this agreement.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch. — https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/\nEvidence: Google Selects Blue Origin’s New Glenn for Project Suncatcher — https://www.blueorigin.com/news/google-selects-new-glenn-for-project-suncatcher",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
-      "id": "urn:rase:ai:record:RSI-REC-ff0fb4b337f59c78e714a2fe",
-      "summary": "A New Glenn research mission is targeted for Q1 2029; no launch has occurred under this agreement.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "Google announces dedicated Suncatcher launch partnership",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/google-project-suncatcher"
-    },
-    {
-      "_rase": {
-        "event_type": "preview_opened",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing Tool Retrieval in the Gemini API",
-            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Google announced a preview that retrieves full tool schemas on demand within agent requests.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: Introducing Tool Retrieval in the Gemini API — https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "id": "urn:rase:ai:record:RSI-REC-a93b2501fa8137b5a01018e4",
-      "summary": "Google announced a preview that retrieves full tool schemas on demand within agent requests.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "Gemini API previews on-demand tool schema retrieval",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/gemini-api-tool-retrieval"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Dongwoon Anatech Enters Robot Motion Control Market, Powering the Future of Physical AI",
-            "url": "https://www.prnewswire.com/news-releases/dongwoon-anatech-enters-robot-motion-control-market-powering-the-future-of-physical-ai-302943847.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The chipmaker describes development plans for actuation and power-control components.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: Dongwoon Anatech Enters Robot Motion Control Market, Powering the Future of Physical AI — https://www.prnewswire.com/news-releases/dongwoon-anatech-enters-robot-motion-control-market-powering-the-future-of-physical-ai-302943847.html",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://www.prnewswire.com/news-releases/dongwoon-anatech-enters-robot-motion-control-market-powering-the-future-of-physical-ai-302943847.html",
-      "id": "urn:rase:ai:record:RSI-REC-c1090902e205908e88a6f8a6",
-      "summary": "The chipmaker describes development plans for actuation and power-control components.",
-      "tags": [
-        "Robotics, humanoids, household robots & physical AI"
-      ],
-      "title": "Dongwoon Anatech announces robotics motion-control expansion",
-      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/dongwoon-anatech-robotics-motion-control-business"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "OpenAI API changelog",
-            "url": "https://developers.openai.com/api/docs/changelog"
-          },
-          {
-            "kind": "primary",
-            "title": "GPT-Live-1.1 model documentation",
-            "url": "https://developers.openai.com/api/docs/models/gpt-live-1.1"
-          },
-          {
-            "kind": "primary",
-            "title": "OpenAI ChatGPT release notes for November 18, 2026",
-            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Developer API access and WebRTC standby are documented in the November19 changelog, distinct from earlier ChatGPT availability.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: OpenAI API changelog — https://developers.openai.com/api/docs/changelog\nEvidence: GPT-Live-1.1 model documentation — https://developers.openai.com/api/docs/models/gpt-live-1.1\nEvidence: OpenAI ChatGPT release notes for November 18, 2026 — https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://developers.openai.com/api/docs/changelog",
-      "id": "urn:rase:ai:record:RSI-REC-59ee2d826c728d269ec335a9",
-      "summary": "Developer API access and WebRTC standby are documented in the November19 changelog, distinct from earlier ChatGPT availability.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "OpenAI makes GPT-Live-1.1 available in the API",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/gpt-live-1-1-api"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-18"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Palo Alto Networks to Acquire Applied Compute, Bringing Secure Open-Weight AI to the Enterprise",
-            "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The proposed transaction remains subject to regulatory clearance and other closing conditions.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: Palo Alto Networks to Acquire Applied Compute, Bringing Secure Open-Weight AI to the Enterprise — https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
-      "id": "urn:rase:ai:record:RSI-REC-de7c82c922b3e40e59dd4d02",
-      "summary": "The proposed transaction remains subject to regulatory clearance and other closing conditions.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "Palo Alto Networks announces Applied Compute acquisition agreement",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/palo-alto-networks-applied-compute-acquisition-agreement"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-18"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Research acceleration: The jagged frontier",
-            "url": "https://openai.com/index/research-acceleration-jagged-frontier/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "An internal observational report describes uneven agent assistance across research tasks.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: Research acceleration: The jagged frontier — https://openai.com/index/research-acceleration-jagged-frontier/",
-      "date_published": "2026-11-19T14:14:46Z",
-      "external_url": "https://openai.com/index/research-acceleration-jagged-frontier/",
-      "id": "urn:rase:ai:record:RSI-REC-4a2e1c33694fc9d9a3313806",
-      "summary": "An internal observational report describes uneven agent assistance across research tasks.",
-      "tags": [
-        "Education, research & scientific discovery"
-      ],
-      "title": "OpenAI publishes updated research-acceleration measurements",
-      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/openai-research-acceleration-report"
-    },
-    {
-      "_rase": {
-        "event_type": "commercial_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-18"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "NVIDIA RTX Spark Compact Desktops Out Now",
-            "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Selected partner desktops become purchasable; other manufacturers remain forthcoming.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: NVIDIA RTX Spark Compact Desktops Out Now — https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
-      "id": "urn:rase:ai:record:RSI-REC-aeb346538955b1213b6eb680",
-      "summary": "Selected partner desktops become purchasable; other manufacturers remain forthcoming.",
-      "tags": [
-        "Consumer electronics, wearables & smart homes"
-      ],
-      "title": "NVIDIA announces RTX Spark compact-desktop availability",
-      "url": "https://rasesolutions.com/ai/consumer-electronics-wearables-smart-homes/nvidia-rtx-spark-compact-desktops"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-18"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Microsoft describes Dragon Copilot 6.0 for nursing",
-            "url": "https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/microsoft-dragon-copilot-brings-ai-to-more-nurses/4574232"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The update adds generally available med-surg templates and Fabric export, alongside public previews for expanded nursing settings, simulation mode and session review.\n\nVerified development date: 2026-11-18 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nEvidence: Microsoft describes Dragon Copilot 6.0 for nursing — https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/microsoft-dragon-copilot-brings-ai-to-more-nurses/4574232",
-      "date_published": "2026-11-19T01:27:02Z",
-      "external_url": "https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/microsoft-dragon-copilot-brings-ai-to-more-nurses/4574232",
-      "id": "urn:rase:ai:record:RSI-REC-e9ddb893b8e4adf61286310e",
-      "summary": "The update adds generally available med-surg templates and Fabric export, alongside public previews for expanded nursing settings, simulation mode and session review.",
-      "tags": [
-        "Healthcare, biotechnology & medical AI"
-      ],
-      "title": "Microsoft announces Dragon Copilot 6.0 nursing updates",
-      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/microsoft-dragon-copilot"
     }
   ],
   "language": "en",
