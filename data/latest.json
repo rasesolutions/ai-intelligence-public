@@ -11,6 +11,121 @@
   "items": [
     {
       "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "A global atlas of digital dermatology to map innovation and disparities",
+            "url": "https://www.nature.com/articles/s41467-026-78602-w"
+          },
+          {
+            "kind": "primary",
+            "title": "SkinMap original research preprint",
+            "url": "https://arxiv.org/abs/2601.00840"
+          },
+          {
+            "kind": "primary",
+            "title": "Publisher-deposited DOI metadata for SkinMap journal article",
+            "url": "https://api.crossref.org/works/10.1038/s41467-026-78602-w"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "A November 21 Nature Communications publication audits the public image datasets underlying dermatology AI. It is a peer-reviewed journal milestone for research already available as a preprint.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T01:14:48Z.\nEvidence: A global atlas of digital dermatology to map innovation and disparities — https://www.nature.com/articles/s41467-026-78602-w\nEvidence: SkinMap original research preprint — https://arxiv.org/abs/2601.00840\nEvidence: Publisher-deposited DOI metadata for SkinMap journal article — https://api.crossref.org/works/10.1038/s41467-026-78602-w",
+      "date_published": "2026-11-22T01:14:48Z",
+      "external_url": "https://www.nature.com/articles/s41467-026-78602-w",
+      "id": "urn:rase:ai:record:RSI-REC-320e7bdf1f80c63cce408b80",
+      "summary": "A November 21 Nature Communications publication audits the public image datasets underlying dermatology AI. It is a peer-reviewed journal milestone for research already available as a preprint.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "SkinMap journal paper examines gaps in dermatology AI data",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/skinmap-dermatology-dataset-audit-journal-publication"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Transformers release v5.24.0",
+            "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.0"
+          },
+          {
+            "kind": "primary",
+            "title": "Transformers v5.24.0 Apache License 2.0",
+            "url": "https://raw.githubusercontent.com/huggingface/transformers/v5.24.0/LICENSE"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The maintained library release adds model architecture integrations, native loading for covered EXAONE checkpoints and cache and multimodal-output API changes. Underlying model announcements retain their own original dates and licenses.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T01:14:48Z.\nEvidence: Transformers release v5.24.0 — https://github.com/huggingface/transformers/releases/tag/v5.24.0\nEvidence: Transformers v5.24.0 Apache License 2.0 — https://raw.githubusercontent.com/huggingface/transformers/v5.24.0/LICENSE",
+      "date_published": "2026-11-22T01:14:48Z",
+      "external_url": "https://github.com/huggingface/transformers/releases/tag/v5.24.0",
+      "id": "urn:rase:ai:record:RSI-REC-5d11bb7377808f88805438c1",
+      "summary": "The maintained library release adds model architecture integrations, native loading for covered EXAONE checkpoints and cache and multimodal-output API changes. Underlying model announcements retain their own original dates and licenses.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "Hugging Face releases Transformers 5.24.0",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/hugging-face-transformers"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AWS Quick launches new web experience, updated browser extension and Microsoft 365 add-ins",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/"
+          },
+          {
+            "kind": "primary",
+            "title": "AWS Quick plugins bundle agents, skills, connectors and flows",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/"
+          },
+          {
+            "kind": "primary",
+            "title": "AWS Quick",
+            "url": "https://aws.amazon.com/quick/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS's two November 21 notices document a synchronized web workspace, continuing background agents, updated work integrations and installable agent-capability bundles. They describe updates to Quick rather than an original product launch.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T01:14:48Z.\nEvidence: AWS Quick launches new web experience, updated browser extension and Microsoft 365 add-ins — https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/\nEvidence: AWS Quick plugins bundle agents, skills, connectors and flows — https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/\nEvidence: AWS Quick — https://aws.amazon.com/quick/",
+      "date_published": "2026-11-22T01:14:48Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/",
+      "id": "urn:rase:ai:record:RSI-REC-015d9603a378236dadf6e5a6",
+      "summary": "AWS's two November 21 notices document a synchronized web workspace, continuing background agents, updated work integrations and installable agent-capability bundles. They describe updates to Quick rather than an original product launch.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "Quick adds its web experience, integration updates and packaged plugins",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/aws-quick"
+    },
+    {
+      "_rase": {
         "event_type": "significant_update",
         "original_event_date": {
           "certainty": "verified",
@@ -173,6 +288,72 @@
       ],
       "title": "Metric AI releases Armenian transcription models",
       "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/ohanasr-model-family"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Browser Use 1.0.7 release notes",
+            "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.7"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "The maintainer documents partial output within 50 seconds, continued cell execution and retrieval of remaining output through another empty-code browser_exec call. This is an update to the existing browser automation project.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nPublic content reviewed/published: 2026-11-22T01:14:48Z.\nEvidence: Browser Use 1.0.7 release notes — https://github.com/browser-use/browser-use/releases/tag/1.0.7",
+      "date_modified": "2026-11-22T01:14:48Z",
+      "date_published": "2026-11-17T20:57:41Z",
+      "external_url": "https://github.com/browser-use/browser-use/releases/tag/1.0.7",
+      "id": "urn:rase:ai:record:RSI-P-175",
+      "summary": "The maintainer documents partial output within 50 seconds, continued cell execution and retrieval of remaining output through another empty-code browser_exec call. This is an update to the existing browser automation project.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "Browser Use 1.0.7 adds progress and resume for long MCP calls",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/browser-use"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "HTC NIPPON VIVEE Japan preorder and pricing announcement",
+            "url": "https://prtimes.jp/main/html/rd/p/000000245.000033579.html"
+          },
+          {
+            "kind": "primary",
+            "title": "VIVEE Japan official product page",
+            "url": "https://www.hivivee.com/jp/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "HTC outlined Japan preorder terms and a planned December 3 release. This dates the issuer’s announcement, while the first reservation-opening date remains unresolved.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T01:14:48Z.\nEvidence: HTC NIPPON VIVEE Japan preorder and pricing announcement — https://prtimes.jp/main/html/rd/p/000000245.000033579.html\nEvidence: VIVEE Japan official product page — https://www.hivivee.com/jp/",
+      "date_published": "2026-11-22T01:14:48Z",
+      "external_url": "https://prtimes.jp/main/html/rd/p/000000245.000033579.html",
+      "id": "urn:rase:ai:record:RSI-REC-fdecb89bb9b4b8d787aca12b",
+      "summary": "HTC outlined Japan preorder terms and a planned December 3 release. This dates the issuer’s announcement, while the first reservation-opening date remains unresolved.",
+      "tags": [
+        "Consumer electronics, wearables & smart homes"
+      ],
+      "title": "HTC publishes VIVEE Japan preorder and pricing announcement",
+      "url": "https://rasesolutions.com/ai/consumer-electronics-wearables-smart-homes/htc-vivee-japan-offer-announcement"
     },
     {
       "_rase": {
@@ -403,6 +584,71 @@
       ],
       "title": "Dominion announces 12-company Scout development consortium",
       "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/dominion-scout-development-consortium"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Oracle Statement",
+            "url": "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Oracle reports financing in place and updates campus progress, with future rack handovers still expected rather than completed.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T01:14:48Z.\nEvidence: Oracle Statement — https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/",
+      "date_published": "2026-11-22T01:14:48Z",
+      "external_url": "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/",
+      "id": "urn:rase:ai:record:RSI-REC-bf5d7143a409fd1658cbbbbf",
+      "summary": "Oracle reports financing in place and updates campus progress, with future rack handovers still expected rather than completed.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "Oracle publishes an OpenAI infrastructure funding statement",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/oracle-openai-infrastructure-funding-statement"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Release notes for Amazon SageMaker Unified Studio",
+            "url": "https://docs.aws.amazon.com/sagemaker-unified-studio/latest/userguide/release-notes.html"
+          },
+          {
+            "kind": "primary",
+            "title": "Deploy on-demand blueprints - Amazon SageMaker Unified Studio",
+            "url": "https://docs.aws.amazon.com/sagemaker-unified-studio/latest/adminguide/resource-blueprints.html"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Authorized project members gain an on-demand workflow for deploying approved data and machine-learning resources, under administrator-defined grants and roles.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T01:14:48Z.\nEvidence: Release notes for Amazon SageMaker Unified Studio — https://docs.aws.amazon.com/sagemaker-unified-studio/latest/userguide/release-notes.html\nEvidence: Deploy on-demand blueprints - Amazon SageMaker Unified Studio — https://docs.aws.amazon.com/sagemaker-unified-studio/latest/adminguide/resource-blueprints.html",
+      "date_published": "2026-11-22T01:14:48Z",
+      "external_url": "https://docs.aws.amazon.com/sagemaker-unified-studio/latest/userguide/release-notes.html",
+      "id": "urn:rase:ai:record:RSI-REC-439b60cb9c161627b13ef6ff",
+      "summary": "Authorized project members gain an on-demand workflow for deploying approved data and machine-learning resources, under administrator-defined grants and roles.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "SageMaker documents self-service resource blueprints",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/sagemaker-unified-studio-self-service-resource-blueprints"
     },
     {
       "_rase": {
@@ -1405,237 +1651,6 @@
       ],
       "title": "Amazon Polly introduces gated access to voice cloning",
       "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/amazon-polly-voice-cloning"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Let Gemini tackle repetitive chores on your Mac",
-            "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Google introduces background interaction with Mac apps and websites for eligible U.S. subscribers.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: Let Gemini tackle repetitive chores on your Mac — https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
-      "id": "urn:rase:ai:record:RSI-REC-2d95324386e52ad8edf1f3dc",
-      "summary": "Google introduces background interaction with Mac apps and websites for eligible U.S. subscribers.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "Gemini starts rolling out computer use on Mac",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/gemini-app-for-mac-computer-use"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Genie 4 is now available on the Gemini API",
-            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_event_publication"
-      },
-      "content_text": "Google announced developer API access for the existing Genie 4 world model one day after its initial launch.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nPublic content reviewed/published: 2026-11-20T01:17:14Z.\nEvidence: Genie 4 is now available on the Gemini API — https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
-      "date_modified": "2026-11-20T01:17:14Z",
-      "date_published": "2026-11-19T01:27:02Z",
-      "external_url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
-      "id": "urn:rase:ai:record:RSI-REC-4f3e583a3de886b43e01628c",
-      "summary": "Google announced developer API access for the existing Genie 4 world model one day after its initial launch.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "Google opens Genie 4 access through the Gemini API",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/project-genie-with-genie-4"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "RADIN Health announces RADINA and a planned RSNA unveiling",
-            "url": "https://www.prnewswire.com/news-releases/radin-health-unveils-radina-the-autonomous-ai-ecosystem-for-imaging-at-rsna-2026-302946222.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "RADIN announced an imaging workflow platform and Concierge component, with an official unveiling planned for November29.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: RADIN Health announces RADINA and a planned RSNA unveiling — https://www.prnewswire.com/news-releases/radin-health-unveils-radina-the-autonomous-ai-ecosystem-for-imaging-at-rsna-2026-302946222.html",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://www.prnewswire.com/news-releases/radin-health-unveils-radina-the-autonomous-ai-ecosystem-for-imaging-at-rsna-2026-302946222.html",
-      "id": "urn:rase:ai:record:RSI-REC-b957718b745267c8645cd4a0",
-      "summary": "RADIN announced an imaging workflow platform and Concierge component, with an official unveiling planned for November29.",
-      "tags": [
-        "Healthcare, biotechnology & medical AI"
-      ],
-      "title": "RADIN announces RADINA ahead of a planned RSNA demonstration",
-      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/radina-imaging-workflow-platform"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "AWS Transform automates source and migration target actions",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "AWS announced centrally managed preparation and post-launch actions for migration plans.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: AWS Transform automates source and migration target actions — https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
-      "id": "urn:rase:ai:record:RSI-REC-b227f0e3044021c8bbcb0475",
-      "summary": "AWS announced centrally managed preparation and post-launch actions for migration plans.",
-      "tags": [
-        "AI software development & programming"
-      ],
-      "title": "AWS Transform adds reusable migration preparation actions",
-      "url": "https://rasesolutions.com/ai/ai-software-development-programming/aws-transform-migration-source-actions"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Apple lookup: Acemate Tennis current app version",
-            "url": "https://itunes.apple.com/lookup?id=6743368519&country=us"
-          },
-          {
-            "kind": "primary",
-            "title": "Acemate Tennis App Store version history",
-            "url": "https://apps.apple.com/us/app/acemate-tennis/id6743368519"
-          },
-          {
-            "kind": "primary",
-            "title": "ACEMATE Announces Black Friday Savings of Up to US$700 on S10 and S10 Pro Tennis Robots",
-            "url": "https://www.prnewswire.com/news-releases/acemate-announces-black-friday-savings-of-up-to-us700-on-s10-and-s10-pro-tennis-robots-302946427.html"
-          },
-          {
-            "kind": "primary",
-            "title": "Acemate S10 Pro Tennis Robot",
-            "url": "https://www.acematetennis.com/products/acemate-tennis-robot-s10-pro"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The app update adds real-time coaching and voice-control features for training with existing Acemate tennis robots; the later promotional announcement is not the app release date.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: Apple lookup: Acemate Tennis current app version — https://itunes.apple.com/lookup?id=6743368519&country=us\nEvidence: Acemate Tennis App Store version history — https://apps.apple.com/us/app/acemate-tennis/id6743368519\nEvidence: ACEMATE Announces Black Friday Savings of Up to US$700 on S10 and S10 Pro Tennis Robots — https://www.prnewswire.com/news-releases/acemate-announces-black-friday-savings-of-up-to-us700-on-s10-and-s10-pro-tennis-robots-302946427.html\nEvidence: Acemate S10 Pro Tennis Robot — https://www.acematetennis.com/products/acemate-tennis-robot-s10-pro",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://itunes.apple.com/lookup?id=6743368519&country=us",
-      "id": "urn:rase:ai:record:RSI-REC-4400560e686c9ad8b5833b9a",
-      "summary": "The app update adds real-time coaching and voice-control features for training with existing Acemate tennis robots; the later promotional announcement is not the app release date.",
-      "tags": [
-        "Robotics, humanoids, household robots & physical AI"
-      ],
-      "title": "Acemate Tennis 2.4.0 adds AI Coach features",
-      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/acemate-tennis-ai-coach"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Machine-learning-based approach for solar radiation model prediction error identification, attribution and correction",
-            "url": "https://amt.copernicus.org/articles/19/7627/2026/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The paper evaluates interpretable corrections and distinguishes in-station from external-station tests.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: Machine-learning-based approach for solar radiation model prediction error identification, attribution and correction — https://amt.copernicus.org/articles/19/7627/2026/",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://amt.copernicus.org/articles/19/7627/2026/",
-      "id": "urn:rase:ai:record:RSI-REC-bc26f09d19e157228c1b1a4a",
-      "summary": "The paper evaluates interpretable corrections and distinguishes in-station from external-station tests.",
-      "tags": [
-        "Transportation, manufacturing, agriculture & energy"
-      ],
-      "title": "Journal publishes solar-radiation error-correction study",
-      "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/machine-learning-correction-of-solar-radiation-estimates"
-    },
-    {
-      "_rase": {
-        "event_type": "commercial_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Natural Launches Accept to allow AI Agents to Take Card Payments",
-            "url": "https://www.prnewswire.com/news-releases/natural-launches-accept-to-allow-ai-agents-to-take-card-payments-302945809.html"
-          },
-          {
-            "kind": "primary",
-            "title": "Natural Docs: Accept payments",
-            "url": "https://docs.natural.com/guides/flows/accept-payments"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Natural announced card-payment acceptance connected to its agent-payment infrastructure, subject to onboarding and authorization.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: Natural Launches Accept to allow AI Agents to Take Card Payments — https://www.prnewswire.com/news-releases/natural-launches-accept-to-allow-ai-agents-to-take-card-payments-302945809.html\nEvidence: Natural Docs: Accept payments — https://docs.natural.com/guides/flows/accept-payments",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://www.prnewswire.com/news-releases/natural-launches-accept-to-allow-ai-agents-to-take-card-payments-302945809.html",
-      "id": "urn:rase:ai:record:RSI-REC-38bcf38173af9eee03b93fc3",
-      "summary": "Natural announced card-payment acceptance connected to its agent-payment infrastructure, subject to onboarding and authorization.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "Natural adds card-payment acceptance for business agents",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/natural-accept"
     }
   ],
   "language": "en",
