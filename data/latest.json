@@ -51,6 +51,171 @@
     },
     {
       "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "ESDS exchange disclosure on the Sydney AI factory",
+            "url": "https://nsearchives.nseindia.in/corporate/ESDS_21112026214932_ESDS_General_Update_BSE_NSE.pdf"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "A November21 exchange filing reports installation and final testing while keeping customer handover and billing as future expectations.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: ESDS exchange disclosure on the Sydney AI factory — https://nsearchives.nseindia.in/corporate/ESDS_21112026214932_ESDS_General_Update_BSE_NSE.pdf",
+      "date_published": "2026-11-22T14:14:01Z",
+      "external_url": "https://nsearchives.nseindia.in/corporate/ESDS_21112026214932_ESDS_General_Update_BSE_NSE.pdf",
+      "id": "urn:rase:ai:record:RSI-REC-7c8798d88b3354fde54dc798",
+      "summary": "A November21 exchange filing reports installation and final testing while keeping customer handover and billing as future expectations.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "ESDS files an update on its Sydney AI factory",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/esds-sydney-ai-factory-progress-disclosure"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "LENS: localized updates facilitate patient-level unlearning in clinical large language models",
+            "url": "https://www.nature.com/articles/s41598-026-80817-2"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Scientific Reports published an accepted article about localized unlearning and preservation of untargeted patient responses.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: LENS: localized updates facilitate patient-level unlearning in clinical large language models — https://www.nature.com/articles/s41598-026-80817-2",
+      "date_published": "2026-11-22T14:14:01Z",
+      "external_url": "https://www.nature.com/articles/s41598-026-80817-2",
+      "id": "urn:rase:ai:record:RSI-REC-e5d9b3b783fa6f43c03517d0",
+      "summary": "Scientific Reports published an accepted article about localized unlearning and preservation of untargeted patient responses.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "LENS patient-unlearning research published",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/lens-clinical-patient-unlearning-research"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "CAEL Verified Reasoning dataset card",
+            "url": "https://huggingface.co/datasets/vynly/cael-verified-reasoning"
+          },
+          {
+            "kind": "primary",
+            "title": "Creator announces CAEL Verified Reasoning",
+            "url": "https://discuss.huggingface.co/t/cael-verified-reasoning-2m-problems-with-computed-answers-plus-a-verifier/192247"
+          },
+          {
+            "kind": "primary",
+            "title": "Dataset publisher explains CAEL reasoning examples",
+            "url": "https://discuss.huggingface.co/t/2m-reasoning-examples-for-fine-tuning-small-models-with-worked-solutions-and-a-python-answer-checker/192328"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Two creator posts describe a synthetic reasoning dataset with computed reference answers, worked solutions and a checker. The milestone is the November 21 announcement; repository metadata shows that the dataset was uploaded on November 20.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: CAEL Verified Reasoning dataset card — https://huggingface.co/datasets/vynly/cael-verified-reasoning\nEvidence: Creator announces CAEL Verified Reasoning — https://discuss.huggingface.co/t/cael-verified-reasoning-2m-problems-with-computed-answers-plus-a-verifier/192247\nEvidence: Dataset publisher explains CAEL reasoning examples — https://discuss.huggingface.co/t/2m-reasoning-examples-for-fine-tuning-small-models-with-worked-solutions-and-a-python-answer-checker/192328",
+      "date_published": "2026-11-22T14:14:01Z",
+      "external_url": "https://huggingface.co/datasets/vynly/cael-verified-reasoning",
+      "id": "urn:rase:ai:record:RSI-REC-8c1afb2f452363dc5f54ed9e",
+      "summary": "Two creator posts describe a synthetic reasoning dataset with computed reference answers, worked solutions and a checker. The milestone is the November 21 announcement; repository metadata shows that the dataset was uploaded on November 20.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Publisher announces the CAEL Verified Reasoning dataset and checker",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/cael-verified-reasoning"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Tesla FSD v15 rollout announcement",
+            "url": "https://x.com/Tesla/status/2124222447855743019"
+          },
+          {
+            "kind": "primary",
+            "title": "Tesla official FSD supervised-use guidance",
+            "url": "https://www.tesla.com/support/fsd"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Tesla announced a software update with a new driving visualization; this is not a new robotaxi service or autonomous-driving approval.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: Tesla FSD v15 rollout announcement — https://x.com/Tesla/status/2124222447855743019\nEvidence: Tesla official FSD supervised-use guidance — https://www.tesla.com/support/fsd",
+      "date_published": "2026-11-22T14:14:01Z",
+      "external_url": "https://x.com/Tesla/status/2124222447855743019",
+      "id": "urn:rase:ai:record:RSI-REC-96a16c07eda0e953f9969883",
+      "summary": "Tesla announced a software update with a new driving visualization; this is not a new robotaxi service or autonomous-driving approval.",
+      "tags": [
+        "Transportation, manufacturing, agriculture & energy"
+      ],
+      "title": "Tesla announces the start of FSD v15 rollout",
+      "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/tesla-full-self-driving-supervised"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Together AI: Security event involving June and July prompt samples",
+            "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Together AI published its account of unauthorized access to samples of June and July inference requests and said it was continuing its review and customer notification work. November 21 is the disclosure date, not the original request or incident date.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: Together AI: Security event involving June and July prompt samples — https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "date_published": "2026-11-22T14:14:01Z",
+      "external_url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "id": "urn:rase:ai:record:RSI-REC-19799045e3f1916ed7c752b4",
+      "summary": "Together AI published its account of unauthorized access to samples of June and July inference requests and said it was continuing its review and customer notification work. November 21 is the disclosure date, not the original request or incident date.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "Together AI discloses access to stored prompt samples",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/together-ai-prompt-sample-security-disclosure"
+    },
+    {
+      "_rase": {
         "event_type": "significant_update",
         "original_event_date": {
           "certainty": "verified",
@@ -126,6 +291,36 @@
     },
     {
       "_rase": {
+        "event_type": "legal_milestone",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Swiss FDFA statement on the autonomous-weapons mandate",
+            "url": "https://www.admin.ch/en/newnsb/cpYJGLEaQYIi"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "A Swiss government statement dates the conclusion to November21 and describes a two-year drafting process without an agreed binding legal form.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: Swiss FDFA statement on the autonomous-weapons mandate — https://www.admin.ch/en/newnsb/cpYJGLEaQYIi",
+      "date_published": "2026-11-22T14:14:01Z",
+      "external_url": "https://www.admin.ch/en/newnsb/cpYJGLEaQYIi",
+      "id": "urn:rase:ai:record:RSI-REC-9bdc3d50a877c9de4a4b585a",
+      "summary": "A Swiss government statement dates the conclusion to November21 and describes a two-year drafting process without an agreed binding legal form.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "CCW states agree an autonomous-weapons drafting mandate",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/ccw-autonomous-weapons-instrument-drafting-mandate"
+    },
+    {
+      "_rase": {
         "event_type": "significant_update",
         "original_event_date": {
           "certainty": "verified",
@@ -153,6 +348,46 @@
       ],
       "title": "Bedrock Web Search expands to five more languages and non-US English",
       "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/amazon-bedrock-web-search-language-and-country-update"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "ClawDOS project site",
+            "url": "https://ricapar.net/ClawDOS/"
+          },
+          {
+            "kind": "primary",
+            "title": "ClawDOS source repository and README",
+            "url": "https://github.com/Ricapar/ClawDOS"
+          },
+          {
+            "kind": "primary",
+            "title": "ClawDOS maker announcement on Hacker News",
+            "url": "https://news.ycombinator.com/item?id=50586292"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The project owner posted a dated announcement linking ClawDOS. The harness uses hosted Claude through a modern bridge; the milestone is the maker announcement, not local language-model inference or an established first software-release date.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: ClawDOS project site — https://ricapar.net/ClawDOS/\nEvidence: ClawDOS source repository and README — https://github.com/Ricapar/ClawDOS\nEvidence: ClawDOS maker announcement on Hacker News — https://news.ycombinator.com/item?id=50586292",
+      "date_published": "2026-11-22T14:14:01Z",
+      "external_url": "https://ricapar.net/ClawDOS/",
+      "id": "urn:rase:ai:record:RSI-REC-886f834b4240de4d8913c485",
+      "summary": "The project owner posted a dated announcement linking ClawDOS. The harness uses hosted Claude through a modern bridge; the milestone is the maker announcement, not local language-model inference or an established first software-release date.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "Maker shares the ClawDOS chat and coding-agent harness",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/clawdos"
     },
     {
       "_rase": {
@@ -1436,221 +1671,6 @@
       ],
       "title": "Wurk adds embedded AI and an assistant to its HR platform",
       "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/wurk-bryte-ai"
-    },
-    {
-      "_rase": {
-        "event_type": "legal_milestone",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Addressing Remote Access to Advanced Semiconductors",
-            "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm"
-          },
-          {
-            "kind": "primary",
-            "title": "Federal Register document 2026-23529",
-            "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The interim final rule is published and becomes effective on November 19.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T14:14:46Z.\nEvidence: Addressing Remote Access to Advanced Semiconductors — https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm\nEvidence: Federal Register document 2026-23529 — https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
-      "date_published": "2026-11-19T14:14:46Z",
-      "external_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm",
-      "id": "urn:rase:ai:record:RSI-REC-ad912db69c0eccb541da839c",
-      "summary": "The interim final rule is published and becomes effective on November 19.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "BIS remote advanced-compute rule becomes effective",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/bis-remote-advanced-compute-controls"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Tinker Tailor launches an AI-supported fashion platform",
-            "url": "https://www.prnewswire.com/news-releases/aslaug-magnusdottir-moda-operandi-co-founder-launches-tinker-tailor-an-ai-fashion-platform-that-lets-you-design-what-you-wear-302944826.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Tinker Tailor announced consumer access to AI-guided garment design and made-to-order shopping.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: Tinker Tailor launches an AI-supported fashion platform — https://www.prnewswire.com/news-releases/aslaug-magnusdottir-moda-operandi-co-founder-launches-tinker-tailor-an-ai-fashion-platform-that-lets-you-design-what-you-wear-302944826.html",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://www.prnewswire.com/news-releases/aslaug-magnusdottir-moda-operandi-co-founder-launches-tinker-tailor-an-ai-fashion-platform-that-lets-you-design-what-you-wear-302944826.html",
-      "id": "urn:rase:ai:record:RSI-REC-c62e9def1925e11359123a48",
-      "summary": "Tinker Tailor announced consumer access to AI-guided garment design and made-to-order shopping.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "Tinker Tailor connects AI-assisted clothing design with made-to-order production",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/tinker-tailor"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Wenge AI Introduces Real-World Validation for Decitron's AI Simulations",
-            "url": "https://www.prnewswire.com/news-releases/wenge-ai-introduces-real-world-validation-for-decitrons-ai-simulations-302945279.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Wenge announced retrospective scenario comparisons, news inputs and question-refinement features for the existing Decitron platform.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: Wenge AI Introduces Real-World Validation for Decitron's AI Simulations — https://www.prnewswire.com/news-releases/wenge-ai-introduces-real-world-validation-for-decitrons-ai-simulations-302945279.html",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://www.prnewswire.com/news-releases/wenge-ai-introduces-real-world-validation-for-decitrons-ai-simulations-302945279.html",
-      "id": "urn:rase:ai:record:RSI-REC-637de3f7dce7ba2ff5648e7b",
-      "summary": "Wenge announced retrospective scenario comparisons, news inputs and question-refinement features for the existing Decitron platform.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "Decitron adds comparisons between AI scenarios and later outcomes",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/decitron"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "A defence-in-depth strategy for securing AI-driven biological sequence design",
-            "url": "https://www.nature.com/articles/s41467-026-78758-5"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The publication proposes layered safeguards and discusses their limitations.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: A defence-in-depth strategy for securing AI-driven biological sequence design — https://www.nature.com/articles/s41467-026-78758-5",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://www.nature.com/articles/s41467-026-78758-5",
-      "id": "urn:rase:ai:record:RSI-REC-34fe1b3e2b881dd4b598ac51",
-      "summary": "The publication proposes layered safeguards and discusses their limitations.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "Journal publishes biological AI governance Perspective",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/biological-ai-defence-in-depth-governance-perspective"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "AWS AppConfig launches native AI model and prompt configurations",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-appconfig-native-ai-model-invocation-prompt-configurations/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "AWS announced two AI-specific configuration profile types with gradual rollout and alarm-driven rollback.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: AWS AppConfig launches native AI model and prompt configurations — https://aws.amazon.com/about-aws/whats-new/2026/11/aws-appconfig-native-ai-model-invocation-prompt-configurations/",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-appconfig-native-ai-model-invocation-prompt-configurations/",
-      "id": "urn:rase:ai:record:RSI-REC-93531f701c646066d12726f7",
-      "summary": "AWS announced two AI-specific configuration profile types with gradual rollout and alarm-driven rollback.",
-      "tags": [
-        "AI software development & programming"
-      ],
-      "title": "AppConfig adds versioned model and prompt configurations",
-      "url": "https://rasesolutions.com/ai/ai-software-development-programming/aws-appconfig-ai-configuration-profiles"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-            "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The announcement spans cloud and local infrastructure with component-specific availability.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs — https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-      "id": "urn:rase:ai:record:RSI-REC-0a294451de01fe6b13596341",
-      "summary": "The announcement spans cloud and local infrastructure with component-specific availability.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "NVIDIA reports expanded Microsoft AI infrastructure collaboration",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/nvidia-microsoft-ai-infrastructure-collaboration"
-    },
-    {
-      "_rase": {
-        "event_type": "commercial_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Amazon Polly now supports voice cloning",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-polly-now-supports-voice-cloning/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "AWS announced selected-customer access to Polly voice cloning, with a request process and language restrictions.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: Amazon Polly now supports voice cloning — https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-polly-now-supports-voice-cloning/",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-polly-now-supports-voice-cloning/",
-      "id": "urn:rase:ai:record:RSI-REC-c0b01cd9d2de9a4eb4db5dbf",
-      "summary": "AWS announced selected-customer access to Polly voice cloning, with a request process and language restrictions.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "Amazon Polly introduces gated access to voice cloning",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/amazon-polly-voice-cloning"
     }
   ],
   "language": "en",
