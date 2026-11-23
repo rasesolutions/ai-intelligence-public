@@ -1531,6 +1531,70 @@
         "sources": [
           {
             "kind": "primary",
+            "title": "Introducing TestSprite 4.0: A Testing Agent That Remembers What Your App Should Do",
+            "url": "https://www.testsprite.com/blog/introducing-testsprite-4-0"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "TestSprite announced version 4.0 on November 20, 2026, describing an agent that tests a running application using specifications, tickets or stated requirements.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T17:40:29Z.\nEvidence: Introducing TestSprite 4.0: A Testing Agent That Remembers What Your App Should Do — https://www.testsprite.com/blog/introducing-testsprite-4-0",
+      "date_published": "2026-11-23T17:40:29Z",
+      "external_url": "https://www.testsprite.com/blog/introducing-testsprite-4-0",
+      "id": "urn:rase:ai:record:RSI-P-456",
+      "summary": "TestSprite announced version 4.0 on November 20, 2026, describing an agent that tests a running application using specifications, tickets or stated requirements.",
+      "tags": [
+        "AI software development & programming"
+      ],
+      "title": "TestSprite 4.0 checks running applications against intended behavior",
+      "url": "https://rasesolutions.com/ai/ai-software-development-programming/testsprite-4-0"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "independent",
+            "title": "Fiji Sun reports civil-service AI preparation",
+            "url": "https://fijisun.com.fj/news/nation/govt-prepares-civil-service-for-ai"
+          },
+          {
+            "kind": "independent",
+            "title": "FBC News reports Fiji’s three developing AI frameworks",
+            "url": "https://www.fbcnews.com.fj/news/fiji-develops-three-ai-frameworks/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Fiji officials described three AI-related frameworks under development during civil-service discussions reported on November 20, 2026.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T17:40:30Z.\nEvidence: Fiji Sun reports civil-service AI preparation — https://fijisun.com.fj/news/nation/govt-prepares-civil-service-for-ai\nEvidence: FBC News reports Fiji’s three developing AI frameworks — https://www.fbcnews.com.fj/news/fiji-develops-three-ai-frameworks/",
+      "date_published": "2026-11-23T17:40:30Z",
+      "id": "urn:rase:ai:record:RSI-P-503",
+      "summary": "Fiji officials described three AI-related frameworks under development during civil-service discussions reported on November 20, 2026.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "Fiji describes work on AI governance and civil-service skills frameworks",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/fiji-civil-service-ai-initiative"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-20"
+        },
+        "sources": [
+          {
+            "kind": "primary",
             "title": "Danaher Collaborates with Microsoft to Make Scientific Instruments Agentically Connected and Laboratories More Intelligent",
             "url": "https://www.prnewswire.com/news-releases/danaher-collaborates-with-microsoft-to-make-scientific-instruments-agentically-connected-and-laboratories-more-intelligent-302946263.html"
           }
@@ -1609,71 +1673,6 @@
       ],
       "title": "Hugging Face publishes harness-specific coding adapters and training recipe",
       "url": "https://rasesolutions.com/ai/ai-software-development-programming/qwen3-8-27b-harness-adapters"
-    },
-    {
-      "_rase": {
-        "event_type": "commercial_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Alibaba Cloud Model Studio model releases and updates",
-            "url": "https://docs.modelstudio.console.alibabacloud.com/en/model-studio/newly-released-models"
-          },
-          {
-            "kind": "primary",
-            "title": "Alibaba Cloud Model Studio: Macaron-MindLab",
-            "url": "https://www.alibabacloud.com/help/en/model-studio/macaron-mindlab"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The provider's November 20 release entry documents regional hosted API access. Earlier Macaron variants and the model's original creation date remain separate.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Alibaba Cloud Model Studio model releases and updates — https://docs.modelstudio.console.alibabacloud.com/en/model-studio/newly-released-models\nEvidence: Alibaba Cloud Model Studio: Macaron-MindLab — https://www.alibabacloud.com/help/en/model-studio/macaron-mindlab",
-      "date_published": "2026-11-21T14:12:13Z",
-      "external_url": "https://docs.modelstudio.console.alibabacloud.com/en/model-studio/newly-released-models",
-      "id": "urn:rase:ai:record:RSI-REC-3c7f063212faa809afff0d68",
-      "summary": "The provider's November 20 release entry documents regional hosted API access. Earlier Macaron variants and the model's original creation date remain separate.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "Macaron V1.1 Venti Pro becomes available in Alibaba Cloud's Singapore deployment",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/macaron-v1-1-venti-pro-on-alibaba-cloud"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "AgentCore runtime instances now support Amazon EC2 G7 instances",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-ec2-g7/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "AWS announced G7 instance support in Amazon Bedrock AgentCore runtime instances on November 20, adding a GPU option for agents running rendering and model-inference workloads.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: AgentCore runtime instances now support Amazon EC2 G7 instances — https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-ec2-g7/",
-      "date_published": "2026-11-21T14:12:13Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-ec2-g7/",
-      "id": "urn:rase:ai:record:RSI-REC-5d10ed5e68d2cf5df52daaeb",
-      "summary": "AWS announced G7 instance support in Amazon Bedrock AgentCore runtime instances on November 20, adding a GPU option for agents running rendering and model-inference workloads.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "AgentCore adds EC2 G7 support for runtime instances",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/amazon-bedrock-agentcore-g7-runtime-support"
     }
   ],
   "language": "en",
