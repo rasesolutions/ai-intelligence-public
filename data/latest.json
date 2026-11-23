@@ -15,6 +15,201 @@
         "original_event_date": {
           "certainty": "verified",
           "precision": "day",
+          "value": "2026-11-22"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "EdgeMusicTransformer: a lightweight context-aware Transformer for efficient generative AI deployment under edge computing constraints",
+            "url": "https://www.nature.com/articles/s41598-026-81420-1"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Scientific Reports published a context-length evaluation of lightweight symbolic-music generation.\n\nVerified development date: 2026-11-22 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T01:28:39Z.\nEvidence: EdgeMusicTransformer: a lightweight context-aware Transformer for efficient generative AI deployment under edge computing constraints — https://www.nature.com/articles/s41598-026-81420-1",
+      "date_published": "2026-11-23T01:28:39Z",
+      "external_url": "https://www.nature.com/articles/s41598-026-81420-1",
+      "id": "urn:rase:ai:record:RSI-REC-0a0eb9906b04c4777c0981a2",
+      "summary": "Scientific Reports published a context-length evaluation of lightweight symbolic-music generation.",
+      "tags": [
+        "Generative video, audio, images, design & creative tools"
+      ],
+      "title": "EdgeMusicTransformer accepted paper published",
+      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/edgemusictransformer"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-22"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Data Processing Incidents on Inference Providers",
+            "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The company reports provider removals, endpoint eligibility changes and customer notifications, while further verification remains underway.\n\nVerified development date: 2026-11-22 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T01:28:39Z.\nEvidence: Data Processing Incidents on Inference Providers — https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "date_published": "2026-11-23T01:28:39Z",
+      "external_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "id": "urn:rase:ai:record:RSI-REC-4b524aca7b7b6b9b798b91fc",
+      "summary": "The company reports provider removals, endpoint eligibility changes and customer notifications, while further verification remains underway.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "OpenRouter discloses its inference-provider data-policy response",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/openrouter-inference-provider-data-policy-response"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-22"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors",
+            "url": "https://www.nature.com/articles/s41467-026-79404-w"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The journal published accepted research on quantitative transcription-factor chromatin sensitivity.\n\nVerified development date: 2026-11-22 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T01:28:39Z.\nEvidence: A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors — https://www.nature.com/articles/s41467-026-79404-w",
+      "date_published": "2026-11-23T01:28:39Z",
+      "external_url": "https://www.nature.com/articles/s41467-026-79404-w",
+      "id": "urn:rase:ai:record:RSI-REC-5e4fc822948c3a17932a5cf4",
+      "summary": "The journal published accepted research on quantitative transcription-factor chromatin sensitivity.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Chromatin-sensitivity study published in Nature Communications",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/deep-learning-chromatin-sensitivity-framework"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-22"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Introducing Kilat: An Open-Source Framework for Building and Training Lightweight Language Models",
+            "url": "https://discuss.huggingface.co/t/introducing-kilat-an-open-source-framework-for-building-and-training-lightweight-language-models/192365"
+          },
+          {
+            "kind": "primary",
+            "title": "Kilat source repository and README",
+            "url": "https://github.com/Airukua/Kilat"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The creator's original forum post links the matching public framework and demonstration model, describing a small-model research workflow rather than a production chatbot launch.\n\nVerified development date: 2026-11-22 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T01:28:39Z.\nEvidence: Introducing Kilat: An Open-Source Framework for Building and Training Lightweight Language Models — https://discuss.huggingface.co/t/introducing-kilat-an-open-source-framework-for-building-and-training-lightweight-language-models/192365\nEvidence: Kilat source repository and README — https://github.com/Airukua/Kilat",
+      "date_published": "2026-11-23T01:28:39Z",
+      "external_url": "https://discuss.huggingface.co/t/introducing-kilat-an-open-source-framework-for-building-and-training-lightweight-language-models/192365",
+      "id": "urn:rase:ai:record:RSI-REC-b5c14262a60028eb96cc3da1",
+      "summary": "The creator's original forum post links the matching public framework and demonstration model, describing a small-model research workflow rather than a production chatbot launch.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "Kilat's creator introduces the research framework",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/kilat-language-model-research-framework"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-22"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Perplexity and Intelligence",
+            "url": "https://openai.com/index/perplexity-and-intelligence/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The dated essay discloses internal pretraining measurements and proposes cross-developer safety norms; it does not announce a new model.\n\nVerified development date: 2026-11-22 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T01:28:39Z.\nEvidence: Perplexity and Intelligence — https://openai.com/index/perplexity-and-intelligence/",
+      "date_published": "2026-11-23T01:28:39Z",
+      "external_url": "https://openai.com/index/perplexity-and-intelligence/",
+      "id": "urn:rase:ai:record:RSI-REC-04e3ee6dd846b63ca49cbb07",
+      "summary": "The dated essay discloses internal pretraining measurements and proposes cross-developer safety norms; it does not announce a new model.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "OpenAI publishes its perplexity transparency and safety proposal",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/openai-perplexity-transparency-and-safety-proposal"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Accelerating high-throughput catalyst screening by direct generation of equilibrium adsorption structures",
+            "url": "https://www.nature.com/articles/s41467-026-79243-9"
+          },
+          {
+            "kind": "primary",
+            "title": "DBCata original author-submitted preprint",
+            "url": "https://arxiv.org/abs/2512.15228"
+          },
+          {
+            "kind": "primary",
+            "title": "DBCata official research repository",
+            "url": "https://github.com/Songze1019/DBCata"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The journal published accepted catalyst-screening research previously circulated as a preprint.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T01:28:39Z.\nEvidence: Accelerating high-throughput catalyst screening by direct generation of equilibrium adsorption structures — https://www.nature.com/articles/s41467-026-79243-9\nEvidence: DBCata original author-submitted preprint — https://arxiv.org/abs/2512.15228\nEvidence: DBCata official research repository — https://github.com/Songze1019/DBCata",
+      "date_published": "2026-11-23T01:28:39Z",
+      "external_url": "https://www.nature.com/articles/s41467-026-79243-9",
+      "id": "urn:rase:ai:record:RSI-REC-dab6b8970a674b3d7e4cf2cc",
+      "summary": "The journal published accepted catalyst-screening research previously circulated as a preprint.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "DBCata accepted research published in Nature Communications",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/dbcata-catalyst-screening-research"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
           "value": "2026-11-21"
         },
         "sources": [
@@ -348,6 +543,36 @@
       ],
       "title": "Bedrock Web Search expands to five more languages and non-US English",
       "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/amazon-bedrock-web-search-language-and-country-update"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-21"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Singapore–China transport cooperation memorandum",
+            "url": "https://www.mot.gov.sg/news-resources/newsroom/memorandum-of-understanding-on-cooperation-between-the-ministry-of-transport-of-the-republic-of-singapore-and-the-ministry-of-transport-of-the-people-s-republic-of-china/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Singapore reports a signed transport-cooperation MOU that includes artificial intelligence among its areas of cooperation. This dates the official announcement, without asserting a separate precise signing day or completed implementation.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T01:28:39Z.\nEvidence: Singapore–China transport cooperation memorandum — https://www.mot.gov.sg/news-resources/newsroom/memorandum-of-understanding-on-cooperation-between-the-ministry-of-transport-of-the-republic-of-singapore-and-the-ministry-of-transport-of-the-people-s-republic-of-china/",
+      "date_published": "2026-11-23T01:28:39Z",
+      "external_url": "https://www.mot.gov.sg/news-resources/newsroom/memorandum-of-understanding-on-cooperation-between-the-ministry-of-transport-of-the-republic-of-singapore-and-the-ministry-of-transport-of-the-people-s-republic-of-china/",
+      "id": "urn:rase:ai:record:RSI-REC-d7d9cabdacdb5c198705acc3",
+      "summary": "Singapore reports a signed transport-cooperation MOU that includes artificial intelligence among its areas of cooperation. This dates the official announcement, without asserting a separate precise signing day or completed implementation.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "Singapore reports signed transport-cooperation MOU including AI",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/singapore-china-transport-cooperation-mou"
     },
     {
       "_rase": {
@@ -1436,241 +1661,6 @@
       ],
       "title": "Fixstars adds GLM-5.3 to its Japan-hosted inference service",
       "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/fixstars-inference-cloud-glm-5-3-access"
-    },
-    {
-      "_rase": {
-        "event_type": "policy_milestone",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "New AI guidance to cut paperwork and free more time for care",
-            "url": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care"
-          },
-          {
-            "kind": "primary",
-            "title": "Artificial intelligence (AI) in social care",
-            "url": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The guidance covers children's and adults' social care in England, emphasizing governance, data protection and professional oversight.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: New AI guidance to cut paperwork and free more time for care — https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care\nEvidence: Artificial intelligence (AI) in social care — https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care",
-      "id": "urn:rase:ai:record:RSI-REC-2eacccdad986cf51963af446",
-      "summary": "The guidance covers children's and adults' social care in England, emphasizing governance, data protection and professional oversight.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "Departments publish non-statutory social-care AI guidance for England",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/ai-guidance-for-social-care-in-england"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Everee launches Ask Everee, an AI payroll assistant that does the work",
-            "url": "https://www.prnewswire.com/news-releases/everee-launches-ask-everee-an-ai-payroll-assistant-that-does-the-work-302944501.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Everee announced a conversational payroll assistant alongside anomaly checks and an order reader, with confirmation before the assistant changes data.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: Everee launches Ask Everee, an AI payroll assistant that does the work — https://www.prnewswire.com/news-releases/everee-launches-ask-everee-an-ai-payroll-assistant-that-does-the-work-302944501.html",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://www.prnewswire.com/news-releases/everee-launches-ask-everee-an-ai-payroll-assistant-that-does-the-work-302944501.html",
-      "id": "urn:rase:ai:record:RSI-REC-91004a5bc9335d9611dd2833",
-      "summary": "Everee announced a conversational payroll assistant alongside anomaly checks and an order reader, with confirmation before the assistant changes data.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "Everee launches a payroll assistant with confirmation before changes",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/ask-everee"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "TikTok announces more AI-content clarity and control tools",
-            "url": "https://newsroom.tiktok.com/TikTok-more-tools-to-provide-clarity-and-control-around-ai-generated-content?lang=en-150"
-          },
-          {
-            "kind": "primary",
-            "title": "More tools to provide clarity and control around AI-generated content",
-            "url": "https://newsroom.tiktok.com/more-tools-to-provide-clarity-and-control-around-ai-generated-content-CA?lang=en-CA"
-          },
-          {
-            "kind": "primary",
-            "title": "Identify AI-Generated Content",
-            "url": "https://ai-generated-detect.tiktokv-row.com/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The earlier November 19 announcement documents a public provenance checker and staged opt-in likeness rollout. November 20 regional republication is supporting context rather than a second launch.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: TikTok announces more AI-content clarity and control tools — https://newsroom.tiktok.com/TikTok-more-tools-to-provide-clarity-and-control-around-ai-generated-content?lang=en-150\nEvidence: More tools to provide clarity and control around AI-generated content — https://newsroom.tiktok.com/more-tools-to-provide-clarity-and-control-around-ai-generated-content-CA?lang=en-CA\nEvidence: Identify AI-Generated Content — https://ai-generated-detect.tiktokv-row.com/",
-      "date_published": "2026-11-21T14:12:13Z",
-      "external_url": "https://newsroom.tiktok.com/TikTok-more-tools-to-provide-clarity-and-control-around-ai-generated-content?lang=en-150",
-      "id": "urn:rase:ai:record:RSI-REC-8783b686ce27dd15adeeb47b",
-      "summary": "The earlier November 19 announcement documents a public provenance checker and staged opt-in likeness rollout. November 20 regional republication is supporting context rather than a second launch.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "TikTok launches its provenance checker and starts Likeness Detection rollout",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/tiktok-ai-provenance-and-likeness-tools"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "AWS Marketplace now supports agentic payments with AgentCore",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "AWS announced agentic per-request Marketplace payments with account billing and customer-defined transaction controls.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: AWS Marketplace now supports agentic payments with AgentCore — https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
-      "id": "urn:rase:ai:record:RSI-REC-4b7eda0af019c4563a6600a1",
-      "summary": "AWS announced agentic per-request Marketplace payments with account billing and customer-defined transaction controls.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "AWS connects Marketplace purchases with AgentCore payments",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/aws-marketplace-agentic-payments"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "SageMaker AI detects response-time, GPU-use and configuration issues",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-monitors-endpoints/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "AWS announced inference-endpoint monitoring and recommendation workflows with customer-controlled application of changes.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: SageMaker AI detects response-time, GPU-use and configuration issues — https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-monitors-endpoints/",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-monitors-endpoints/",
-      "id": "urn:rase:ai:record:RSI-REC-f734c3be29b36cd0600a87f1",
-      "summary": "AWS announced inference-endpoint monitoring and recommendation workflows with customer-controlled application of changes.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "SageMaker adds monitoring for inference slowdowns and idle GPUs",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-sagemaker-ai-inference-endpoint-monitoring"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
-            "url": "https://arxiv.org/abs/2611.26409"
-          },
-          {
-            "kind": "primary",
-            "title": "Tencent WeMM-Video official repository",
-            "url": "https://github.com/Tencent/WeMM-Video"
-          },
-          {
-            "kind": "primary",
-            "title": "WeMM-Video model collection license and third-party notices",
-            "url": "https://github.com/Tencent/WeMM-Video/blob/main/LICENSE"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The original arXiv v1 submission is November 19, 2026. Later discovery and model-registry activity are not represented as a new November 20 or November 21 commercial launch.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding — https://arxiv.org/abs/2611.26409\nEvidence: Tencent WeMM-Video official repository — https://github.com/Tencent/WeMM-Video\nEvidence: WeMM-Video model collection license and third-party notices — https://github.com/Tencent/WeMM-Video/blob/main/LICENSE",
-      "date_published": "2026-11-21T14:12:13Z",
-      "external_url": "https://arxiv.org/abs/2611.26409",
-      "id": "urn:rase:ai:record:RSI-REC-f0b0ae3f3a1db38949dbf7fe",
-      "summary": "The original arXiv v1 submission is November 19, 2026. Later discovery and model-registry activity are not represented as a new November 20 or November 21 commercial launch.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "Tencent publishes the WeMM-Video technical report",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/wemm-video"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-19"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Wurk Launches Bryte AI, Bringing Built-In Intelligence to Payroll, HR, and Workforce Management",
-            "url": "https://www.prnewswire.com/news-releases/wurk-launches-bryte-ai-bringing-built-in-intelligence-to-payroll-hr-and-workforce-management-302945033.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Wurk announced customer availability of embedded AI capabilities and a conversational workforce assistant.\n\nVerified development date: 2026-11-19 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T01:17:14Z.\nEvidence: Wurk Launches Bryte AI, Bringing Built-In Intelligence to Payroll, HR, and Workforce Management — https://www.prnewswire.com/news-releases/wurk-launches-bryte-ai-bringing-built-in-intelligence-to-payroll-hr-and-workforce-management-302945033.html",
-      "date_published": "2026-11-20T01:17:14Z",
-      "external_url": "https://www.prnewswire.com/news-releases/wurk-launches-bryte-ai-bringing-built-in-intelligence-to-payroll-hr-and-workforce-management-302945033.html",
-      "id": "urn:rase:ai:record:RSI-REC-d1632475abc037162bdf6230",
-      "summary": "Wurk announced customer availability of embedded AI capabilities and a conversational workforce assistant.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "Wurk adds embedded AI and an assistant to its HR platform",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/wurk-bryte-ai"
     }
   ],
   "language": "en",
