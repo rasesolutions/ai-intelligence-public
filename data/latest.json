@@ -11,6 +11,331 @@
   "items": [
     {
       "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Larsen & Toubro secures order for deploying an AI cluster",
+            "url": "https://www.larsentoubro.com/pressreleases/2026/2026-11-23-larsen-toubro-secures-large-order-for-deploying-ai-cluster"
+          },
+          {
+            "kind": "primary",
+            "title": "Larsen & Toubro issuer disclosure enclosing the Chennai AI cluster order announcement",
+            "url": "https://nsearchives.nseindia.com/corporate/PAM_23112026093338_PressRelease23112026.pdf"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The issuer describes an expansion order rather than newly commissioned GPUs or a new public cloud service.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: Larsen & Toubro secures order for deploying an AI cluster — https://www.larsentoubro.com/pressreleases/2026/2026-11-23-larsen-toubro-secures-large-order-for-deploying-ai-cluster\nEvidence: Larsen & Toubro issuer disclosure enclosing the Chennai AI cluster order announcement — https://nsearchives.nseindia.com/corporate/PAM_23112026093338_PressRelease23112026.pdf",
+      "date_published": "2026-11-23T14:24:44Z",
+      "external_url": "https://www.larsentoubro.com/pressreleases/2026/2026-11-23-larsen-toubro-secures-large-order-for-deploying-ai-cluster",
+      "id": "urn:rase:ai:record:RSI-REC-b8accc2cc28dd1f79a6f00f6",
+      "summary": "The issuer describes an expansion order rather than newly commissioned GPUs or a new public cloud service.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "L&T announces additional Chennai B300 deployment engagement",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/ltn-compute-chennai-b300-expansion-engagement"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+            "url": "https://z.ai/blog/glm-5.4"
+          },
+          {
+            "kind": "primary",
+            "title": "Meet GLM-5.4 in AutoClaw",
+            "url": "https://autoclaw.z.ai/en/blog/model/GLM-5.4/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The issuer's dated model announcement and official AutoClaw notice document hosted access. They do not establish current API availability or downloadable weights.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: GLM-5.4: Toward Generalized Coding with Our First Loop Transformer — https://z.ai/blog/glm-5.4\nEvidence: Meet GLM-5.4 in AutoClaw — https://autoclaw.z.ai/en/blog/model/GLM-5.4/",
+      "date_published": "2026-11-23T14:24:44Z",
+      "external_url": "https://z.ai/blog/glm-5.4",
+      "id": "urn:rase:ai:record:RSI-REC-b4058a6fb7ee1e351fe90734",
+      "summary": "The issuer's dated model announcement and official AutoClaw notice document hosted access. They do not establish current API availability or downloadable weights.",
+      "tags": [
+        "Foundation models, assistants & multimodal AI"
+      ],
+      "title": "Z.ai announces GLM-5.4 and hosted product access",
+      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/glm-5-4"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Artificial intelligence model for pancreatic cancer risk prediction in patients with pancreatic cystic lesions",
+            "url": "https://www.nature.com/articles/s41746-026-03441-4"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "An accepted npj Digital Medicine paper examines whether radiology reports and clinical data can help estimate future pancreatic cancer risk in patients with pancreatic cystic lesions.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: Artificial intelligence model for pancreatic cancer risk prediction in patients with pancreatic cystic lesions — https://www.nature.com/articles/s41746-026-03441-4",
+      "date_published": "2026-11-23T14:24:44Z",
+      "external_url": "https://www.nature.com/articles/s41746-026-03441-4",
+      "id": "urn:rase:ai:record:RSI-REC-db8eb09e7ee4ab851a7e4862",
+      "summary": "An accepted npj Digital Medicine paper examines whether radiology reports and clinical data can help estimate future pancreatic cancer risk in patients with pancreatic cystic lesions.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "Retrospective study evaluates AI for pancreatic-cyst cancer risk",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/pancreatic-cystic-lesion-ai-risk-prediction-study"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "NIOSH CORR request for information on humanoid robots in workplaces, 91 FR 75513–75514",
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-23/pdf/2026-23799.pdf"
+          },
+          {
+            "kind": "primary",
+            "title": "Public-inspection version of NIOSH humanoid-workplace research consultation",
+            "url": "https://public-inspection.federalregister.gov/2026-23799.pdf"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The formal notice publication concerns research priorities, not an adopted robot regulation or commercial authorization.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: NIOSH CORR request for information on humanoid robots in workplaces, 91 FR 75513–75514 — https://www.govinfo.gov/content/pkg/FR-2026-11-23/pdf/2026-23799.pdf\nEvidence: Public-inspection version of NIOSH humanoid-workplace research consultation — https://public-inspection.federalregister.gov/2026-23799.pdf",
+      "date_published": "2026-11-23T14:24:44Z",
+      "external_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-23/pdf/2026-23799.pdf",
+      "id": "urn:rase:ai:record:RSI-REC-b12032bf41510299f7410212",
+      "summary": "The formal notice publication concerns research priorities, not an adopted robot regulation or commercial authorization.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "NIOSH workplace-humanoid research consultation published",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/niosh-humanoid-workplace-robotics-research-consultation"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Cambridgeshire women are first to join world-leading AI breast screening trial",
+            "url": "https://cambridgebrc.nihr.ac.uk/2026/11/23/cambridgeshire-women-are-first-to-join-world-leading-ai-breast-screening-trial/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The NIHR Cambridge Biomedical Research Centre reports that women invited for routine screening in Cambridgeshire are joining the EDITH study of AI-assisted mammogram review.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: Cambridgeshire women are first to join world-leading AI breast screening trial — https://cambridgebrc.nihr.ac.uk/2026/11/23/cambridgeshire-women-are-first-to-join-world-leading-ai-breast-screening-trial/",
+      "date_published": "2026-11-23T14:24:44Z",
+      "external_url": "https://cambridgebrc.nihr.ac.uk/2026/11/23/cambridgeshire-women-are-first-to-join-world-leading-ai-breast-screening-trial/",
+      "id": "urn:rase:ai:record:RSI-REC-34b0e65d433fe40fb03aa8de",
+      "summary": "The NIHR Cambridge Biomedical Research Centre reports that women invited for routine screening in Cambridgeshire are joining the EDITH study of AI-assisted mammogram review.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "EDITH reports Cambridge recruitment for AI-assisted breast screening",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/edith-ai-assisted-breast-screening-trial"
+    },
+    {
+      "_rase": {
+        "event_type": "preview_opened",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Solar Mini 4.5 Preview",
+            "url": "https://console.upstage.ai/docs/models/solar-mini-4-5-preview"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Upstage documents an early-access Solar model for chat, reasoning, tool use and structured outputs, with the production release still planned.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: Solar Mini 4.5 Preview — https://console.upstage.ai/docs/models/solar-mini-4-5-preview",
+      "date_published": "2026-11-23T14:24:44Z",
+      "external_url": "https://console.upstage.ai/docs/models/solar-mini-4-5-preview",
+      "id": "urn:rase:ai:record:RSI-REC-0c0627af60a5db3afa41fc31",
+      "summary": "Upstage documents an early-access Solar model for chat, reasoning, tool use and structured outputs, with the production release still planned.",
+      "tags": [
+        "Foundation models, assistants & multimodal AI"
+      ],
+      "title": "Upstage opens a Solar Mini 4.5 preview before its planned December release",
+      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/solar-mini-4-5-preview"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "A dental cone-beam computed tomography dataset with instance-level annotations of 38 anatomical structures",
+            "url": "https://www.nature.com/articles/s41597-026-08868-8"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Scientific Data published an accepted description of DentVoxel, a research dataset containing 100 dental cone-beam CT scans with instance-level labels for 38 anatomical structures.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: A dental cone-beam computed tomography dataset with instance-level annotations of 38 anatomical structures — https://www.nature.com/articles/s41597-026-08868-8",
+      "date_published": "2026-11-23T14:24:44Z",
+      "external_url": "https://www.nature.com/articles/s41597-026-08868-8",
+      "id": "urn:rase:ai:record:RSI-REC-a3c7c14c9d42e46d82128fa5",
+      "summary": "Scientific Data published an accepted description of DentVoxel, a research dataset containing 100 dental cone-beam CT scans with instance-level labels for 38 anatomical structures.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "DentVoxel journal paper documents a dental segmentation dataset",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/dentvoxel-dental-cbct-research-dataset"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "L&T Technology Services launches SDVault.ai for the software-defined vehicle V-cycle",
+            "url": "https://nsearchives.nseindia.com/corporate/LTTS_23112026085541_23112026LTTSPRessreleasesd.pdf"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The original company release introduces an automotive engineering toolchain, not a newly certified autonomous vehicle.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: L&T Technology Services launches SDVault.ai for the software-defined vehicle V-cycle — https://nsearchives.nseindia.com/corporate/LTTS_23112026085541_23112026LTTSPRessreleasesd.pdf",
+      "date_published": "2026-11-23T14:24:44Z",
+      "external_url": "https://nsearchives.nseindia.com/corporate/LTTS_23112026085541_23112026LTTSPRessreleasesd.pdf",
+      "id": "urn:rase:ai:record:RSI-REC-1307501e021443433e946205",
+      "summary": "The original company release introduces an automotive engineering toolchain, not a newly certified autonomous vehicle.",
+      "tags": [
+        "Transportation, manufacturing, agriculture & energy"
+      ],
+      "title": "LTTS announces SDVault.ai engineering toolchain",
+      "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/ltts-sdvault-ai"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AITX issuer release: RAD deploys ROAMEO for corrections patrol evaluation",
+            "url": "https://www.sec.gov/Archives/edgar/data/1498148/000149315226053603/ex99-1.htm"
+          },
+          {
+            "kind": "primary",
+            "title": "RAD November 11 announcement of planned corrections proof of concept",
+            "url": "https://radsecurity.com/press-releases/rad-targets-the-high-cost-of-corrections-patrols-with-roameo"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The dated issuer report says one trial unit is patrolling; it does not establish a successful trial or an expanded fleet.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: AITX issuer release: RAD deploys ROAMEO for corrections patrol evaluation — https://www.sec.gov/Archives/edgar/data/1498148/000149315226053603/ex99-1.htm\nEvidence: RAD November 11 announcement of planned corrections proof of concept — https://radsecurity.com/press-releases/rad-targets-the-high-cost-of-corrections-patrols-with-roameo",
+      "date_published": "2026-11-23T14:24:44Z",
+      "external_url": "https://www.sec.gov/Archives/edgar/data/1498148/000149315226053603/ex99-1.htm",
+      "id": "urn:rase:ai:record:RSI-REC-67013f6109e46d16dec8f7ce",
+      "summary": "The dated issuer report says one trial unit is patrolling; it does not establish a successful trial or an expanded fleet.",
+      "tags": [
+        "Robotics, humanoids, household robots & physical AI"
+      ],
+      "title": "RAD reports ROAMEO corrections-site deployment",
+      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/roameo-corrections-facility-patrol-evaluation"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "WALL-OSS-1.0: Understand More, Act Better — X Square Robot",
+            "url": "https://x2robot.com/en/blog/wall-oss-1"
+          },
+          {
+            "kind": "primary",
+            "title": "X Square Robot introduces WALL-OSS-1.0, XR Harness and WALL-API-1.0",
+            "url": "https://www.globenewswire.com/news-release/2026/11/23/3408046/0/en/x-square-robot-introduces-wall-oss-1-0-understand-more-act-better-a-native-foundation-model-for-the-physical-world.html"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The announcement concerns a robot-action model and preview tooling, not a verified general-purpose robot deployment.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: WALL-OSS-1.0: Understand More, Act Better — X Square Robot — https://x2robot.com/en/blog/wall-oss-1\nEvidence: X Square Robot introduces WALL-OSS-1.0, XR Harness and WALL-API-1.0 — https://www.globenewswire.com/news-release/2026/11/23/3408046/0/en/x-square-robot-introduces-wall-oss-1-0-understand-more-act-better-a-native-foundation-model-for-the-physical-world.html",
+      "date_published": "2026-11-23T14:24:44Z",
+      "external_url": "https://x2robot.com/en/blog/wall-oss-1",
+      "id": "urn:rase:ai:record:RSI-REC-74c6551247a42772c925c827",
+      "summary": "The announcement concerns a robot-action model and preview tooling, not a verified general-purpose robot deployment.",
+      "tags": [
+        "Robotics, humanoids, household robots & physical AI"
+      ],
+      "title": "X Square announces WALL-OSS-1.0 and XR Harness preview",
+      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/wall-oss-1-0-robot-foundation-model"
+    },
+    {
+      "_rase": {
         "event_type": "research_publication",
         "original_event_date": {
           "certainty": "verified",
@@ -145,6 +470,51 @@
         "sources": [
           {
             "kind": "primary",
+            "title": "Thematic Brief on AI Capacity-Building",
+            "url": "https://www.un.org/independent-international-scientific-panel-ai/en/thematic-brief-ai-capacity-building"
+          },
+          {
+            "kind": "primary",
+            "title": "Thematic Brief on AI Capacity-Building",
+            "url": "https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-11/Thematic%20Brief_AI%20Capacity-Building_22%20Nov%202026.pdf"
+          },
+          {
+            "kind": "primary",
+            "title": "There is no single path to building AI capability, independent scientific panel finds",
+            "url": "https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-11/Press%20Release_%20Thematic%20Brief%20on%20AI%20Capacity%20Building%20-%20AI%20Scientific%20Panel_0.pdf"
+          },
+          {
+            "kind": "primary",
+            "title": "Independent International Scientific Panel on AI: Timeline",
+            "url": "https://www.un.org/independent-international-scientific-panel-ai/en/timeline"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "A new thematic assessment examines how countries can use, adapt or develop AI, emphasizing local evaluation, relevant data, skills and institutions alongside computing resources.\n\nVerified development date: 2026-11-22 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: Thematic Brief on AI Capacity-Building — https://www.un.org/independent-international-scientific-panel-ai/en/thematic-brief-ai-capacity-building\nEvidence: Thematic Brief on AI Capacity-Building — https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-11/Thematic%20Brief_AI%20Capacity-Building_22%20Nov%202026.pdf\nEvidence: There is no single path to building AI capability, independent scientific panel finds — https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-11/Press%20Release_%20Thematic%20Brief%20on%20AI%20Capacity%20Building%20-%20AI%20Scientific%20Panel_0.pdf\nEvidence: Independent International Scientific Panel on AI: Timeline — https://www.un.org/independent-international-scientific-panel-ai/en/timeline",
+      "date_published": "2026-11-23T14:24:44Z",
+      "external_url": "https://www.un.org/independent-international-scientific-panel-ai/en/thematic-brief-ai-capacity-building",
+      "id": "urn:rase:ai:record:RSI-REC-d83d54b44ec966baab6ad926",
+      "summary": "A new thematic assessment examines how countries can use, adapt or develop AI, emphasizing local evaluation, relevant data, skills and institutions alongside computing resources.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "UN scientific panel sets out different paths to national AI capability",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/un-scientific-panel-ai-capacity-building-thematic-brief"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-22"
+        },
+        "sources": [
+          {
+            "kind": "primary",
             "title": "Perplexity and Intelligence",
             "url": "https://openai.com/index/perplexity-and-intelligence/"
           }
@@ -163,6 +533,46 @@
       ],
       "title": "OpenAI publishes its perplexity transparency and safety proposal",
       "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/openai-perplexity-transparency-and-safety-proposal"
+    },
+    {
+      "_rase": {
+        "event_type": "public_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-22"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Tether v0.4.0 GitHub release",
+            "url": "https://github.com/chizy7/tether/releases/tag/v0.4.0"
+          },
+          {
+            "kind": "primary",
+            "title": "Tether v0.4.0 versioned changelog",
+            "url": "https://github.com/chizy7/tether/blob/v0.4.0/CHANGELOG.md"
+          },
+          {
+            "kind": "primary",
+            "title": "Tether replay behavior and limitations at v0.4.0",
+            "url": "https://github.com/chizy7/tether/blob/v0.4.0/docs/REPLAY.md"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The maintainer published the versioned release and downloads. Its evaluation features are documented in the same version's earlier-dated changelog; no first-code availability date is asserted.\n\nVerified development date: 2026-11-22 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: Tether v0.4.0 GitHub release — https://github.com/chizy7/tether/releases/tag/v0.4.0\nEvidence: Tether v0.4.0 versioned changelog — https://github.com/chizy7/tether/blob/v0.4.0/CHANGELOG.md\nEvidence: Tether replay behavior and limitations at v0.4.0 — https://github.com/chizy7/tether/blob/v0.4.0/docs/REPLAY.md",
+      "date_published": "2026-11-23T14:24:44Z",
+      "external_url": "https://github.com/chizy7/tether/releases/tag/v0.4.0",
+      "id": "urn:rase:ai:record:RSI-REC-ac0d21403a070518c5a0de47",
+      "summary": "The maintainer published the versioned release and downloads. Its evaluation features are documented in the same version's earlier-dated changelog; no first-code availability date is asserted.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "Tether publishes its v0.4.0 GitHub release",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/tether-agent-replay-and-evaluation-harness"
     },
     {
       "_rase": {
@@ -1264,403 +1674,6 @@
       ],
       "title": "AgentCore adds EC2 G7 support for runtime instances",
       "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/amazon-bedrock-agentcore-g7-runtime-support"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Zscaler frontier-model provider collaboration announcement",
-            "url": "https://www.zscaler.com/press/zscaler-partners-frontier-model-providers-help-enterprises-safely-embrace-ai-and-stop-ai"
-          },
-          {
-            "kind": "primary",
-            "title": "Zscaler issuer-distributed collaboration release",
-            "url": "https://www.globenewswire.com/news-release/2026/11/20/3407821/0/en/zscaler-partners-with-frontier-model-providers-to-help-enterprises-safely-embrace-ai-and-stop-ai-driven-attacks.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The issuer describes Anthropic and Mistral work, while qualifying the Exploit Paths capability as a planned limited preview.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Zscaler frontier-model provider collaboration announcement — https://www.zscaler.com/press/zscaler-partners-frontier-model-providers-help-enterprises-safely-embrace-ai-and-stop-ai\nEvidence: Zscaler issuer-distributed collaboration release — https://www.globenewswire.com/news-release/2026/11/20/3407821/0/en/zscaler-partners-with-frontier-model-providers-to-help-enterprises-safely-embrace-ai-and-stop-ai-driven-attacks.html",
-      "date_published": "2026-11-21T14:12:13Z",
-      "external_url": "https://www.zscaler.com/press/zscaler-partners-frontier-model-providers-help-enterprises-safely-embrace-ai-and-stop-ai",
-      "id": "urn:rase:ai:record:RSI-REC-e173ae51f2b4dce84a078040",
-      "summary": "The issuer describes Anthropic and Mistral work, while qualifying the Exploit Paths capability as a planned limited preview.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "Zscaler announces frontier-model security collaborations",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/zscaler-frontier-model-security-collaborations"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "OpenAI ChatGPT release notes for November 18, 2026",
-            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_event_publication"
-      },
-      "content_text": "OpenAI announced expanded Space access for adult Plus subscribers, with plan and sharing restrictions.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:40Z.\nPublic content reviewed/published: 2026-11-21T01:34:43Z.\nEvidence: OpenAI ChatGPT release notes for November 18, 2026 — https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "date_modified": "2026-11-21T01:34:43Z",
-      "date_published": "2026-11-17T20:57:40Z",
-      "external_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "id": "urn:rase:ai:record:RSI-CAL-008",
-      "summary": "OpenAI announced expanded Space access for adult Plus subscribers, with plan and sharing restrictions.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "ChatGPT Space begins rolling out to adult Plus users",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/chatgpt"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "System of agentic AI for the discovery of metal–organic frameworks",
-            "url": "https://www.nature.com/articles/s43588-026-01058-x"
-          },
-          {
-            "kind": "primary",
-            "title": "System of Agentic AI for the Discovery of Metal-Organic Frameworks",
-            "url": "https://arxiv.org/abs/2504.14110"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The journal article connects generated structures with feasibility checks and selected synthesis experiments.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: System of agentic AI for the discovery of metal–organic frameworks — https://www.nature.com/articles/s43588-026-01058-x\nEvidence: System of Agentic AI for the Discovery of Metal-Organic Frameworks — https://arxiv.org/abs/2504.14110",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://www.nature.com/articles/s43588-026-01058-x",
-      "id": "urn:rase:ai:record:RSI-REC-4a3dc27e9d841959ed894d1f",
-      "summary": "The journal article connects generated structures with feasibility checks and selected synthesis experiments.",
-      "tags": [
-        "Education, research & scientific discovery"
-      ],
-      "title": "Journal publishes MOFGen agentic materials-discovery study",
-      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/mofgen-materials-discovery-research"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "A multimodal foundation model for molecular and morphologic data in oncology",
-            "url": "https://www.nature.com/articles/s43018-026-01252-w"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The paper evaluates molecularly guided whole-slide representations on oncology research tasks.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: A multimodal foundation model for molecular and morphologic data in oncology — https://www.nature.com/articles/s43018-026-01252-w",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://www.nature.com/articles/s43018-026-01252-w",
-      "id": "urn:rase:ai:record:RSI-REC-c4fdc1267c643dc00256b9a5",
-      "summary": "The paper evaluates molecularly guided whole-slide representations on oncology research tasks.",
-      "tags": [
-        "Healthcare, biotechnology & medical AI"
-      ],
-      "title": "Journal publishes THREADS multimodal oncology study",
-      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/threads-oncology-foundation-model-research"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Commerce OIG evaluation initiation, project 2027-551",
-            "url": "https://www.oig.doc.gov/evaluation-of-biss-oversight-of-advanced-computing-chip-diversion-and-remote-access-through-overseas-data-centers/"
-          },
-          {
-            "kind": "primary",
-            "title": "Commerce OIG signed initiation memorandum",
-            "url": "https://www.oig.doc.gov/wp-content/OIGPublications/2026-11-20_Evaluation-of-BIS-Controls-Over-Chip-Diversion-and-Remote-Access_Announcement_SECURED.pdf"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The November 20 memo opens an evaluation of diversion and remote-access controls; it does not report completed findings.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Commerce OIG evaluation initiation, project 2027-551 — https://www.oig.doc.gov/evaluation-of-biss-oversight-of-advanced-computing-chip-diversion-and-remote-access-through-overseas-data-centers/\nEvidence: Commerce OIG signed initiation memorandum — https://www.oig.doc.gov/wp-content/OIGPublications/2026-11-20_Evaluation-of-BIS-Controls-Over-Chip-Diversion-and-Remote-Access_Announcement_SECURED.pdf",
-      "date_published": "2026-11-21T14:12:13Z",
-      "external_url": "https://www.oig.doc.gov/evaluation-of-biss-oversight-of-advanced-computing-chip-diversion-and-remote-access-through-overseas-data-centers/",
-      "id": "urn:rase:ai:record:RSI-REC-bb0027572d09b5329c6b75c7",
-      "summary": "The November 20 memo opens an evaluation of diversion and remote-access controls; it does not report completed findings.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "Commerce OIG initiates advanced-computing oversight evaluation",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/commerce-oig-review-of-advanced-compute-diversion-controls"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Anthropic announces closing of initial public offering and concurrent private placement",
-            "url": "https://www.anthropic.com/news/ipo-close"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_event_publication"
-      },
-      "content_text": "The company reports completed closing, distinct from earlier pricing and trading milestones.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-19T01:27:02Z.\nPublic content reviewed/published: 2026-11-20T14:10:20Z.\nEvidence: Anthropic announces closing of initial public offering and concurrent private placement — https://www.anthropic.com/news/ipo-close",
-      "date_modified": "2026-11-20T14:10:20Z",
-      "date_published": "2026-11-19T01:27:02Z",
-      "external_url": "https://www.anthropic.com/news/ipo-close",
-      "id": "urn:rase:ai:record:RSI-REC-236a56a4169fdc687d240bde",
-      "summary": "The company reports completed closing, distinct from earlier pricing and trading milestones.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "Anthropic confirms closing of IPO and concurrent private placement",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/anthropic-initial-public-offering-pricing"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Distributed Inference for Local AI via Superfluid",
-            "url": "https://huggingface.co/blog/basecompute/superfluid-fleet"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Basecompute published fleet-mode architecture and evaluation results for its existing Superfluid inference software; this is not a newly established first-launch date.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: Distributed Inference for Local AI via Superfluid — https://huggingface.co/blog/basecompute/superfluid-fleet",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://huggingface.co/blog/basecompute/superfluid-fleet",
-      "id": "urn:rase:ai:record:RSI-REC-6f54af1e0df239f347240a7e",
-      "summary": "Basecompute published fleet-mode architecture and evaluation results for its existing Superfluid inference software; this is not a newly established first-launch date.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "Basecompute publishes Superfluid fleet-mode evaluations",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/superfluid-fleet-inference"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "AWS Transform announces support for .NET 11 and expanded project types",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/"
-          },
-          {
-            "kind": "primary",
-            "title": "Document history for the AWS Transform User Guide",
-            "url": "https://docs.aws.amazon.com/transform/latest/userguide/doc-history.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "AWS’s November 20 announcement declares .NET 11 modernization generally available. Earlier support documentation and existing expanded project coverage are preserved as chronology, not new releases on this day.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: AWS Transform announces support for .NET 11 and expanded project types — https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/\nEvidence: Document history for the AWS Transform User Guide — https://docs.aws.amazon.com/transform/latest/userguide/doc-history.html",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/",
-      "id": "urn:rase:ai:record:RSI-REC-04c275680f5d14adf2bb0041",
-      "summary": "AWS’s November 20 announcement declares .NET 11 modernization generally available. Earlier support documentation and existing expanded project coverage are preserved as chronology, not new releases on this day.",
-      "tags": [
-        "AI software development & programming"
-      ],
-      "title": "AWS announces .NET 11 general availability in Transform",
-      "url": "https://rasesolutions.com/ai/ai-software-development-programming/aws-transform-net-11-modernization-update"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Government's top AI engineers to help Liverpool's young people into work",
-            "url": "https://www.gov.uk/government/news/governments-top-ai-engineers-to-help-liverpools-young-people-into-work"
-          },
-          {
-            "kind": "primary",
-            "title": "Government's top AI engineers to help Liverpool City Region's young people into work",
-            "url": "https://www.liverpoolcityregion-ca.gov.uk/news/governments-top-ai-engineers-to-help-liverpool-city-regions-young-people-into-work"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The partners agree a 12-month development project, with work planned from January 2027 and professional decision-making retained.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: Government's top AI engineers to help Liverpool's young people into work — https://www.gov.uk/government/news/governments-top-ai-engineers-to-help-liverpools-young-people-into-work\nEvidence: Government's top AI engineers to help Liverpool City Region's young people into work — https://www.liverpoolcityregion-ca.gov.uk/news/governments-top-ai-engineers-to-help-liverpool-city-regions-young-people-into-work",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://www.gov.uk/government/news/governments-top-ai-engineers-to-help-liverpools-young-people-into-work",
-      "id": "urn:rase:ai:record:RSI-REC-d485fa486f32f2e6570b832c",
-      "summary": "The partners agree a 12-month development project, with work planned from January 2027 and professional decision-making retained.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "UK i.AI and Liverpool City Region announce youth-support partnership",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/i-ai-liverpool-youth-employment-support-partnership"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Can AI help scientists identify promising drug candidates?",
-            "url": "https://openai.com/index/introducing-medchembench/"
-          },
-          {
-            "kind": "primary",
-            "title": "MedChemBench: Evaluating complex multimodal reasoning in medicinal chemistry",
-            "url": "https://cdn.openai.com/pdf/09c4ec60-a32e-4652-837b-1811368a3bb0/medchembench-paper.pdf"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The November 20 research announcement presents a 99-problem benchmark; it does not announce a discovered medicine or a clinical result.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: Can AI help scientists identify promising drug candidates? — https://openai.com/index/introducing-medchembench/\nEvidence: MedChemBench: Evaluating complex multimodal reasoning in medicinal chemistry — https://cdn.openai.com/pdf/09c4ec60-a32e-4652-837b-1811368a3bb0/medchembench-paper.pdf",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://openai.com/index/introducing-medchembench/",
-      "id": "urn:rase:ai:record:RSI-REC-ab28b0717589a236c05aa4b9",
-      "summary": "The November 20 research announcement presents a 99-problem benchmark; it does not announce a discovered medicine or a clinical result.",
-      "tags": [
-        "Education, research & scientific discovery"
-      ],
-      "title": "OpenAI introduces MedChemBench for medicinal chemistry reasoning",
-      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/medchembench-medicinal-chemistry-benchmark"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Ayb: Language models for Armenian",
-            "url": "https://huggingface.co/blog/Metric-AI/ayb-05-intro"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Metric AI announced three Armenian-focused models and described language adaptations and limitations.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: Ayb: Language models for Armenian — https://huggingface.co/blog/Metric-AI/ayb-05-intro",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://huggingface.co/blog/Metric-AI/ayb-05-intro",
-      "id": "urn:rase:ai:record:RSI-REC-a27ce87bf8089f29529f8ed1",
-      "summary": "Metric AI announced three Armenian-focused models and described language adaptations and limitations.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "Metric AI introduces Ayb0.5 for Armenian-language applications",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/ayb-0-5-armenian-model-family"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Fixstars launches GLM-5.3 on Fixstars Inference Cloud",
-            "url": "https://news.fixstars.com/7618/"
-          },
-          {
-            "kind": "primary",
-            "title": "Fixstars Inference Cloud: Fast, Japan-hosted inference for open-weight models",
-            "url": "https://www.fixstars.com/en/products-services/inference-cloud"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The November 20 provider release documents direct-contract access to an optimized model. The underlying model predates this service update and FastMetal access remains planned.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Fixstars launches GLM-5.3 on Fixstars Inference Cloud — https://news.fixstars.com/7618/\nEvidence: Fixstars Inference Cloud: Fast, Japan-hosted inference for open-weight models — https://www.fixstars.com/en/products-services/inference-cloud",
-      "date_published": "2026-11-21T14:12:13Z",
-      "external_url": "https://news.fixstars.com/7618/",
-      "id": "urn:rase:ai:record:RSI-REC-10d999abcf0482ba40f48d20",
-      "summary": "The November 20 provider release documents direct-contract access to an optimized model. The underlying model predates this service update and FastMetal access remains planned.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "Fixstars adds GLM-5.3 to its Japan-hosted inference service",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/fixstars-inference-cloud-glm-5-3-access"
     }
   ],
   "language": "en",
