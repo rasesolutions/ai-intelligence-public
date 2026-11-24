@@ -11,6 +11,201 @@
   "items": [
     {
       "_rase": {
+        "event_type": "public_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Introducing file slicing controls in the Gemini API",
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The dated release adds targeted file processing and expanded document formats; upload limits remain in force.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Introducing file slicing controls in the Gemini API — https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+      "id": "urn:rase:ai:record:RSI-REC-87a00a5e4c4db74e4289ea23",
+      "summary": "The dated release adds targeted file processing and expanded document formats; upload limits remain in force.",
+      "tags": [
+        "AI software development & programming"
+      ],
+      "title": "Google releases native file slicing controls for the Gemini API",
+      "url": "https://rasesolutions.com/ai/ai-software-development-programming/gemini-api-file-slicing-controls"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Azure Databricks November 2026 release notes",
+            "url": "https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/november"
+          },
+          {
+            "kind": "primary",
+            "title": "Impact analysis",
+            "url": "https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/impact-analysis"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The dated feature adds downstream impact review; documentation warns that incomplete lineage is not proof of a safe change.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Azure Databricks November 2026 release notes — https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/november\nEvidence: Impact analysis — https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/impact-analysis",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/november",
+      "id": "urn:rase:ai:record:RSI-REC-e49bbcbdb55420c8c583aa0a",
+      "summary": "The dated feature adds downstream impact review; documentation warns that incomplete lineage is not proof of a safe change.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "Azure Databricks announces beta impact analysis with optional AI summaries",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/azure-databricks-ai-assisted-lineage-impact-analysis"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "LitMOF: An LLM Multi-Agent for Literature-Validated Metal-Organic Frameworks Database Correction and Expansion",
+            "url": "https://www.nature.com/articles/s41467-026-79242-w"
+          },
+          {
+            "kind": "primary",
+            "title": "LitMOF preprint and submission history",
+            "url": "https://arxiv.org/abs/2512.01693"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Nature Communications published accepted research on LitMOF, a multi-agent system that checks metal–organic framework structures against their original literature.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: LitMOF: An LLM Multi-Agent for Literature-Validated Metal-Organic Frameworks Database Correction and Expansion — https://www.nature.com/articles/s41467-026-79242-w\nEvidence: LitMOF preprint and submission history — https://arxiv.org/abs/2512.01693",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://www.nature.com/articles/s41467-026-79242-w",
+      "id": "urn:rase:ai:record:RSI-REC-11e2a08b0e68b259075397c4",
+      "summary": "Nature Communications published accepted research on LitMOF, a multi-agent system that checks metal–organic framework structures against their original literature.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "LitMOF journal paper examines AI-assisted repair of materials databases",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/litmof-scientific-database-curation-research"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Azure Databricks November 2026 release notes",
+            "url": "https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/november"
+          },
+          {
+            "kind": "primary",
+            "title": "Set up Genie Search",
+            "url": "https://learn.microsoft.com/en-us/azure/databricks/genie/genie-ontology/search-index"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 23 release-note entry dates beta indexing; setup documentation defines permissions and regional requirements.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Azure Databricks November 2026 release notes — https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/november\nEvidence: Set up Genie Search — https://learn.microsoft.com/en-us/azure/databricks/genie/genie-ontology/search-index",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/november",
+      "id": "urn:rase:ai:record:RSI-REC-4ea79807327151f65a9992ab",
+      "summary": "The November 23 release-note entry dates beta indexing; setup documentation defines permissions and regional requirements.",
+      "tags": [
+        "Business, finance, sales & productivity"
+      ],
+      "title": "Azure Databricks announces beta SharePoint support for Genie Search",
+      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/azure-databricks-genie-search-sharepoint-connector"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Amazon Connect Customer expands automated performance evaluations to 45 new languages",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS announces multilingual and cross-language evaluation support, with availability tied to supported service Regions.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Amazon Connect Customer expands automated performance evaluations to 45 new languages — https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/",
+      "id": "urn:rase:ai:record:RSI-REC-843538304b0ffbf74522bfb4",
+      "summary": "AWS announces multilingual and cross-language evaluation support, with availability tied to supported service Regions.",
+      "tags": [
+        "Business, finance, sales & productivity"
+      ],
+      "title": "Amazon Connect expands AI performance evaluations to 45 more languages",
+      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/amazon-connect-customer-multilingual-ai-evaluations"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Amazon EC2 Capacity Blocks for ML now supports search across multiple instance types and AWS Regions",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The update improves reservation discovery while distinguishing console breadth from the API's per-Region search.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Amazon EC2 Capacity Blocks for ML now supports search across multiple instance types and AWS Regions — https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/",
+      "id": "urn:rase:ai:record:RSI-REC-308b0e3429d59a6093472eac",
+      "summary": "The update improves reservation discovery while distinguishing console breadth from the API's per-Region search.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "AWS adds multi-type and multi-Region console search for Capacity Blocks",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-ec2-capacity-blocks-for-ml-flexible-search"
+    },
+    {
+      "_rase": {
         "event_type": "announcement",
         "original_event_date": {
           "certainty": "verified",
@@ -43,6 +238,71 @@
       ],
       "title": "L&T announces additional Chennai B300 deployment engagement",
       "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/ltn-compute-chennai-b300-expansion-engagement"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Sovereign AI and National Security Strategic Investment Fund backing British autonomous defence systems firm",
+            "url": "https://www.gov.uk/government/news/sovereign-ai-and-national-security-strategic-investment-fund-backing-british-autonomous-defence-systems-firm"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The Cabinet Office announced that Sovereign AI and NSSIF are backing Agon’s development of infrastructure for training and testing autonomous defence systems.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Sovereign AI and National Security Strategic Investment Fund backing British autonomous defence systems firm — https://www.gov.uk/government/news/sovereign-ai-and-national-security-strategic-investment-fund-backing-british-autonomous-defence-systems-firm",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://www.gov.uk/government/news/sovereign-ai-and-national-security-strategic-investment-fund-backing-british-autonomous-defence-systems-firm",
+      "id": "urn:rase:ai:record:RSI-REC-0f0d21524f9045d64ec8adb6",
+      "summary": "The Cabinet Office announced that Sovereign AI and NSSIF are backing Agon’s development of infrastructure for training and testing autonomous defence systems.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "UK government funds back Agon’s defence AI testing infrastructure",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/agon-autonomous-defence-ai-infrastructure"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "OpenAI and Cisco introduce Shirudo",
+            "url": "https://openai.com/index/introducing-shirudo/"
+          },
+          {
+            "kind": "primary",
+            "title": "Shirudo project repository",
+            "url": "https://github.com/shirudo-dev/shirudo"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The joint announcement documents targeted runtime protections and an operator-controlled workflow, without claiming universal exploit prevention.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: OpenAI and Cisco introduce Shirudo — https://openai.com/index/introducing-shirudo/\nEvidence: Shirudo project repository — https://github.com/shirudo-dev/shirudo",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://openai.com/index/introducing-shirudo/",
+      "id": "urn:rase:ai:record:RSI-REC-93a68846281766dfce0e6fe0",
+      "summary": "The joint announcement documents targeted runtime protections and an operator-controlled workflow, without claiming universal exploit prevention.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "OpenAI and Cisco announce the Shirudo security runtime",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/shirudo"
     },
     {
       "_rase": {
@@ -90,6 +350,102 @@
         "sources": [
           {
             "kind": "primary",
+            "title": "QAMNet: Co-designing deep learning with complex-valued computing machines",
+            "url": "https://www.nature.com/articles/s44387-026-00175-2"
+          },
+          {
+            "kind": "primary",
+            "title": "QAMNet: Fast and Efficient Optical QAM Neural Networks",
+            "url": "https://arxiv.org/abs/2409.12305"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "npj Artificial Intelligence published accepted QAMNet research on using both components of an optical signal to encode neural-network calculations.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: QAMNet: Co-designing deep learning with complex-valued computing machines — https://www.nature.com/articles/s44387-026-00175-2\nEvidence: QAMNet: Fast and Efficient Optical QAM Neural Networks — https://arxiv.org/abs/2409.12305",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://www.nature.com/articles/s44387-026-00175-2",
+      "id": "urn:rase:ai:record:RSI-REC-4dc0d24ac41e819bd4e0105d",
+      "summary": "npj Artificial Intelligence published accepted QAMNet research on using both components of an optical signal to encode neural-network calculations.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "QAMNet journal paper explores lower-energy optical neural-network encoding",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/qamnet-optical-neural-network-research"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "OpenAI ChatGPT release notes for November 18, 2026",
+            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "OpenAI dates the Chat-specific rollout November 23, distinct from the existing November 17 model-family milestone.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-18T19:15:06Z.\nPublic content reviewed/published: 2026-11-24T01:30:31Z.\nEvidence: OpenAI ChatGPT release notes for November 18, 2026 — https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date_modified": "2026-11-24T01:30:31Z",
+      "date_published": "2026-11-18T19:15:06Z",
+      "external_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "id": "urn:rase:ai:record:RSI-NEWS-20261118-001",
+      "summary": "OpenAI dates the Chat-specific rollout November 23, distinct from the existing November 17 model-family milestone.",
+      "tags": [
+        "Foundation models, assistants & multimodal AI"
+      ],
+      "title": "GPT-6.2 begins rollout in ChatGPT’s Chat tab",
+      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/gpt-6-2-astra-and-sol"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Working with AI",
+            "url": "https://www.anthropic.com/research/working-with-ai"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The report examines enterprise adoption through interviews; its findings should retain the sample and observational limits.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Working with AI — https://www.anthropic.com/research/working-with-ai",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://www.anthropic.com/research/working-with-ai",
+      "id": "urn:rase:ai:record:RSI-REC-cd6889ee1ecd2f1c74c73822",
+      "summary": "The report examines enterprise adoption through interviews; its findings should retain the sample and observational limits.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Anthropic publishes Working with AI",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/working-with-ai-enterprise-interview-study"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
             "title": "Artificial intelligence model for pancreatic cancer risk prediction in patients with pancreatic cystic lesions",
             "url": "https://www.nature.com/articles/s41746-026-03441-4"
           }
@@ -108,6 +464,36 @@
       ],
       "title": "Retrospective study evaluates AI for pancreatic-cyst cancer risk",
       "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/pancreatic-cystic-lesion-ai-risk-prediction-study"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Amazon SageMaker HyperPod launches a redesigned console experience for creating Amazon EKS-orchestrated clusters",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-console-eks/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The console update organizes required and optional cluster configuration without claiming a new training model.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Amazon SageMaker HyperPod launches a redesigned console experience for creating Amazon EKS-orchestrated clusters — https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-console-eks/",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-console-eks/",
+      "id": "urn:rase:ai:record:RSI-REC-67ba2715431fad152a59b92a",
+      "summary": "The console update organizes required and optional cluster configuration without claiming a new training model.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "AWS releases HyperPod's guided EKS cluster creation experience",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-sagemaker-hyperpod-guided-eks-cluster-setup"
     },
     {
       "_rase": {
@@ -143,6 +529,66 @@
       ],
       "title": "NIOSH workplace-humanoid research consultation published",
       "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/niosh-humanoid-workplace-robotics-research-consultation"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "ChatGPT for Academic Researchers",
+            "url": "https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The support article dates an access expansion and application opening, not automatic grant approval or a new model launch.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: ChatGPT for Academic Researchers — https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers",
+      "id": "urn:rase:ai:record:RSI-REC-497564da56deb9b5da9ca436",
+      "summary": "The support article dates an access expansion and application opening, not automatic grant approval or a new model launch.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "OpenAI expands ChatGPT academic research access on November 23",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/chatgpt-for-academic-researchers"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+            "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The dated issuer announcement reinstates Jensen Huang as president, CEO and a director while describing continuing board oversight and a planned compliance appointment.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:32Z.\nEvidence: NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director — https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx",
+      "date_published": "2026-11-24T01:30:32Z",
+      "external_url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx",
+      "id": "urn:rase:ai:record:RSI-REC-987efdbdc1ee420206ecc6c7",
+      "summary": "The dated issuer announcement reinstates Jensen Huang as president, CEO and a director while describing continuing board oversight and a planned compliance appointment.",
+      "tags": [
+        "Business, finance, sales & productivity"
+      ],
+      "title": "NVIDIA announces an immediate chief-executive reinstatement",
+      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/nvidia-leadership-reinstatement-and-compliance-oversight"
     },
     {
       "_rase": {
@@ -203,6 +649,66 @@
       ],
       "title": "Upstage opens a Solar Mini 4.5 preview before its planned December release",
       "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/solar-mini-4-5-preview"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "A more tailored Google Search that’s uniquely yours",
+            "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The announcement separates the Wallet rollout from later Drive and Gemini connections and preserves user opt-in controls.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: A more tailored Google Search that’s uniquely yours — https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "id": "urn:rase:ai:record:RSI-REC-8623fc40e4bd2e1a9163ac95",
+      "summary": "The announcement separates the Wallet rollout from later Drive and Gemini connections and preserves user opt-in controls.",
+      "tags": [
+        "Foundation models, assistants & multimodal AI"
+      ],
+      "title": "Google announces Wallet rollout and planned AI Mode app connections",
+      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/google-search-personal-intelligence-app-expansion"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "From ITU to Bangladesh: AI solution aims to strengthen the mental well-being of young refugees",
+            "url": "https://en.itu.dk/About-ITU/Press/News-from-ITU/2026/AI-in-refugee-camps"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "ITU researchers announced plans to test Amisengo, an assistant intended to help volunteers use the EASE mental-health protocol in Rohingya refugee camps.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: From ITU to Bangladesh: AI solution aims to strengthen the mental well-being of young refugees — https://en.itu.dk/About-ITU/Press/News-from-ITU/2026/AI-in-refugee-camps",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://en.itu.dk/About-ITU/Press/News-from-ITU/2026/AI-in-refugee-camps",
+      "id": "urn:rase:ai:record:RSI-REC-709e16addbbd48a8f1aa831d",
+      "summary": "ITU researchers announced plans to test Amisengo, an assistant intended to help volunteers use the EASE mental-health protocol in Rohingya refugee camps.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "ITU announces research on an AI assistant for refugee-camp support workers",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/amisengo-ease-protocol-research-assistant"
     },
     {
       "_rase": {
@@ -333,6 +839,101 @@
       ],
       "title": "X Square announces WALL-OSS-1.0 and XR Harness preview",
       "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/wall-oss-1-0-robot-foundation-model"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The announcement adds conversational/MCP access and daily exports while retaining existing data permissions.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions — https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/",
+      "id": "urn:rase:ai:record:RSI-REC-c56ac6496106f11a4ab1b4ef",
+      "summary": "The announcement adds conversational/MCP access and daily exports while retaining existing data permissions.",
+      "tags": [
+        "Business, finance, sales & productivity"
+      ],
+      "title": "AWS expands Partner Central analytics with agents and data subscriptions",
+      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/aws-partner-central-agents-analytics-access"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AI in Mental Health Airlock to support safe innovation",
+            "url": "https://www.gov.uk/government/news/ai-in-mental-health-airlock-to-support-safe-innovation"
+          },
+          {
+            "kind": "primary",
+            "title": "Apply for the AI in Mental Health Airlock",
+            "url": "https://www.gov.uk/government/publications/apply-for-the-ai-in-mental-health-airlock"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "MHRA and NICE launched the AI in Mental Health Airlock and opened applications for organisations developing methods to evaluate AI-related risks.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: AI in Mental Health Airlock to support safe innovation — https://www.gov.uk/government/news/ai-in-mental-health-airlock-to-support-safe-innovation\nEvidence: Apply for the AI in Mental Health Airlock — https://www.gov.uk/government/publications/apply-for-the-ai-in-mental-health-airlock",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://www.gov.uk/government/news/ai-in-mental-health-airlock-to-support-safe-innovation",
+      "id": "urn:rase:ai:record:RSI-REC-b43b92c30967acf70aad4970",
+      "summary": "MHRA and NICE launched the AI in Mental Health Airlock and opened applications for organisations developing methods to evaluate AI-related risks.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "UK regulators open a sandbox for evaluating mental-health AI safeguards",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/ai-in-mental-health-airlock"
+    },
+    {
+      "_rase": {
+        "event_type": "public_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Announcing metal size for Amazon EC2 G7 instances",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The new bare-metal size targets specialized GPU infrastructure; the release names Northern Virginia availability.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Announcing metal size for Amazon EC2 G7 instances — https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/",
+      "id": "urn:rase:ai:record:RSI-REC-e90d7d0fb7cad0401bd9b2c7",
+      "summary": "The new bare-metal size targets specialized GPU infrastructure; the release names Northern Virginia availability.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "AWS announces general availability of G7 metal instances",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-ec2-g7-metal-instances"
     },
     {
       "_rase": {
@@ -1058,621 +1659,6 @@
       ],
       "title": "Scientific Reports publishes AbL2BO antibody-optimization research",
       "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/abl2bo-antibody-sequence-optimization-research"
-    },
-    {
-      "_rase": {
-        "event_type": "policy_milestone",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Government response: Human Rights and the Regulation of AI",
-            "url": "https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/219105/government-response-human-rights-and-the-regulation-of-ai/"
-          },
-          {
-            "kind": "primary",
-            "title": "2nd Special Report - Human Rights and the Regulation of AI: Government Response",
-            "url": "https://api.parliament.uk/committees/publications/55901"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "A new response publication follows the earlier committee report; proposed reforms are not enacted law.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: Government response: Human Rights and the Regulation of AI — https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/219105/government-response-human-rights-and-the-regulation-of-ai/\nEvidence: 2nd Special Report - Human Rights and the Regulation of AI: Government Response — https://api.parliament.uk/committees/publications/55901",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/219105/government-response-human-rights-and-the-regulation-of-ai/",
-      "id": "urn:rase:ai:record:RSI-REC-c6cb1643fbcd766b8f4831fd",
-      "summary": "A new response publication follows the earlier committee report; proposed reforms are not enacted law.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "Parliament publishes government response to AI human-rights report",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/uk-human-rights-ai-regulation-scrutiny"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "UK–EU Summit 2026 Joint Statement, paragraph 54",
-            "url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html"
-          },
-          {
-            "kind": "primary",
-            "title": "European Council EU–UK summit main results",
-            "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/20/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The November 20 summit statement includes possible AI safety/security cooperation in a framework intended for early 2027.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: UK–EU Summit 2026 Joint Statement, paragraph 54 — https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html\nEvidence: European Council EU–UK summit main results — https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/20/",
-      "date_published": "2026-11-21T14:12:13Z",
-      "external_url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html",
-      "id": "urn:rase:ai:record:RSI-REC-f7d385fdfab8bd9251394603",
-      "summary": "The November 20 summit statement includes possible AI safety/security cooperation in a framework intended for early 2027.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "EU and UK announce intention to launch Digital Partnership",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/eu-uk-digital-partnership-plan"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing OhanASR: Open Armenian Speech Recognition Models",
-            "url": "https://huggingface.co/blog/Metric-AI/ohan-asr-v01"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Metric AI announced recorded-audio and streaming Armenian speech-recognition models with explicit license constraints.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: Introducing OhanASR: Open Armenian Speech Recognition Models — https://huggingface.co/blog/Metric-AI/ohan-asr-v01",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://huggingface.co/blog/Metric-AI/ohan-asr-v01",
-      "id": "urn:rase:ai:record:RSI-REC-ae7c6e8dd826eb3ed231637c",
-      "summary": "Metric AI announced recorded-audio and streaming Armenian speech-recognition models with explicit license constraints.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "Metric AI releases Armenian transcription models",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/ohanasr-model-family"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Browser Use 1.0.7 release notes",
-            "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.7"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_event_publication"
-      },
-      "content_text": "The maintainer documents partial output within 50 seconds, continued cell execution and retrieval of remaining output through another empty-code browser_exec call. This is an update to the existing browser automation project.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nPublic content reviewed/published: 2026-11-22T01:14:48Z.\nEvidence: Browser Use 1.0.7 release notes — https://github.com/browser-use/browser-use/releases/tag/1.0.7",
-      "date_modified": "2026-11-22T01:14:48Z",
-      "date_published": "2026-11-17T20:57:41Z",
-      "external_url": "https://github.com/browser-use/browser-use/releases/tag/1.0.7",
-      "id": "urn:rase:ai:record:RSI-P-175",
-      "summary": "The maintainer documents partial output within 50 seconds, continued cell execution and retrieval of remaining output through another empty-code browser_exec call. This is an update to the existing browser automation project.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "Browser Use 1.0.7 adds progress and resume for long MCP calls",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/browser-use"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "HTC NIPPON VIVEE Japan preorder and pricing announcement",
-            "url": "https://prtimes.jp/main/html/rd/p/000000245.000033579.html"
-          },
-          {
-            "kind": "primary",
-            "title": "VIVEE Japan official product page",
-            "url": "https://www.hivivee.com/jp/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "HTC outlined Japan preorder terms and a planned December 3 release. This dates the issuer’s announcement, while the first reservation-opening date remains unresolved.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T01:14:48Z.\nEvidence: HTC NIPPON VIVEE Japan preorder and pricing announcement — https://prtimes.jp/main/html/rd/p/000000245.000033579.html\nEvidence: VIVEE Japan official product page — https://www.hivivee.com/jp/",
-      "date_published": "2026-11-22T01:14:48Z",
-      "external_url": "https://prtimes.jp/main/html/rd/p/000000245.000033579.html",
-      "id": "urn:rase:ai:record:RSI-REC-fdecb89bb9b4b8d787aca12b",
-      "summary": "HTC outlined Japan preorder terms and a planned December 3 release. This dates the issuer’s announcement, while the first reservation-opening date remains unresolved.",
-      "tags": [
-        "Consumer electronics, wearables & smart homes"
-      ],
-      "title": "HTC publishes VIVEE Japan preorder and pricing announcement",
-      "url": "https://rasesolutions.com/ai/consumer-electronics-wearables-smart-homes/htc-vivee-japan-offer-announcement"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Science & Tech Spotlight: AI Chatbots and Mental Health",
-            "url": "https://www.gao.gov/products/gao-27-109184"
-          },
-          {
-            "kind": "primary",
-            "title": "GAO-27-109184: AI Chatbots and Mental Health",
-            "url": "https://www.gao.gov/assets/gao-27-109184.pdf"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The new report examines safety, oversight and uncertain effectiveness, without authorizing chatbot treatment or creating a binding rule.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: Science & Tech Spotlight: AI Chatbots and Mental Health — https://www.gao.gov/products/gao-27-109184\nEvidence: GAO-27-109184: AI Chatbots and Mental Health — https://www.gao.gov/assets/gao-27-109184.pdf",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://www.gao.gov/products/gao-27-109184",
-      "id": "urn:rase:ai:record:RSI-REC-ff873425c0fc6686f558e70a",
-      "summary": "The new report examines safety, oversight and uncertain effectiveness, without authorizing chatbot treatment or creating a binding rule.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "GAO publishes mental-health AI chatbot spotlight",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/gao-ai-chatbots-and-mental-health-spotlight"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Frontier and Center: Why your data agents need a wind tunnel",
-            "url": "https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Google Cloud published a November 20 technical account of an internal simulator that creates synthetic enterprise data and answer keys for evaluating data agents.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Frontier and Center: Why your data agents need a wind tunnel — https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents",
-      "date_published": "2026-11-21T14:12:13Z",
-      "external_url": "https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents",
-      "id": "urn:rase:ai:record:RSI-REC-d8aa13145a6d5b367b34247d",
-      "summary": "Google Cloud published a November 20 technical account of an internal simulator that creates synthetic enterprise data and answer keys for evaluating data agents.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "Google publishes technical account of internal data-agent simulator",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/google-cloud-internal-data-agent-simulator"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing OhanTTS: Armenian Text-to-Speech",
-            "url": "https://huggingface.co/blog/Metric-AI/ohan-tts"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Metric AI announced a non-commercial Armenian-focused speech model with streaming and reference-voice support.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: Introducing OhanTTS: Armenian Text-to-Speech — https://huggingface.co/blog/Metric-AI/ohan-tts",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://huggingface.co/blog/Metric-AI/ohan-tts",
-      "id": "urn:rase:ai:record:RSI-REC-0fd3e775dc756519ae1dee57",
-      "summary": "Metric AI announced a non-commercial Armenian-focused speech model with streaming and reference-voice support.",
-      "tags": [
-        "Generative video, audio, images, design & creative tools"
-      ],
-      "title": "Metric AI releases Armenian-focused speech synthesis",
-      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/ohantts-v0-1"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "nference Enters Long-Term Partnership with Cedars-Sinai to Develop AI-Enabled Platform for Advancing Clinical Research and Patient Care",
-            "url": "https://www.prnewswire.com/news-releases/nference-enters-long-term-partnership-with-cedars-sinai-to-develop-ai-enabled-platform-for-advancing-clinical-research-and-patient-care-302946419.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The partners plan infrastructure for de-identified multimodal clinical research.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: nference Enters Long-Term Partnership with Cedars-Sinai to Develop AI-Enabled Platform for Advancing Clinical Research and Patient Care — https://www.prnewswire.com/news-releases/nference-enters-long-term-partnership-with-cedars-sinai-to-develop-ai-enabled-platform-for-advancing-clinical-research-and-patient-care-302946419.html",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://www.prnewswire.com/news-releases/nference-enters-long-term-partnership-with-cedars-sinai-to-develop-ai-enabled-platform-for-advancing-clinical-research-and-patient-care-302946419.html",
-      "id": "urn:rase:ai:record:RSI-REC-4801b8707fd11ec039c57e04",
-      "summary": "The partners plan infrastructure for de-identified multimodal clinical research.",
-      "tags": [
-        "Healthcare, biotechnology & medical AI"
-      ],
-      "title": "nference announces Cedars-Sinai research-data collaboration",
-      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/nference-cedars-sinai-clinical-research-platform-partnership"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "AI and Cybersecurity: Technologies Can Magnify Cyberattacks and Enhance Cyber Defense",
-            "url": "https://www.gao.gov/products/gao-27-108458"
-          },
-          {
-            "kind": "primary",
-            "title": "GAO-27-108458 full report",
-            "url": "https://www.gao.gov/assets/gao-27-108458.pdf"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Report GAO-27-108458 presents 16 potential policy options under four goals rather than issuing new binding rules.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: AI and Cybersecurity: Technologies Can Magnify Cyberattacks and Enhance Cyber Defense — https://www.gao.gov/products/gao-27-108458\nEvidence: GAO-27-108458 full report — https://www.gao.gov/assets/gao-27-108458.pdf",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://www.gao.gov/products/gao-27-108458",
-      "id": "urn:rase:ai:record:RSI-REC-0236325b9505be4f125914f8",
-      "summary": "Report GAO-27-108458 presents 16 potential policy options under four goals rather than issuing new binding rules.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "GAO publishes AI and cybersecurity assessment",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/gao-ai-and-cybersecurity-technology-assessment"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing Inkling2Mini",
-            "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
-          },
-          {
-            "kind": "primary",
-            "title": "Inkling2Mini model card",
-            "url": "https://thinkingmachines.ai/model-card/inkling-2-mini/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Thinking Machines announced a new multimodal model and published its distribution and limitations.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: Introducing Inkling2Mini — https://thinkingmachines.ai/news/inkling-2-mini/\nEvidence: Inkling2Mini model card — https://thinkingmachines.ai/model-card/inkling-2-mini/",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "id": "urn:rase:ai:record:RSI-REC-686002b67f2162a646ecbed8",
-      "summary": "Thinking Machines announced a new multimodal model and published its distribution and limitations.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "Thinking Machines releases Inkling2Mini with open weights",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/inkling-2-mini"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Dominion Dynamics announces a Canadian consortium to develop Scout",
-            "url": "https://www.prnewswire.com/news-releases/dominion-dynamics-announces-a-canadian-consortium-to-develop-scout-canadas-first-autonomous-collaborative-platform-302946489.html"
-          },
-          {
-            "kind": "primary",
-            "title": "Dominion Dynamics: Building next-generation defence systems",
-            "url": "https://www.defendthedominion.com/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Named Canadian suppliers join a development effort; no completed aircraft deployment or procurement award is established.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: Dominion Dynamics announces a Canadian consortium to develop Scout — https://www.prnewswire.com/news-releases/dominion-dynamics-announces-a-canadian-consortium-to-develop-scout-canadas-first-autonomous-collaborative-platform-302946489.html\nEvidence: Dominion Dynamics: Building next-generation defence systems — https://www.defendthedominion.com/",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://www.prnewswire.com/news-releases/dominion-dynamics-announces-a-canadian-consortium-to-develop-scout-canadas-first-autonomous-collaborative-platform-302946489.html",
-      "id": "urn:rase:ai:record:RSI-REC-b5c64fcfdc8cb4a134faa3ae",
-      "summary": "Named Canadian suppliers join a development effort; no completed aircraft deployment or procurement award is established.",
-      "tags": [
-        "Robotics, humanoids, household robots & physical AI"
-      ],
-      "title": "Dominion announces 12-company Scout development consortium",
-      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/dominion-scout-development-consortium"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Oracle Statement",
-            "url": "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Oracle reports financing in place and updates campus progress, with future rack handovers still expected rather than completed.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T01:14:48Z.\nEvidence: Oracle Statement — https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/",
-      "date_published": "2026-11-22T01:14:48Z",
-      "external_url": "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/",
-      "id": "urn:rase:ai:record:RSI-REC-bf5d7143a409fd1658cbbbbf",
-      "summary": "Oracle reports financing in place and updates campus progress, with future rack handovers still expected rather than completed.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "Oracle publishes an OpenAI infrastructure funding statement",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/oracle-openai-infrastructure-funding-statement"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Release notes for Amazon SageMaker Unified Studio",
-            "url": "https://docs.aws.amazon.com/sagemaker-unified-studio/latest/userguide/release-notes.html"
-          },
-          {
-            "kind": "primary",
-            "title": "Deploy on-demand blueprints - Amazon SageMaker Unified Studio",
-            "url": "https://docs.aws.amazon.com/sagemaker-unified-studio/latest/adminguide/resource-blueprints.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Authorized project members gain an on-demand workflow for deploying approved data and machine-learning resources, under administrator-defined grants and roles.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T01:14:48Z.\nEvidence: Release notes for Amazon SageMaker Unified Studio — https://docs.aws.amazon.com/sagemaker-unified-studio/latest/userguide/release-notes.html\nEvidence: Deploy on-demand blueprints - Amazon SageMaker Unified Studio — https://docs.aws.amazon.com/sagemaker-unified-studio/latest/adminguide/resource-blueprints.html",
-      "date_published": "2026-11-22T01:14:48Z",
-      "external_url": "https://docs.aws.amazon.com/sagemaker-unified-studio/latest/userguide/release-notes.html",
-      "id": "urn:rase:ai:record:RSI-REC-439b60cb9c161627b13ef6ff",
-      "summary": "Authorized project members gain an on-demand workflow for deploying approved data and machine-learning resources, under administrator-defined grants and roles.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "SageMaker documents self-service resource blueprints",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/sagemaker-unified-studio-self-service-resource-blueprints"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing TestSprite 4.0: A Testing Agent That Remembers What Your App Should Do",
-            "url": "https://www.testsprite.com/blog/introducing-testsprite-4-0"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "TestSprite announced version 4.0 on November 20, 2026, describing an agent that tests a running application using specifications, tickets or stated requirements.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T17:40:29Z.\nEvidence: Introducing TestSprite 4.0: A Testing Agent That Remembers What Your App Should Do — https://www.testsprite.com/blog/introducing-testsprite-4-0",
-      "date_published": "2026-11-23T17:40:29Z",
-      "external_url": "https://www.testsprite.com/blog/introducing-testsprite-4-0",
-      "id": "urn:rase:ai:record:RSI-P-456",
-      "summary": "TestSprite announced version 4.0 on November 20, 2026, describing an agent that tests a running application using specifications, tickets or stated requirements.",
-      "tags": [
-        "AI software development & programming"
-      ],
-      "title": "TestSprite 4.0 checks running applications against intended behavior",
-      "url": "https://rasesolutions.com/ai/ai-software-development-programming/testsprite-4-0"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "independent",
-            "title": "Fiji Sun reports civil-service AI preparation",
-            "url": "https://fijisun.com.fj/news/nation/govt-prepares-civil-service-for-ai"
-          },
-          {
-            "kind": "independent",
-            "title": "FBC News reports Fiji’s three developing AI frameworks",
-            "url": "https://www.fbcnews.com.fj/news/fiji-develops-three-ai-frameworks/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Fiji officials described three AI-related frameworks under development during civil-service discussions reported on November 20, 2026.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T17:40:30Z.\nEvidence: Fiji Sun reports civil-service AI preparation — https://fijisun.com.fj/news/nation/govt-prepares-civil-service-for-ai\nEvidence: FBC News reports Fiji’s three developing AI frameworks — https://www.fbcnews.com.fj/news/fiji-develops-three-ai-frameworks/",
-      "date_published": "2026-11-23T17:40:30Z",
-      "id": "urn:rase:ai:record:RSI-P-503",
-      "summary": "Fiji officials described three AI-related frameworks under development during civil-service discussions reported on November 20, 2026.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "Fiji describes work on AI governance and civil-service skills frameworks",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/fiji-civil-service-ai-initiative"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Danaher Collaborates with Microsoft to Make Scientific Instruments Agentically Connected and Laboratories More Intelligent",
-            "url": "https://www.prnewswire.com/news-releases/danaher-collaborates-with-microsoft-to-make-scientific-instruments-agentically-connected-and-laboratories-more-intelligent-302946263.html"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The platform is under development, with staged commercial applications and later instruments planned.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: Danaher Collaborates with Microsoft to Make Scientific Instruments Agentically Connected and Laboratories More Intelligent — https://www.prnewswire.com/news-releases/danaher-collaborates-with-microsoft-to-make-scientific-instruments-agentically-connected-and-laboratories-more-intelligent-302946263.html",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://www.prnewswire.com/news-releases/danaher-collaborates-with-microsoft-to-make-scientific-instruments-agentically-connected-and-laboratories-more-intelligent-302946263.html",
-      "id": "urn:rase:ai:record:RSI-REC-dd510804f77f59f03512714a",
-      "summary": "The platform is under development, with staged commercial applications and later instruments planned.",
-      "tags": [
-        "Education, research & scientific discovery"
-      ],
-      "title": "Danaher announces Microsoft partnership for agent-enabled instruments",
-      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/danaher-microsoft-agentic-laboratory-instruments-partnership"
-    },
-    {
-      "_rase": {
-        "event_type": "legal_milestone",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "OpenAI Usage policies, effective November 20, 2026",
-            "url": "https://openai.com/policies/usage-policies/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The provider policy reaches its stated effective date; the earlier October announcement remains separate.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-20T14:10:20Z.\nEvidence: OpenAI Usage policies, effective November 20, 2026 — https://openai.com/policies/usage-policies/",
-      "date_published": "2026-11-20T14:10:20Z",
-      "external_url": "https://openai.com/policies/usage-policies/",
-      "id": "urn:rase:ai:record:RSI-REC-ebc44fdc0bfb0d6bc05d672e",
-      "summary": "The provider policy reaches its stated effective date; the earlier October announcement remains separate.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "OpenAI October usage-policy amendments become effective",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/openai-usage-policies-october-2026-update"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-20"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Harness adapters: training for specific agent harnesses",
-            "url": "https://huggingface.co/blog/harness-adapters-at-scale"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Researchers published new Qwen3.8-27B adapters and experimental methodology, extending earlier harness-adaptation work.\n\nVerified development date: 2026-11-20 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T01:34:43Z.\nEvidence: Harness adapters: training for specific agent harnesses — https://huggingface.co/blog/harness-adapters-at-scale",
-      "date_published": "2026-11-21T01:34:43Z",
-      "external_url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "id": "urn:rase:ai:record:RSI-REC-bd5a22441b97b90eca80907f",
-      "summary": "Researchers published new Qwen3.8-27B adapters and experimental methodology, extending earlier harness-adaptation work.",
-      "tags": [
-        "AI software development & programming"
-      ],
-      "title": "Hugging Face publishes harness-specific coding adapters and training recipe",
-      "url": "https://rasesolutions.com/ai/ai-software-development-programming/qwen3-8-27b-harness-adapters"
     }
   ],
   "language": "en",
