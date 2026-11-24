@@ -11,6 +11,192 @@
   "items": [
     {
       "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-24"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Benchmarking lightweight YOLO detectors for plastic and beverage-carton packaging on an operational sorting line",
+            "url": "https://www.nature.com/articles/s41598-026-80591-1"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "A study compares compact YOLO models using temporally buffered and grouped frames from an operating waste-sorting conveyor.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: Benchmarking lightweight YOLO detectors for plastic and beverage-carton packaging on an operational sorting line — https://www.nature.com/articles/s41598-026-80591-1",
+      "date_published": "2026-11-24T14:32:03Z",
+      "external_url": "https://www.nature.com/articles/s41598-026-80591-1",
+      "id": "urn:rase:ai:record:RSI-REC-531ca58a0617b90a49105836",
+      "summary": "A study compares compact YOLO models using temporally buffered and grouped frames from an operating waste-sorting conveyor.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Recycling-line benchmark tests compact detectors against realistic conveyor clutter",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/lightweight-yolo-recycling-conveyor-benchmark"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-24"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "STM32-based edge AI for segment-level photovoltaic I–V anomaly detection using deep learning",
+            "url": "https://www.nature.com/articles/s41598-026-80293-8"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Researchers evaluated lightweight neural classifiers on photovoltaic current–voltage segments and embedded hardware.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: STM32-based edge AI for segment-level photovoltaic I–V anomaly detection using deep learning — https://www.nature.com/articles/s41598-026-80293-8",
+      "date_published": "2026-11-24T14:32:03Z",
+      "external_url": "https://www.nature.com/articles/s41598-026-80293-8",
+      "id": "urn:rase:ai:record:RSI-REC-18b5aa623f2415412e7d2d1c",
+      "summary": "Researchers evaluated lightweight neural classifiers on photovoltaic current–voltage segments and embedded hardware.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Accepted study measures photovoltaic anomaly models on an STM32 microcontroller",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/stm32-photovoltaic-anomaly-detection-study"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-24"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Empirical evidence for eight ways that AI is impacting people",
+            "url": "https://www.nature.com/articles/s41562-026-02615-0"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Researchers review evidence on cognitive, social and informational effects of AI use.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:04Z.\nEvidence: Empirical evidence for eight ways that AI is impacting people — https://www.nature.com/articles/s41562-026-02615-0",
+      "date_published": "2026-11-24T14:32:04Z",
+      "external_url": "https://www.nature.com/articles/s41562-026-02615-0",
+      "id": "urn:rase:ai:record:RSI-REC-e4092be7d4da6d79acbb91ff",
+      "summary": "Researchers review evidence on cognitive, social and informational effects of AI use.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Nature Human Behaviour publishes a review of evidence on AI’s human effects",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/review-of-empirical-evidence-on-ai-s-effects-on-people"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-24"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Codex CLI 0.172.0 release notes",
+            "url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0"
+          },
+          {
+            "kind": "primary",
+            "title": "OpenAI Codex 0.172.0 release metadata",
+            "url": "https://api.github.com/repos/openai/codex/releases/tags/rust-v0.172.0"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "The stable CLI update adds thread navigation and supported per-tool approval-reviewer settings.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:41Z.\nPublic content reviewed/published: 2026-11-24T14:32:03Z.\nEvidence: Codex CLI 0.172.0 release notes — https://github.com/openai/codex/releases/tag/rust-v0.172.0\nEvidence: OpenAI Codex 0.172.0 release metadata — https://api.github.com/repos/openai/codex/releases/tags/rust-v0.172.0",
+      "date_modified": "2026-11-24T14:32:03Z",
+      "date_published": "2026-11-17T20:57:41Z",
+      "external_url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0",
+      "id": "urn:rase:ai:record:RSI-P-071",
+      "summary": "The stable CLI update adds thread navigation and supported per-tool approval-reviewer settings.",
+      "tags": [
+        "AI software development & programming"
+      ],
+      "title": "OpenAI publishes Codex CLI 0.172.0",
+      "url": "https://rasesolutions.com/ai/ai-software-development-programming/openai-codex-cli"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-24"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Calibration inversion and data-freshness characterize AI reliability in indeterminate domains",
+            "url": "https://www.nature.com/articles/s41598-026-80543-9"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "A descriptive evaluation finds point forecasts and stated uncertainty can behave differently in consumer AI interfaces.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:04Z.\nEvidence: Calibration inversion and data-freshness characterize AI reliability in indeterminate domains — https://www.nature.com/articles/s41598-026-80543-9",
+      "date_published": "2026-11-24T14:32:04Z",
+      "external_url": "https://www.nature.com/articles/s41598-026-80543-9",
+      "id": "urn:rase:ai:record:RSI-REC-070148d4512521c65f9397d3",
+      "summary": "A descriptive evaluation finds point forecasts and stated uncertainty can behave differently in consumer AI interfaces.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Accepted study separates forecast accuracy from confidence-interval reliability",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/ai-forecast-calibration-and-data-freshness-study"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-24"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Bigwave Robotics Validates a Bipedal Humanoid on a Live Automotive Parts Line",
+            "url": "https://us.bigwaverobotics.com/investors/news/RKGuvR96jlmIkTbVccTq"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Bigwave reports connected machine-tending, walking and stacking tasks at a Korean automotive-parts site. This dates its vendor-reported validation announcement, not general product availability.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: Bigwave Robotics Validates a Bipedal Humanoid on a Live Automotive Parts Line — https://us.bigwaverobotics.com/investors/news/RKGuvR96jlmIkTbVccTq",
+      "date_published": "2026-11-24T14:32:03Z",
+      "external_url": "https://us.bigwaverobotics.com/investors/news/RKGuvR96jlmIkTbVccTq",
+      "id": "urn:rase:ai:record:RSI-REC-3f2b9af80cd1c186d4a51eae",
+      "summary": "Bigwave reports connected machine-tending, walking and stacking tasks at a Korean automotive-parts site. This dates its vendor-reported validation announcement, not general product availability.",
+      "tags": [
+        "Robotics, humanoids, household robots & physical AI"
+      ],
+      "title": "Bigwave reports a walking humanoid handling parts on an existing factory line",
+      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/bigwave-bipedal-factory-line-validation"
+    },
+    {
+      "_rase": {
         "event_type": "public_release",
         "original_event_date": {
           "certainty": "verified",
@@ -38,6 +224,37 @@
       ],
       "title": "Google releases native file slicing controls for the Gemini API",
       "url": "https://rasesolutions.com/ai/ai-software-development-programming/gemini-api-file-slicing-controls"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Connect adds comparisons before evaluation-model upgrades",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-test-ai-model-version-upgrades-automated-evaluations/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "Managers can compare old and new scoring on the same contacts and select their model-upgrade approach.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nPublic content reviewed/published: 2026-11-24T14:32:03Z.\nEvidence: Connect adds comparisons before evaluation-model upgrades — https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-test-ai-model-version-upgrades-automated-evaluations/",
+      "date_modified": "2026-11-24T14:32:03Z",
+      "date_published": "2026-11-24T01:30:31Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-test-ai-model-version-upgrades-automated-evaluations/",
+      "id": "urn:rase:ai:record:RSI-REC-843538304b0ffbf74522bfb4",
+      "summary": "Managers can compare old and new scoring on the same contacts and select their model-upgrade approach.",
+      "tags": [
+        "Business, finance, sales & productivity"
+      ],
+      "title": "Connect adds evaluation-model version comparisons",
+      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/amazon-connect-customer-multilingual-ai-evaluations"
     },
     {
       "_rase": {
@@ -146,6 +363,36 @@
     },
     {
       "_rase": {
+        "event_type": "market_launch",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AgentCore runtime instances expand to GovCloud US-West",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS adds regional availability for customer-account agent compute without claiming a new underlying agent model.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: AgentCore runtime instances expand to GovCloud US-West — https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud/",
+      "date_published": "2026-11-24T14:32:03Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud/",
+      "id": "urn:rase:ai:record:RSI-REC-812eafc609c5d18df789a576",
+      "summary": "AWS adds regional availability for customer-account agent compute without claiming a new underlying agent model.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "AgentCore runtime instances become available in GovCloud US-West",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-bedrock-agentcore-runtime-instances-in-govcloud"
+    },
+    {
+      "_rase": {
         "event_type": "significant_update",
         "original_event_date": {
           "certainty": "verified",
@@ -155,24 +402,24 @@
         "sources": [
           {
             "kind": "primary",
-            "title": "Amazon Connect Customer expands automated performance evaluations to 45 new languages",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/"
+            "title": "Connect AI agents suggest entries in live workflow guides",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/"
           }
         ],
         "summary_scope": "event",
         "website_publication_scope": "profile",
         "website_update_scope": "profile_first_publication"
       },
-      "content_text": "AWS announces multilingual and cross-language evaluation support, with availability tied to supported service Regions.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Amazon Connect Customer expands automated performance evaluations to 45 new languages — https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/",
-      "id": "urn:rase:ai:record:RSI-REC-843538304b0ffbf74522bfb4",
-      "summary": "AWS announces multilingual and cross-language evaluation support, with availability tied to supported service Regions.",
+      "content_text": "The update fills guide fields from conversation context while retaining human review and editing.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: Connect AI agents suggest entries in live workflow guides — https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/",
+      "date_published": "2026-11-24T14:32:03Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/",
+      "id": "urn:rase:ai:record:RSI-REC-6277366283d2726601972fff",
+      "summary": "The update fills guide fields from conversation context while retaining human review and editing.",
       "tags": [
         "Business, finance, sales & productivity"
       ],
-      "title": "Amazon Connect expands AI performance evaluations to 45 more languages",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/amazon-connect-customer-multilingual-ai-evaluations"
+      "title": "Connect AI agents add suggestions to step-by-step guides",
+      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/amazon-connect-customer-ai-guide-filling"
     },
     {
       "_rase": {
@@ -241,6 +488,42 @@
     },
     {
       "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Claude Code 2.1.331 release notes",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331"
+          },
+          {
+            "kind": "primary",
+            "title": "Anthropic Claude Code 2.1.331 release metadata",
+            "url": "https://api.github.com/repos/anthropics/claude-code/releases/tags/v2.1.331"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "The release expands terminal Code Mode platform support and adds plugin-dependency handling.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:40Z.\nPublic content reviewed/published: 2026-11-24T14:32:03Z.\nEvidence: Claude Code 2.1.331 release notes — https://github.com/anthropics/claude-code/releases/tag/v2.1.331\nEvidence: Anthropic Claude Code 2.1.331 release metadata — https://api.github.com/repos/anthropics/claude-code/releases/tags/v2.1.331",
+      "date_modified": "2026-11-24T14:32:03Z",
+      "date_published": "2026-11-17T20:57:40Z",
+      "external_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
+      "id": "urn:rase:ai:record:RSI-CAL-023",
+      "summary": "The release expands terminal Code Mode platform support and adds plugin-dependency handling.",
+      "tags": [
+        "AI software development & programming"
+      ],
+      "title": "Anthropic publishes Claude Code 2.1.331",
+      "url": "https://rasesolutions.com/ai/ai-software-development-programming/claude-code"
+    },
+    {
+      "_rase": {
         "event_type": "announcement",
         "original_event_date": {
           "certainty": "verified",
@@ -303,6 +586,36 @@
       ],
       "title": "OpenAI and Cisco announce the Shirudo security runtime",
       "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/shirudo"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "SageMaker Studio adds HyperPod training and deployment forms",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS introduces forms and diagnostics for EKS HyperPod workloads, distinct from cluster-creation configuration.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: SageMaker Studio adds HyperPod training and deployment forms — https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/",
+      "date_published": "2026-11-24T14:32:03Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/",
+      "id": "urn:rase:ai:record:RSI-REC-63698fb33e826c9d2fb1c69c",
+      "summary": "AWS introduces forms and diagnostics for EKS HyperPod workloads, distinct from cluster-creation configuration.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "SageMaker Studio adds HyperPod workload submission and deployment",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-sagemaker-studio-hyperpod-workload-interface"
     },
     {
       "_rase": {
@@ -373,6 +686,36 @@
       ],
       "title": "QAMNet journal paper explores lower-energy optical neural-network encoding",
       "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/qamnet-optical-neural-network-research"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Paradromics Advances High-Performance AI Computing for Brain-Computer Interfaces with NVIDIA",
+            "url": "https://paradromics.com/news/paradromics-advances-high-performance-ai-computing-for-brain-computer-interfaces-with-nvidia/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The companies announced work integrating Holoscan and edge computing into speech-decoding research.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: Paradromics Advances High-Performance AI Computing for Brain-Computer Interfaces with NVIDIA — https://paradromics.com/news/paradromics-advances-high-performance-ai-computing-for-brain-computer-interfaces-with-nvidia/",
+      "date_published": "2026-11-24T14:32:03Z",
+      "external_url": "https://paradromics.com/news/paradromics-advances-high-performance-ai-computing-for-brain-computer-interfaces-with-nvidia/",
+      "id": "urn:rase:ai:record:RSI-REC-b231bbcedbbd7f3b9040e972",
+      "summary": "The companies announced work integrating Holoscan and edge computing into speech-decoding research.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "Paradromics and NVIDIA plan an edge-computing stack for investigational speech BCIs",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/paradromics-nvidia-bci-computing-collaboration"
     },
     {
       "_rase": {
@@ -772,6 +1115,36 @@
     },
     {
       "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AWS adds OpenSearch 3.9 to its managed search service",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The AWS update includes vector representations, search judging and streaming capabilities for managed domains.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: AWS adds OpenSearch 3.9 to its managed search service — https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9/",
+      "date_published": "2026-11-24T14:32:03Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9/",
+      "id": "urn:rase:ai:record:RSI-REC-f7db0909bd345a6057a51bd4",
+      "summary": "The AWS update includes vector representations, search judging and streaming capabilities for managed domains.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "Amazon OpenSearch Service adds version 3.9 support",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-opensearch-service-3-9"
+    },
+    {
+      "_rase": {
         "event_type": "announcement",
         "original_event_date": {
           "certainty": "verified",
@@ -804,6 +1177,67 @@
       ],
       "title": "RAD reports ROAMEO corrections-site deployment",
       "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/roameo-corrections-facility-patrol-evaluation"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AWS adds discovery and WAF inspection for AI endpoints",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The scoped release links endpoint discovery to protocol checks and optional Bedrock content inspection.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: AWS adds discovery and WAF inspection for AI endpoints — https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/",
+      "date_published": "2026-11-24T14:32:03Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/",
+      "id": "urn:rase:ai:record:RSI-REC-450ecaf50916115f537493ad",
+      "summary": "The scoped release links endpoint discovery to protocol checks and optional Bedrock content inspection.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "AWS announces AI endpoint discovery and WAF security controls",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/aws-waf-ai-endpoint-discovery-and-protection"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Artificial intelligence for the characterization of particles and fibers by optical microscopy",
+            "url": "https://www.nature.com/articles/s40494-026-03094-2"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_profile_publication"
+      },
+      "content_text": "A multimodal teacher uses specimen metadata to train a vision-only student for microscopy retrieval and classification.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nPublic content reviewed/published: 2026-11-24T14:32:04Z.\nEvidence: Artificial intelligence for the characterization of particles and fibers by optical microscopy — https://www.nature.com/articles/s40494-026-03094-2",
+      "date_modified": "2026-11-24T14:32:04Z",
+      "date_published": "2026-11-24T14:32:03Z",
+      "external_url": "https://www.nature.com/articles/s40494-026-03094-2",
+      "id": "urn:rase:ai:record:RSI-REC-c8d7f022371540b10c6b136b",
+      "summary": "A multimodal teacher uses specimen metadata to train a vision-only student for microscopy retrieval and classification.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Accepted microscopy paper describes training an image-only material-characterization model",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/ai-microscopy-particle-and-fiber-characterization-study"
     },
     {
       "_rase": {
@@ -869,6 +1303,36 @@
       ],
       "title": "AWS expands Partner Central analytics with agents and data subscriptions",
       "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/aws-partner-central-agents-analytics-access"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-23"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "HyperPod adds managed Slurm observability and user configuration",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "AWS adds declarative extension management for Slurm clusters; the original HyperPod service is older.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: HyperPod adds managed Slurm observability and user configuration — https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
+      "date_published": "2026-11-24T14:32:03Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
+      "id": "urn:rase:ai:record:RSI-REC-cd44f3e47abd8c2c86653e69",
+      "summary": "AWS adds declarative extension management for Slurm clusters; the original HyperPod service is older.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "HyperPod releases managed observability and user-management extensions",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-sagemaker-hyperpod-managed-slurm-extensions"
     },
     {
       "_rase": {
@@ -1134,531 +1598,6 @@
       ],
       "title": "OpenAI publishes its perplexity transparency and safety proposal",
       "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/openai-perplexity-transparency-and-safety-proposal"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-22"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Tether v0.4.0 GitHub release",
-            "url": "https://github.com/chizy7/tether/releases/tag/v0.4.0"
-          },
-          {
-            "kind": "primary",
-            "title": "Tether v0.4.0 versioned changelog",
-            "url": "https://github.com/chizy7/tether/blob/v0.4.0/CHANGELOG.md"
-          },
-          {
-            "kind": "primary",
-            "title": "Tether replay behavior and limitations at v0.4.0",
-            "url": "https://github.com/chizy7/tether/blob/v0.4.0/docs/REPLAY.md"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The maintainer published the versioned release and downloads. Its evaluation features are documented in the same version's earlier-dated changelog; no first-code availability date is asserted.\n\nVerified development date: 2026-11-22 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: Tether v0.4.0 GitHub release — https://github.com/chizy7/tether/releases/tag/v0.4.0\nEvidence: Tether v0.4.0 versioned changelog — https://github.com/chizy7/tether/blob/v0.4.0/CHANGELOG.md\nEvidence: Tether replay behavior and limitations at v0.4.0 — https://github.com/chizy7/tether/blob/v0.4.0/docs/REPLAY.md",
-      "date_published": "2026-11-23T14:24:44Z",
-      "external_url": "https://github.com/chizy7/tether/releases/tag/v0.4.0",
-      "id": "urn:rase:ai:record:RSI-REC-ac0d21403a070518c5a0de47",
-      "summary": "The maintainer published the versioned release and downloads. Its evaluation features are documented in the same version's earlier-dated changelog; no first-code availability date is asserted.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "Tether publishes its v0.4.0 GitHub release",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/tether-agent-replay-and-evaluation-harness"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Accelerating high-throughput catalyst screening by direct generation of equilibrium adsorption structures",
-            "url": "https://www.nature.com/articles/s41467-026-79243-9"
-          },
-          {
-            "kind": "primary",
-            "title": "DBCata original author-submitted preprint",
-            "url": "https://arxiv.org/abs/2512.15228"
-          },
-          {
-            "kind": "primary",
-            "title": "DBCata official research repository",
-            "url": "https://github.com/Songze1019/DBCata"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The journal published accepted catalyst-screening research previously circulated as a preprint.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T01:28:39Z.\nEvidence: Accelerating high-throughput catalyst screening by direct generation of equilibrium adsorption structures — https://www.nature.com/articles/s41467-026-79243-9\nEvidence: DBCata original author-submitted preprint — https://arxiv.org/abs/2512.15228\nEvidence: DBCata official research repository — https://github.com/Songze1019/DBCata",
-      "date_published": "2026-11-23T01:28:39Z",
-      "external_url": "https://www.nature.com/articles/s41467-026-79243-9",
-      "id": "urn:rase:ai:record:RSI-REC-dab6b8970a674b3d7e4cf2cc",
-      "summary": "The journal published accepted catalyst-screening research previously circulated as a preprint.",
-      "tags": [
-        "Education, research & scientific discovery"
-      ],
-      "title": "DBCata accepted research published in Nature Communications",
-      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/dbcata-catalyst-screening-research"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "A global atlas of digital dermatology to map innovation and disparities",
-            "url": "https://www.nature.com/articles/s41467-026-78602-w"
-          },
-          {
-            "kind": "primary",
-            "title": "SkinMap original research preprint",
-            "url": "https://arxiv.org/abs/2601.00840"
-          },
-          {
-            "kind": "primary",
-            "title": "Publisher-deposited DOI metadata for SkinMap journal article",
-            "url": "https://api.crossref.org/works/10.1038/s41467-026-78602-w"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "A November 21 Nature Communications publication audits the public image datasets underlying dermatology AI. It is a peer-reviewed journal milestone for research already available as a preprint.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T01:14:48Z.\nEvidence: A global atlas of digital dermatology to map innovation and disparities — https://www.nature.com/articles/s41467-026-78602-w\nEvidence: SkinMap original research preprint — https://arxiv.org/abs/2601.00840\nEvidence: Publisher-deposited DOI metadata for SkinMap journal article — https://api.crossref.org/works/10.1038/s41467-026-78602-w",
-      "date_published": "2026-11-22T01:14:48Z",
-      "external_url": "https://www.nature.com/articles/s41467-026-78602-w",
-      "id": "urn:rase:ai:record:RSI-REC-320e7bdf1f80c63cce408b80",
-      "summary": "A November 21 Nature Communications publication audits the public image datasets underlying dermatology AI. It is a peer-reviewed journal milestone for research already available as a preprint.",
-      "tags": [
-        "Healthcare, biotechnology & medical AI"
-      ],
-      "title": "SkinMap journal paper examines gaps in dermatology AI data",
-      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/skinmap-dermatology-dataset-audit-journal-publication"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "ESDS exchange disclosure on the Sydney AI factory",
-            "url": "https://nsearchives.nseindia.in/corporate/ESDS_21112026214932_ESDS_General_Update_BSE_NSE.pdf"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "A November21 exchange filing reports installation and final testing while keeping customer handover and billing as future expectations.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: ESDS exchange disclosure on the Sydney AI factory — https://nsearchives.nseindia.in/corporate/ESDS_21112026214932_ESDS_General_Update_BSE_NSE.pdf",
-      "date_published": "2026-11-22T14:14:01Z",
-      "external_url": "https://nsearchives.nseindia.in/corporate/ESDS_21112026214932_ESDS_General_Update_BSE_NSE.pdf",
-      "id": "urn:rase:ai:record:RSI-REC-7c8798d88b3354fde54dc798",
-      "summary": "A November21 exchange filing reports installation and final testing while keeping customer handover and billing as future expectations.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "ESDS files an update on its Sydney AI factory",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/esds-sydney-ai-factory-progress-disclosure"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "LENS: localized updates facilitate patient-level unlearning in clinical large language models",
-            "url": "https://www.nature.com/articles/s41598-026-80817-2"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Scientific Reports published an accepted article about localized unlearning and preservation of untargeted patient responses.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: LENS: localized updates facilitate patient-level unlearning in clinical large language models — https://www.nature.com/articles/s41598-026-80817-2",
-      "date_published": "2026-11-22T14:14:01Z",
-      "external_url": "https://www.nature.com/articles/s41598-026-80817-2",
-      "id": "urn:rase:ai:record:RSI-REC-e5d9b3b783fa6f43c03517d0",
-      "summary": "Scientific Reports published an accepted article about localized unlearning and preservation of untargeted patient responses.",
-      "tags": [
-        "Healthcare, biotechnology & medical AI"
-      ],
-      "title": "LENS patient-unlearning research published",
-      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/lens-clinical-patient-unlearning-research"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "CAEL Verified Reasoning dataset card",
-            "url": "https://huggingface.co/datasets/vynly/cael-verified-reasoning"
-          },
-          {
-            "kind": "primary",
-            "title": "Creator announces CAEL Verified Reasoning",
-            "url": "https://discuss.huggingface.co/t/cael-verified-reasoning-2m-problems-with-computed-answers-plus-a-verifier/192247"
-          },
-          {
-            "kind": "primary",
-            "title": "Dataset publisher explains CAEL reasoning examples",
-            "url": "https://discuss.huggingface.co/t/2m-reasoning-examples-for-fine-tuning-small-models-with-worked-solutions-and-a-python-answer-checker/192328"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Two creator posts describe a synthetic reasoning dataset with computed reference answers, worked solutions and a checker. The milestone is the November 21 announcement; repository metadata shows that the dataset was uploaded on November 20.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: CAEL Verified Reasoning dataset card — https://huggingface.co/datasets/vynly/cael-verified-reasoning\nEvidence: Creator announces CAEL Verified Reasoning — https://discuss.huggingface.co/t/cael-verified-reasoning-2m-problems-with-computed-answers-plus-a-verifier/192247\nEvidence: Dataset publisher explains CAEL reasoning examples — https://discuss.huggingface.co/t/2m-reasoning-examples-for-fine-tuning-small-models-with-worked-solutions-and-a-python-answer-checker/192328",
-      "date_published": "2026-11-22T14:14:01Z",
-      "external_url": "https://huggingface.co/datasets/vynly/cael-verified-reasoning",
-      "id": "urn:rase:ai:record:RSI-REC-8c1afb2f452363dc5f54ed9e",
-      "summary": "Two creator posts describe a synthetic reasoning dataset with computed reference answers, worked solutions and a checker. The milestone is the November 21 announcement; repository metadata shows that the dataset was uploaded on November 20.",
-      "tags": [
-        "Education, research & scientific discovery"
-      ],
-      "title": "Publisher announces the CAEL Verified Reasoning dataset and checker",
-      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/cael-verified-reasoning"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Tesla FSD v15 rollout announcement",
-            "url": "https://x.com/Tesla/status/2124222447855743019"
-          },
-          {
-            "kind": "primary",
-            "title": "Tesla official FSD supervised-use guidance",
-            "url": "https://www.tesla.com/support/fsd"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Tesla announced a software update with a new driving visualization; this is not a new robotaxi service or autonomous-driving approval.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: Tesla FSD v15 rollout announcement — https://x.com/Tesla/status/2124222447855743019\nEvidence: Tesla official FSD supervised-use guidance — https://www.tesla.com/support/fsd",
-      "date_published": "2026-11-22T14:14:01Z",
-      "external_url": "https://x.com/Tesla/status/2124222447855743019",
-      "id": "urn:rase:ai:record:RSI-REC-96a16c07eda0e953f9969883",
-      "summary": "Tesla announced a software update with a new driving visualization; this is not a new robotaxi service or autonomous-driving approval.",
-      "tags": [
-        "Transportation, manufacturing, agriculture & energy"
-      ],
-      "title": "Tesla announces the start of FSD v15 rollout",
-      "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/tesla-full-self-driving-supervised"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Together AI: Security event involving June and July prompt samples",
-            "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Together AI published its account of unauthorized access to samples of June and July inference requests and said it was continuing its review and customer notification work. November 21 is the disclosure date, not the original request or incident date.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: Together AI: Security event involving June and July prompt samples — https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "date_published": "2026-11-22T14:14:01Z",
-      "external_url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "id": "urn:rase:ai:record:RSI-REC-19799045e3f1916ed7c752b4",
-      "summary": "Together AI published its account of unauthorized access to samples of June and July inference requests and said it was continuing its review and customer notification work. November 21 is the disclosure date, not the original request or incident date.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "Together AI discloses access to stored prompt samples",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/together-ai-prompt-sample-security-disclosure"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Transformers release v5.24.0",
-            "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.0"
-          },
-          {
-            "kind": "primary",
-            "title": "Transformers v5.24.0 Apache License 2.0",
-            "url": "https://raw.githubusercontent.com/huggingface/transformers/v5.24.0/LICENSE"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The maintained library release adds model architecture integrations, native loading for covered EXAONE checkpoints and cache and multimodal-output API changes. Underlying model announcements retain their own original dates and licenses.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T01:14:48Z.\nEvidence: Transformers release v5.24.0 — https://github.com/huggingface/transformers/releases/tag/v5.24.0\nEvidence: Transformers v5.24.0 Apache License 2.0 — https://raw.githubusercontent.com/huggingface/transformers/v5.24.0/LICENSE",
-      "date_published": "2026-11-22T01:14:48Z",
-      "external_url": "https://github.com/huggingface/transformers/releases/tag/v5.24.0",
-      "id": "urn:rase:ai:record:RSI-REC-5d11bb7377808f88805438c1",
-      "summary": "The maintained library release adds model architecture integrations, native loading for covered EXAONE checkpoints and cache and multimodal-output API changes. Underlying model announcements retain their own original dates and licenses.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "Hugging Face releases Transformers 5.24.0",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/hugging-face-transformers"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "AWS Quick launches new web experience, updated browser extension and Microsoft 365 add-ins",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/"
-          },
-          {
-            "kind": "primary",
-            "title": "AWS Quick plugins bundle agents, skills, connectors and flows",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/"
-          },
-          {
-            "kind": "primary",
-            "title": "AWS Quick",
-            "url": "https://aws.amazon.com/quick/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "AWS's two November 21 notices document a synchronized web workspace, continuing background agents, updated work integrations and installable agent-capability bundles. They describe updates to Quick rather than an original product launch.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T01:14:48Z.\nEvidence: AWS Quick launches new web experience, updated browser extension and Microsoft 365 add-ins — https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/\nEvidence: AWS Quick plugins bundle agents, skills, connectors and flows — https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/\nEvidence: AWS Quick — https://aws.amazon.com/quick/",
-      "date_published": "2026-11-22T01:14:48Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/",
-      "id": "urn:rase:ai:record:RSI-REC-015d9603a378236dadf6e5a6",
-      "summary": "AWS's two November 21 notices document a synchronized web workspace, continuing background agents, updated work integrations and installable agent-capability bundles. They describe updates to Quick rather than an original product launch.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "Quick adds its web experience, integration updates and packaged plugins",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/aws-quick"
-    },
-    {
-      "_rase": {
-        "event_type": "legal_milestone",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Swiss FDFA statement on the autonomous-weapons mandate",
-            "url": "https://www.admin.ch/en/newnsb/cpYJGLEaQYIi"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "A Swiss government statement dates the conclusion to November21 and describes a two-year drafting process without an agreed binding legal form.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: Swiss FDFA statement on the autonomous-weapons mandate — https://www.admin.ch/en/newnsb/cpYJGLEaQYIi",
-      "date_published": "2026-11-22T14:14:01Z",
-      "external_url": "https://www.admin.ch/en/newnsb/cpYJGLEaQYIi",
-      "id": "urn:rase:ai:record:RSI-REC-9bdc3d50a877c9de4a4b585a",
-      "summary": "A Swiss government statement dates the conclusion to November21 and describes a two-year drafting process without an agreed binding legal form.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "CCW states agree an autonomous-weapons drafting mandate",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/ccw-autonomous-weapons-instrument-drafting-mandate"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The November 21 AWS announcement expands the existing web-grounding tool’s languages. Its country-code option is documented as current API context, without treating every location-aware control as newly invented.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Web Search on Amazon Bedrock expands language support and country-aware search — https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
-      "date_published": "2026-11-21T14:12:13Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
-      "id": "urn:rase:ai:record:RSI-REC-896dfc2094c91a70261faa92",
-      "summary": "The November 21 AWS announcement expands the existing web-grounding tool’s languages. Its country-code option is documented as current API context, without treating every location-aware control as newly invented.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "Bedrock Web Search expands to five more languages and non-US English",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/amazon-bedrock-web-search-language-and-country-update"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Singapore–China transport cooperation memorandum",
-            "url": "https://www.mot.gov.sg/news-resources/newsroom/memorandum-of-understanding-on-cooperation-between-the-ministry-of-transport-of-the-republic-of-singapore-and-the-ministry-of-transport-of-the-people-s-republic-of-china/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Singapore reports a signed transport-cooperation MOU that includes artificial intelligence among its areas of cooperation. This dates the official announcement, without asserting a separate precise signing day or completed implementation.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T01:28:39Z.\nEvidence: Singapore–China transport cooperation memorandum — https://www.mot.gov.sg/news-resources/newsroom/memorandum-of-understanding-on-cooperation-between-the-ministry-of-transport-of-the-republic-of-singapore-and-the-ministry-of-transport-of-the-people-s-republic-of-china/",
-      "date_published": "2026-11-23T01:28:39Z",
-      "external_url": "https://www.mot.gov.sg/news-resources/newsroom/memorandum-of-understanding-on-cooperation-between-the-ministry-of-transport-of-the-republic-of-singapore-and-the-ministry-of-transport-of-the-people-s-republic-of-china/",
-      "id": "urn:rase:ai:record:RSI-REC-d7d9cabdacdb5c198705acc3",
-      "summary": "Singapore reports a signed transport-cooperation MOU that includes artificial intelligence among its areas of cooperation. This dates the official announcement, without asserting a separate precise signing day or completed implementation.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "Singapore reports signed transport-cooperation MOU including AI",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/singapore-china-transport-cooperation-mou"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "ClawDOS project site",
-            "url": "https://ricapar.net/ClawDOS/"
-          },
-          {
-            "kind": "primary",
-            "title": "ClawDOS source repository and README",
-            "url": "https://github.com/Ricapar/ClawDOS"
-          },
-          {
-            "kind": "primary",
-            "title": "ClawDOS maker announcement on Hacker News",
-            "url": "https://news.ycombinator.com/item?id=50586292"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The project owner posted a dated announcement linking ClawDOS. The harness uses hosted Claude through a modern bridge; the milestone is the maker announcement, not local language-model inference or an established first software-release date.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-22T14:14:01Z.\nEvidence: ClawDOS project site — https://ricapar.net/ClawDOS/\nEvidence: ClawDOS source repository and README — https://github.com/Ricapar/ClawDOS\nEvidence: ClawDOS maker announcement on Hacker News — https://news.ycombinator.com/item?id=50586292",
-      "date_published": "2026-11-22T14:14:01Z",
-      "external_url": "https://ricapar.net/ClawDOS/",
-      "id": "urn:rase:ai:record:RSI-REC-886f834b4240de4d8913c485",
-      "summary": "The project owner posted a dated announcement linking ClawDOS. The harness uses hosted Claude through a modern bridge; the milestone is the maker announcement, not local language-model inference or an established first software-release date.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "Maker shares the ClawDOS chat and coding-agent harness",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/clawdos"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-21"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Large language model surrogates for Bayesian optimization of antibody sequences",
-            "url": "https://www.nature.com/articles/s41598-026-71466-6"
-          },
-          {
-            "kind": "primary",
-            "title": "AbL2BO author implementation",
-            "url": "https://github.com/mogam-ai/AbL2BO"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The journal publication evaluates a language-model surrogate for candidate selection; it does not announce a medicine or clinical result.\n\nVerified development date: 2026-11-21 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-21T14:12:13Z.\nEvidence: Large language model surrogates for Bayesian optimization of antibody sequences — https://www.nature.com/articles/s41598-026-71466-6\nEvidence: AbL2BO author implementation — https://github.com/mogam-ai/AbL2BO",
-      "date_published": "2026-11-21T14:12:13Z",
-      "external_url": "https://www.nature.com/articles/s41598-026-71466-6",
-      "id": "urn:rase:ai:record:RSI-REC-7268345a3fcc105ccaa739cf",
-      "summary": "The journal publication evaluates a language-model surrogate for candidate selection; it does not announce a medicine or clinical result.",
-      "tags": [
-        "Healthcare, biotechnology & medical AI"
-      ],
-      "title": "Scientific Reports publishes AbL2BO antibody-optimization research",
-      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/abl2bo-antibody-sequence-optimization-research"
     }
   ],
   "language": "en",
