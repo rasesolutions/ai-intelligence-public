@@ -156,6 +156,41 @@
     },
     {
       "_rase": {
+        "event_type": "research_disclosure",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-24"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "DeepMind announces Humanity’s First Exam",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/"
+          },
+          {
+            "kind": "primary",
+            "title": "Humanity’s First Exam technical report",
+            "url": "https://storage.googleapis.com/deepmind-media/papers/hfe_tech_paper.pdf"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 24 disclosure introduces an evaluation of consistent performance on simple text and image tasks.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-25T14:24:34Z.\nEvidence: DeepMind announces Humanity’s First Exam — https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/\nEvidence: Humanity’s First Exam technical report — https://storage.googleapis.com/deepmind-media/papers/hfe_tech_paper.pdf",
+      "date_published": "2026-11-25T14:24:34Z",
+      "external_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+      "id": "urn:rase:ai:record:RSI-REC-6252c3ef9de00aed0a692b78",
+      "summary": "The November 24 disclosure introduces an evaluation of consistent performance on simple text and image tasks.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "DeepMind announces Humanity’s First Exam benchmark",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/humanity-s-first-exam-reliability-benchmark"
+    },
+    {
+      "_rase": {
         "event_type": "research_publication",
         "original_event_date": {
           "certainty": "verified",
@@ -569,6 +604,77 @@
       ],
       "title": "Bigwave reports a walking humanoid handling parts on an existing factory line",
       "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/bigwave-bipedal-factory-line-validation"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-24"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Claude MCP skills and interactive tasks announcement",
+            "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more"
+          },
+          {
+            "kind": "primary",
+            "title": "Claude Code MCP client reference",
+            "url": "https://code.claude.com/docs/en/mcp"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "Claude adds Skills over MCP in public beta; Tasks and Elicitation are generally available for eligible plans, with organizational rollout limits.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:40Z.\nPublic content reviewed/published: 2026-11-25T14:24:34Z.\nEvidence: Claude MCP skills and interactive tasks announcement — https://claude.com/resources/articles/skills-over-mcp-tasks-and-more\nEvidence: Claude Code MCP client reference — https://code.claude.com/docs/en/mcp",
+      "date_modified": "2026-11-25T14:24:34Z",
+      "date_published": "2026-11-17T20:57:40Z",
+      "external_url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "id": "urn:rase:ai:record:RSI-CAL-014",
+      "summary": "Claude adds Skills over MCP in public beta; Tasks and Elicitation are generally available for eligible plans, with organizational rollout limits.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "Claude announces Skills over MCP beta and Tasks/Elicitation availability",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/model-context-protocol-mcp"
+    },
+    {
+      "_rase": {
+        "event_type": "public_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-24"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Workspace MCP servers, CLI and governance rollout",
+            "url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html"
+          },
+          {
+            "kind": "primary",
+            "title": "Google Workspace developer release notes",
+            "url": "https://developers.google.com/workspace/release-notes"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 24 release combines managed agent access, administrative controls and usage tiers, with staged availability and later enforcement dates.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-25T14:24:34Z.\nEvidence: Workspace MCP servers, CLI and governance rollout — https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html\nEvidence: Google Workspace developer release notes — https://developers.google.com/workspace/release-notes",
+      "date_published": "2026-11-25T14:24:34Z",
+      "external_url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
+      "id": "urn:rase:ai:record:RSI-REC-04fbd0a11f7c2c2daa96389b",
+      "summary": "The November 24 release combines managed agent access, administrative controls and usage tiers, with staged availability and later enforcement dates.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "Google announces Workspace MCP servers and CLI GA rollout",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/google-workspace-mcp-servers-and-cli-general-availability"
     },
     {
       "_rase": {
@@ -1527,96 +1633,6 @@
       ],
       "title": "Google announces Wallet rollout and planned AI Mode app connections",
       "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/google-search-personal-intelligence-app-expansion"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "From ITU to Bangladesh: AI solution aims to strengthen the mental well-being of young refugees",
-            "url": "https://en.itu.dk/About-ITU/Press/News-from-ITU/2026/AI-in-refugee-camps"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "ITU researchers announced plans to test Amisengo, an assistant intended to help volunteers use the EASE mental-health protocol in Rohingya refugee camps.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: From ITU to Bangladesh: AI solution aims to strengthen the mental well-being of young refugees — https://en.itu.dk/About-ITU/Press/News-from-ITU/2026/AI-in-refugee-camps",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://en.itu.dk/About-ITU/Press/News-from-ITU/2026/AI-in-refugee-camps",
-      "id": "urn:rase:ai:record:RSI-REC-709e16addbbd48a8f1aa831d",
-      "summary": "ITU researchers announced plans to test Amisengo, an assistant intended to help volunteers use the EASE mental-health protocol in Rohingya refugee camps.",
-      "tags": [
-        "Healthcare, biotechnology & medical AI"
-      ],
-      "title": "ITU announces research on an AI assistant for refugee-camp support workers",
-      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/amisengo-ease-protocol-research-assistant"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "A dental cone-beam computed tomography dataset with instance-level annotations of 38 anatomical structures",
-            "url": "https://www.nature.com/articles/s41597-026-08868-8"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Scientific Data published an accepted description of DentVoxel, a research dataset containing 100 dental cone-beam CT scans with instance-level labels for 38 anatomical structures.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: A dental cone-beam computed tomography dataset with instance-level annotations of 38 anatomical structures — https://www.nature.com/articles/s41597-026-08868-8",
-      "date_published": "2026-11-23T14:24:44Z",
-      "external_url": "https://www.nature.com/articles/s41597-026-08868-8",
-      "id": "urn:rase:ai:record:RSI-REC-a3c7c14c9d42e46d82128fa5",
-      "summary": "Scientific Data published an accepted description of DentVoxel, a research dataset containing 100 dental cone-beam CT scans with instance-level labels for 38 anatomical structures.",
-      "tags": [
-        "Healthcare, biotechnology & medical AI"
-      ],
-      "title": "DentVoxel journal paper documents a dental segmentation dataset",
-      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/dentvoxel-dental-cbct-research-dataset"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "L&T Technology Services launches SDVault.ai for the software-defined vehicle V-cycle",
-            "url": "https://nsearchives.nseindia.com/corporate/LTTS_23112026085541_23112026LTTSPRessreleasesd.pdf"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The original company release introduces an automotive engineering toolchain, not a newly certified autonomous vehicle.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: L&T Technology Services launches SDVault.ai for the software-defined vehicle V-cycle — https://nsearchives.nseindia.com/corporate/LTTS_23112026085541_23112026LTTSPRessreleasesd.pdf",
-      "date_published": "2026-11-23T14:24:44Z",
-      "external_url": "https://nsearchives.nseindia.com/corporate/LTTS_23112026085541_23112026LTTSPRessreleasesd.pdf",
-      "id": "urn:rase:ai:record:RSI-REC-1307501e021443433e946205",
-      "summary": "The original company release introduces an automotive engineering toolchain, not a newly certified autonomous vehicle.",
-      "tags": [
-        "Transportation, manufacturing, agriculture & energy"
-      ],
-      "title": "LTTS announces SDVault.ai engineering toolchain",
-      "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/ltts-sdvault-ai"
     }
   ],
   "language": "en",
