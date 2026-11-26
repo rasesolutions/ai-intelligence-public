@@ -11,6 +11,239 @@
   "items": [
     {
       "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "XPENG presents IRON’s physical-AI architecture at AI Day",
+            "url": "https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "XPENG presented the current IRON humanoid and Turing physical-AI architecture on November 25. The company described integrated task planning, sensing and body control. Store-assistant training in Q1 2027 and public release in Q2 2027 remain planned; no present customer availability is established.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:42Z.\nPublic content reviewed/published: 2026-11-26T01:36:30Z.\nEvidence: XPENG presents IRON’s physical-AI architecture at AI Day — https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174",
+      "date_modified": "2026-11-26T01:36:30Z",
+      "date_published": "2026-11-17T20:57:42Z",
+      "external_url": "https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174",
+      "id": "urn:rase:ai:record:RSI-P-262",
+      "summary": "XPENG presented the current IRON humanoid and Turing physical-AI architecture on November 25. The company described integrated task planning, sensing and body control. Store-assistant training in Q1 2027 and public release in Q2 2027 remain planned; no present customer availability is established.",
+      "tags": [
+        "Robotics, humanoids, household robots & physical AI"
+      ],
+      "title": "XPENG presents IRON's physical-AI architecture at AI Day",
+      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/xpeng-iron-next-gen-humanoid"
+    },
+    {
+      "_rase": {
+        "event_type": "public_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AWS Lambda durable MicroVM orchestration preview",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/"
+          },
+          {
+            "kind": "primary",
+            "title": "AWS Durable Execution SDK Extensions README",
+            "url": "https://raw.githubusercontent.com/aws/aws-durable-execution-sdk-js/main/packages/aws-durable-execution-sdk-js-extensions/README.md"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 25 extension previews managed jobs and sessions in Lambda MicroVMs through the durable-execution SDK.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-26T01:36:30Z.\nEvidence: AWS Lambda durable MicroVM orchestration preview — https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/\nEvidence: AWS Durable Execution SDK Extensions README — https://raw.githubusercontent.com/aws/aws-durable-execution-sdk-js/main/packages/aws-durable-execution-sdk-js-extensions/README.md",
+      "date_published": "2026-11-26T01:36:30Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/",
+      "id": "urn:rase:ai:record:RSI-REC-adafed419f5ed7bb9c962089",
+      "summary": "The November 25 extension previews managed jobs and sessions in Lambda MicroVMs through the durable-execution SDK.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "AWS releases a developer preview for durable MicroVM orchestration",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/aws-lambda-durable-microvm-orchestration-preview"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "A research agenda for integrating artificial intelligence in mitigation scenario workflows",
+            "url": "https://www.nature.com/articles/s41558-026-02801-y"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 25 journal Perspective separates demonstrated components from proposed agentic climate-workflow designs.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-26T01:36:30Z.\nEvidence: A research agenda for integrating artificial intelligence in mitigation scenario workflows — https://www.nature.com/articles/s41558-026-02801-y",
+      "date_published": "2026-11-26T01:36:30Z",
+      "external_url": "https://www.nature.com/articles/s41558-026-02801-y",
+      "id": "urn:rase:ai:record:RSI-REC-b448d67885002fe461fbc772",
+      "summary": "The November 25 journal Perspective separates demonstrated components from proposed agentic climate-workflow designs.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Nature Climate Change publishes an AI mitigation-scenario research agenda",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/ai-research-agenda-for-climate-mitigation-scenarios"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Amazon CloudWatch Omni PagerDuty integration announcement",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/"
+          },
+          {
+            "kind": "primary",
+            "title": "Connect PagerDuty to CloudWatch Omni",
+            "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/omni-connect-pagerduty.html"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 25 update connects Omni alerts to PagerDuty services and escalation policies, subject to setup and access grants.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-26T01:36:30Z.\nEvidence: Amazon CloudWatch Omni PagerDuty integration announcement — https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/\nEvidence: Connect PagerDuty to CloudWatch Omni — https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/omni-connect-pagerduty.html",
+      "date_published": "2026-11-26T01:36:30Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/",
+      "id": "urn:rase:ai:record:RSI-REC-7abae3cd48ebaa8dbaf6a016",
+      "summary": "The November 25 update connects Omni alerts to PagerDuty services and escalation policies, subject to setup and access grants.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "AWS adds PagerDuty incident integration to CloudWatch Omni",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-cloudwatch-omni-pagerduty-integration"
+    },
+    {
+      "_rase": {
+        "event_type": "public_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Amazon Transcribe Turbo public preview announcement",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/"
+          },
+          {
+            "kind": "primary",
+            "title": "Getting started with Amazon Transcribe Turbo and voice-agent features",
+            "url": "https://builder.aws.com/content/3MbnTQKvOMxTZQbm34D6XV7hv8q/getting-started-with-amazon-transcribe-turbo-and-voice-agent-features"
+          },
+          {
+            "kind": "primary",
+            "title": "AWS Transcribe voice-agent JavaScript samples",
+            "url": "https://github.com/aws-samples/amazon-ai-samples/tree/main/speech-to-text/turbo/features/javascript"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 25 preview adds turn-taking and runtime speech hints; English batch GA is a separate existing availability scope.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-26T01:36:30Z.\nEvidence: Amazon Transcribe Turbo public preview announcement — https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/\nEvidence: Getting started with Amazon Transcribe Turbo and voice-agent features — https://builder.aws.com/content/3MbnTQKvOMxTZQbm34D6XV7hv8q/getting-started-with-amazon-transcribe-turbo-and-voice-agent-features\nEvidence: AWS Transcribe voice-agent JavaScript samples — https://github.com/aws-samples/amazon-ai-samples/tree/main/speech-to-text/turbo/features/javascript",
+      "date_published": "2026-11-26T01:36:30Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/",
+      "id": "urn:rase:ai:record:RSI-REC-25665631f669d133fcd35b6b",
+      "summary": "The November 25 preview adds turn-taking and runtime speech hints; English batch GA is a separate existing availability scope.",
+      "tags": [
+        "Generative video, audio, images, design & creative tools"
+      ],
+      "title": "AWS opens Transcribe Turbo voice-agent preview in Ohio",
+      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/amazon-transcribe-turbo-voice-agent-preview"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "GitHub Copilot code-review billing default notice",
+            "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "The November 25 notice describes a future default for unset billing policies, while preserving explicit choices; it does not prove current activation.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T19:33:54Z.\nPublic content reviewed/published: 2026-11-26T01:36:30Z.\nEvidence: GitHub Copilot code-review billing default notice — https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization/",
+      "date_modified": "2026-11-26T01:36:30Z",
+      "date_published": "2026-11-17T19:33:54Z",
+      "external_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization/",
+      "id": "urn:rase:ai:record:RSI-CAL-022",
+      "summary": "The November 25 notice describes a future default for unset billing policies, while preserving explicit choices; it does not prove current activation.",
+      "tags": [
+        "AI software development & programming"
+      ],
+      "title": "GitHub announces a planned December 30 Copilot review-billing default change",
+      "url": "https://rasesolutions.com/ai/ai-software-development-programming/github-copilot"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-24"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Nuro, Lucid and Uber announce driverless Bay Area testing",
+            "url": "https://www.nuro.ai/blog/nuro-lucid-uber-begin-driverless-testing-on-public-roads"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "The November 24 joint announcement reports driverless Lucid Gravity road testing in four Bay Area cities. Driverless employee rides are forthcoming and a public launch is expected in Q1 2027. This is a testing announcement, not commercial availability or proof of the first-ever driverless mile.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T17:40:29Z.\nPublic content reviewed/published: 2026-11-26T01:36:30Z.\nEvidence: Nuro, Lucid and Uber announce driverless Bay Area testing — https://www.nuro.ai/blog/nuro-lucid-uber-begin-driverless-testing-on-public-roads",
+      "date_modified": "2026-11-26T01:36:30Z",
+      "date_published": "2026-11-23T17:40:29Z",
+      "external_url": "https://www.nuro.ai/blog/nuro-lucid-uber-begin-driverless-testing-on-public-roads",
+      "id": "urn:rase:ai:record:RSI-P-426",
+      "summary": "The November 24 joint announcement reports driverless Lucid Gravity road testing in four Bay Area cities. Driverless employee rides are forthcoming and a public launch is expected in Q1 2027. This is a testing announcement, not commercial availability or proof of the first-ever driverless mile.",
+      "tags": [
+        "Transportation, manufacturing, agriculture & energy"
+      ],
+      "title": "Nuro, Lucid and Uber announce driverless Bay Area testing",
+      "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/uber-nuro-and-lucid-robotaxi-program"
+    },
+    {
+      "_rase": {
         "event_type": "research_publication",
         "original_event_date": {
           "certainty": "verified",
@@ -738,6 +971,36 @@
     },
     {
       "_rase": {
+        "event_type": "research_disclosure",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-24"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Measuring and mitigating agent sandbox escape with Siren",
+            "url": "https://safeguards.anthropic.com/2026/siren/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 24 report distinguishes controlled boundary-crossing behavior from unauthorized use, with explicit experimental limits.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-26T01:36:30Z.\nEvidence: Measuring and mitigating agent sandbox escape with Siren — https://safeguards.anthropic.com/2026/siren/",
+      "date_published": "2026-11-26T01:36:30Z",
+      "external_url": "https://safeguards.anthropic.com/2026/siren/",
+      "id": "urn:rase:ai:record:RSI-REC-8a61c8d1adc4496f7a8b0b40",
+      "summary": "The November 24 report distinguishes controlled boundary-crossing behavior from unauthorized use, with explicit experimental limits.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "Anthropic publishes Siren evaluation design and mitigation findings",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/siren-sandbox-boundary-evaluation"
+    },
+    {
+      "_rase": {
         "event_type": "public_release",
         "original_event_date": {
           "certainty": "verified",
@@ -1388,251 +1651,6 @@
       ],
       "title": "Anthropic publishes Working with AI",
       "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/working-with-ai-enterprise-interview-study"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Artificial intelligence model for pancreatic cancer risk prediction in patients with pancreatic cystic lesions",
-            "url": "https://www.nature.com/articles/s41746-026-03441-4"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "An accepted npj Digital Medicine paper examines whether radiology reports and clinical data can help estimate future pancreatic cancer risk in patients with pancreatic cystic lesions.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: Artificial intelligence model for pancreatic cancer risk prediction in patients with pancreatic cystic lesions — https://www.nature.com/articles/s41746-026-03441-4",
-      "date_published": "2026-11-23T14:24:44Z",
-      "external_url": "https://www.nature.com/articles/s41746-026-03441-4",
-      "id": "urn:rase:ai:record:RSI-REC-db8eb09e7ee4ab851a7e4862",
-      "summary": "An accepted npj Digital Medicine paper examines whether radiology reports and clinical data can help estimate future pancreatic cancer risk in patients with pancreatic cystic lesions.",
-      "tags": [
-        "Healthcare, biotechnology & medical AI"
-      ],
-      "title": "Retrospective study evaluates AI for pancreatic-cyst cancer risk",
-      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/pancreatic-cystic-lesion-ai-risk-prediction-study"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Amazon SageMaker HyperPod launches a redesigned console experience for creating Amazon EKS-orchestrated clusters",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-console-eks/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The console update organizes required and optional cluster configuration without claiming a new training model.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Amazon SageMaker HyperPod launches a redesigned console experience for creating Amazon EKS-orchestrated clusters — https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-console-eks/",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-console-eks/",
-      "id": "urn:rase:ai:record:RSI-REC-67ba2715431fad152a59b92a",
-      "summary": "The console update organizes required and optional cluster configuration without claiming a new training model.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "AWS releases HyperPod's guided EKS cluster creation experience",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-sagemaker-hyperpod-guided-eks-cluster-setup"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "NIOSH CORR request for information on humanoid robots in workplaces, 91 FR 75513–75514",
-            "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-23/pdf/2026-23799.pdf"
-          },
-          {
-            "kind": "primary",
-            "title": "Public-inspection version of NIOSH humanoid-workplace research consultation",
-            "url": "https://public-inspection.federalregister.gov/2026-23799.pdf"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The formal notice publication concerns research priorities, not an adopted robot regulation or commercial authorization.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: NIOSH CORR request for information on humanoid robots in workplaces, 91 FR 75513–75514 — https://www.govinfo.gov/content/pkg/FR-2026-11-23/pdf/2026-23799.pdf\nEvidence: Public-inspection version of NIOSH humanoid-workplace research consultation — https://public-inspection.federalregister.gov/2026-23799.pdf",
-      "date_published": "2026-11-23T14:24:44Z",
-      "external_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-23/pdf/2026-23799.pdf",
-      "id": "urn:rase:ai:record:RSI-REC-b12032bf41510299f7410212",
-      "summary": "The formal notice publication concerns research priorities, not an adopted robot regulation or commercial authorization.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "NIOSH workplace-humanoid research consultation published",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/niosh-humanoid-workplace-robotics-research-consultation"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "ChatGPT for Academic Researchers",
-            "url": "https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The support article dates an access expansion and application opening, not automatic grant approval or a new model launch.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: ChatGPT for Academic Researchers — https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers",
-      "id": "urn:rase:ai:record:RSI-REC-497564da56deb9b5da9ca436",
-      "summary": "The support article dates an access expansion and application opening, not automatic grant approval or a new model launch.",
-      "tags": [
-        "Education, research & scientific discovery"
-      ],
-      "title": "OpenAI expands ChatGPT academic research access on November 23",
-      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/chatgpt-for-academic-researchers"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
-            "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The dated issuer announcement reinstates Jensen Huang as president, CEO and a director while describing continuing board oversight and a planned compliance appointment.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:32Z.\nEvidence: NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director — https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx",
-      "date_published": "2026-11-24T01:30:32Z",
-      "external_url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx",
-      "id": "urn:rase:ai:record:RSI-REC-987efdbdc1ee420206ecc6c7",
-      "summary": "The dated issuer announcement reinstates Jensen Huang as president, CEO and a director while describing continuing board oversight and a planned compliance appointment.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "NVIDIA announces an immediate chief-executive reinstatement",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/nvidia-leadership-reinstatement-and-compliance-oversight"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Cambridgeshire women are first to join world-leading AI breast screening trial",
-            "url": "https://cambridgebrc.nihr.ac.uk/2026/11/23/cambridgeshire-women-are-first-to-join-world-leading-ai-breast-screening-trial/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The NIHR Cambridge Biomedical Research Centre reports that women invited for routine screening in Cambridgeshire are joining the EDITH study of AI-assisted mammogram review.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: Cambridgeshire women are first to join world-leading AI breast screening trial — https://cambridgebrc.nihr.ac.uk/2026/11/23/cambridgeshire-women-are-first-to-join-world-leading-ai-breast-screening-trial/",
-      "date_published": "2026-11-23T14:24:44Z",
-      "external_url": "https://cambridgebrc.nihr.ac.uk/2026/11/23/cambridgeshire-women-are-first-to-join-world-leading-ai-breast-screening-trial/",
-      "id": "urn:rase:ai:record:RSI-REC-34b0e65d433fe40fb03aa8de",
-      "summary": "The NIHR Cambridge Biomedical Research Centre reports that women invited for routine screening in Cambridgeshire are joining the EDITH study of AI-assisted mammogram review.",
-      "tags": [
-        "Healthcare, biotechnology & medical AI"
-      ],
-      "title": "EDITH reports Cambridge recruitment for AI-assisted breast screening",
-      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/edith-ai-assisted-breast-screening-trial"
-    },
-    {
-      "_rase": {
-        "event_type": "preview_opened",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Solar Mini 4.5 Preview",
-            "url": "https://console.upstage.ai/docs/models/solar-mini-4-5-preview"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Upstage documents an early-access Solar model for chat, reasoning, tool use and structured outputs, with the production release still planned.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: Solar Mini 4.5 Preview — https://console.upstage.ai/docs/models/solar-mini-4-5-preview",
-      "date_published": "2026-11-23T14:24:44Z",
-      "external_url": "https://console.upstage.ai/docs/models/solar-mini-4-5-preview",
-      "id": "urn:rase:ai:record:RSI-REC-0c0627af60a5db3afa41fc31",
-      "summary": "Upstage documents an early-access Solar model for chat, reasoning, tool use and structured outputs, with the production release still planned.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "Upstage opens a Solar Mini 4.5 preview before its planned December release",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/solar-mini-4-5-preview"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "A more tailored Google Search that’s uniquely yours",
-            "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The announcement separates the Wallet rollout from later Drive and Gemini connections and preserves user opt-in controls.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: A more tailored Google Search that’s uniquely yours — https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "id": "urn:rase:ai:record:RSI-REC-8623fc40e4bd2e1a9163ac95",
-      "summary": "The announcement separates the Wallet rollout from later Drive and Gemini connections and preserves user opt-in controls.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "Google announces Wallet rollout and planned AI Mode app connections",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/google-search-personal-intelligence-app-expansion"
     }
   ],
   "language": "en",
