@@ -11,6 +11,167 @@
   "items": [
     {
       "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "New Zealand businesses report productivity gains from AI",
+            "url": "https://www.mbie.govt.nz/about/news/new-zealand-businesses-report-productivity-gains-from-ai"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 report release covers adoption and self-reported effects; fieldwork and earlier survey planning are separate dates.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-26T14:28:30Z.\nEvidence: New Zealand businesses report productivity gains from AI — https://www.mbie.govt.nz/about/news/new-zealand-businesses-report-productivity-gains-from-ai",
+      "date_published": "2026-11-26T14:28:30Z",
+      "external_url": "https://www.mbie.govt.nz/about/news/new-zealand-businesses-report-productivity-gains-from-ai",
+      "id": "urn:rase:ai:record:RSI-REC-83f281ecff52677227dc3159",
+      "summary": "The November 26 report release covers adoption and self-reported effects; fieldwork and earlier survey planning are separate dates.",
+      "tags": [
+        "Business, finance, sales & productivity"
+      ],
+      "title": "MBIE and Stats NZ publish the 2026 business AI survey results",
+      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/new-zealand-2026-business-ai-adoption-survey-results"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Accelerating inverse materials design using generative diffusion models with reinforcement learning",
+            "url": "https://www.nature.com/articles/s42256-026-01334-5"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 Version of Record reports reinforcement-learning optimization of diffusion models; the underlying preprint dates to November 2025.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-26T14:28:30Z.\nEvidence: Accelerating inverse materials design using generative diffusion models with reinforcement learning — https://www.nature.com/articles/s42256-026-01334-5",
+      "date_published": "2026-11-26T14:28:30Z",
+      "external_url": "https://www.nature.com/articles/s42256-026-01334-5",
+      "id": "urn:rase:ai:record:RSI-REC-52d42af725f142e592eaad6f",
+      "summary": "The November 26 Version of Record reports reinforcement-learning optimization of diffusion models; the underlying preprint dates to November 2025.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Nature Machine Intelligence publishes the MatInvent crystal-design study",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/matinvent-goal-directed-crystal-generation-research"
+    },
+    {
+      "_rase": {
+        "event_type": "public_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+            "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 publisher announcement makes a public explorer available for workload-specific llama.cpp results on two AMD hardware configurations.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-26T14:28:30Z.\nEvidence: Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon — https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "date_published": "2026-11-26T14:28:30Z",
+      "external_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "id": "urn:rase:ai:record:RSI-REC-a37a023306e5cdfa72bbf8f0",
+      "summary": "The November 26 publisher announcement makes a public explorer available for workload-specific llama.cpp results on two AMD hardware configurations.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "ggml-org introduces llama.cpp AMD benchmark dashboard",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/llama-cpp-amd-benchmark-dashboard"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "What's new in Google Home — November 25, 2026",
+            "url": "https://support.google.com/googlehome/answer/15962877"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "November 25 release notes describe Gemini for Home early-access refinements and Familiar Face alerts on two onn outdoor cameras with a Premium subscription. Universal activation dates are unconfirmed; recognition remains location-dependent.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:42Z.\nPublic content reviewed/published: 2026-11-26T14:28:30Z.\nEvidence: What's new in Google Home — November 25, 2026 — https://support.google.com/googlehome/answer/15962877",
+      "date_modified": "2026-11-26T14:28:30Z",
+      "date_published": "2026-11-17T20:57:42Z",
+      "external_url": "https://support.google.com/googlehome/answer/15962877",
+      "id": "urn:rase:ai:record:RSI-P-270",
+      "summary": "November 25 release notes describe Gemini for Home early-access refinements and Familiar Face alerts on two onn outdoor cameras with a Premium subscription. Universal activation dates are unconfirmed; recognition remains location-dependent.",
+      "tags": [
+        "Consumer electronics, wearables & smart homes"
+      ],
+      "title": "Google documents staged Gemini for Home and onn camera updates",
+      "url": "https://rasesolutions.com/ai/consumer-electronics-wearables-smart-homes/gemini-for-home"
+    },
+    {
+      "_rase": {
+        "event_type": "preview_opened",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Introducing Search for Agents",
+            "url": "https://blog.cloudflare.com/search-for-agents/"
+          },
+          {
+            "kind": "primary",
+            "title": "Introducing Search for Agents — Cloudflare changelog",
+            "url": "https://developers.cloudflare.com/changelog/post/2026-11-25-search-for-agents/"
+          },
+          {
+            "kind": "primary",
+            "title": "Search for Agents — Cloudflare AI Search documentation",
+            "url": "https://developers.cloudflare.com/ai-search/how-to/search-for-agents/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 25 announcement opens a domain-level search beta that returns indexed content in Markdown, rather than generated answers.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-26T14:28:30Z.\nEvidence: Introducing Search for Agents — https://blog.cloudflare.com/search-for-agents/\nEvidence: Introducing Search for Agents — Cloudflare changelog — https://developers.cloudflare.com/changelog/post/2026-11-25-search-for-agents/\nEvidence: Search for Agents — Cloudflare AI Search documentation — https://developers.cloudflare.com/ai-search/how-to/search-for-agents/",
+      "date_published": "2026-11-26T14:28:30Z",
+      "external_url": "https://blog.cloudflare.com/search-for-agents/",
+      "id": "urn:rase:ai:record:RSI-REC-96ed38796f18f1972da9783c",
+      "summary": "The November 25 announcement opens a domain-level search beta that returns indexed content in Markdown, rather than generated answers.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "Cloudflare introduces Search for Agents beta",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/cloudflare-search-for-agents"
+    },
+    {
+      "_rase": {
         "event_type": "significant_update",
         "original_event_date": {
           "certainty": "verified",
@@ -74,6 +235,42 @@
       ],
       "title": "AWS releases a developer preview for durable MicroVM orchestration",
       "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/aws-lambda-durable-microvm-orchestration-preview"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Claude Code v2.1.332 official release notes",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332"
+          },
+          {
+            "kind": "primary",
+            "title": "Claude Code v2.1.332 release metadata",
+            "url": "https://api.github.com/repos/anthropics/claude-code/releases/tags/v2.1.332"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "reviewed_event_publication"
+      },
+      "content_text": "Anthropic publishes version 2.1.332 with beta MCP-hosted skills, a hook that can reject inline skill shell commands, and a login-status fix.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:40Z.\nPublic content reviewed/published: 2026-11-26T14:28:30Z.\nEvidence: Claude Code v2.1.332 official release notes — https://github.com/anthropics/claude-code/releases/tag/v2.1.332\nEvidence: Claude Code v2.1.332 release metadata — https://api.github.com/repos/anthropics/claude-code/releases/tags/v2.1.332",
+      "date_modified": "2026-11-26T14:28:30Z",
+      "date_published": "2026-11-17T20:57:40Z",
+      "external_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332",
+      "id": "urn:rase:ai:record:RSI-CAL-023",
+      "summary": "Anthropic publishes version 2.1.332 with beta MCP-hosted skills, a hook that can reject inline skill shell commands, and a login-status fix.",
+      "tags": [
+        "AI software development & programming"
+      ],
+      "title": "Claude Code 2.1.332 adds beta MCP skills and PreSkillShellCommand",
+      "url": "https://rasesolutions.com/ai/ai-software-development-programming/claude-code"
     },
     {
       "_rase": {
@@ -179,6 +376,41 @@
       ],
       "title": "AWS opens Transcribe Turbo voice-agent preview in Ohio",
       "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/amazon-transcribe-turbo-voice-agent-preview"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Angelini Technologies acquires a stake in Oversonic Robotics",
+            "url": "https://www.mytwincommunication.com/it/media-center/press-release-or-angelini-technologies-acquires-a-stake-in-oversonic-robotics"
+          },
+          {
+            "kind": "primary",
+            "title": "Oversonic Robotics industrial cognitive robotics",
+            "url": "https://www.oversonicrobotics.com/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "Oversonic's appointed media office announces a new shareholder and board appointments, with industrial and international growth as objectives. Financial terms and delivery milestones are undisclosed.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-26T14:28:30Z.\nEvidence: Angelini Technologies acquires a stake in Oversonic Robotics — https://www.mytwincommunication.com/it/media-center/press-release-or-angelini-technologies-acquires-a-stake-in-oversonic-robotics\nEvidence: Oversonic Robotics industrial cognitive robotics — https://www.oversonicrobotics.com/",
+      "date_published": "2026-11-26T14:28:30Z",
+      "external_url": "https://www.mytwincommunication.com/it/media-center/press-release-or-angelini-technologies-acquires-a-stake-in-oversonic-robotics",
+      "id": "urn:rase:ai:record:RSI-REC-fc2573121d0e2d8805c2f20a",
+      "summary": "Oversonic's appointed media office announces a new shareholder and board appointments, with industrial and international growth as objectives. Financial terms and delivery milestones are undisclosed.",
+      "tags": [
+        "Robotics, humanoids, household robots & physical AI"
+      ],
+      "title": "Oversonic announces Angelini Technologies investment and board appointments",
+      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/angelini-technologies-investment-in-oversonic-robotics"
     },
     {
       "_rase": {
@@ -1327,42 +1559,6 @@
     },
     {
       "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Claude Code 2.1.331 release notes",
-            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331"
-          },
-          {
-            "kind": "primary",
-            "title": "Anthropic Claude Code 2.1.331 release metadata",
-            "url": "https://api.github.com/repos/anthropics/claude-code/releases/tags/v2.1.331"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_event_publication"
-      },
-      "content_text": "The release expands terminal Code Mode platform support and adds plugin-dependency handling.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-17T20:57:40Z.\nPublic content reviewed/published: 2026-11-24T14:32:03Z.\nEvidence: Claude Code 2.1.331 release notes — https://github.com/anthropics/claude-code/releases/tag/v2.1.331\nEvidence: Anthropic Claude Code 2.1.331 release metadata — https://api.github.com/repos/anthropics/claude-code/releases/tags/v2.1.331",
-      "date_modified": "2026-11-24T14:32:03Z",
-      "date_published": "2026-11-17T20:57:40Z",
-      "external_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
-      "id": "urn:rase:ai:record:RSI-CAL-023",
-      "summary": "The release expands terminal Code Mode platform support and adds plugin-dependency handling.",
-      "tags": [
-        "AI software development & programming"
-      ],
-      "title": "Anthropic publishes Claude Code 2.1.331",
-      "url": "https://rasesolutions.com/ai/ai-software-development-programming/claude-code"
-    },
-    {
-      "_rase": {
         "event_type": "announcement",
         "original_event_date": {
           "certainty": "verified",
@@ -1455,202 +1651,6 @@
       ],
       "title": "SageMaker Studio adds HyperPod workload submission and deployment",
       "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-sagemaker-studio-hyperpod-workload-interface"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-            "url": "https://z.ai/blog/glm-5.4"
-          },
-          {
-            "kind": "primary",
-            "title": "Meet GLM-5.4 in AutoClaw",
-            "url": "https://autoclaw.z.ai/en/blog/model/GLM-5.4/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The issuer's dated model announcement and official AutoClaw notice document hosted access. They do not establish current API availability or downloadable weights.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: GLM-5.4: Toward Generalized Coding with Our First Loop Transformer — https://z.ai/blog/glm-5.4\nEvidence: Meet GLM-5.4 in AutoClaw — https://autoclaw.z.ai/en/blog/model/GLM-5.4/",
-      "date_published": "2026-11-23T14:24:44Z",
-      "external_url": "https://z.ai/blog/glm-5.4",
-      "id": "urn:rase:ai:record:RSI-REC-b4058a6fb7ee1e351fe90734",
-      "summary": "The issuer's dated model announcement and official AutoClaw notice document hosted access. They do not establish current API availability or downloadable weights.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "Z.ai announces GLM-5.4 and hosted product access",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/glm-5-4"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "QAMNet: Co-designing deep learning with complex-valued computing machines",
-            "url": "https://www.nature.com/articles/s44387-026-00175-2"
-          },
-          {
-            "kind": "primary",
-            "title": "QAMNet: Fast and Efficient Optical QAM Neural Networks",
-            "url": "https://arxiv.org/abs/2409.12305"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "npj Artificial Intelligence published accepted QAMNet research on using both components of an optical signal to encode neural-network calculations.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: QAMNet: Co-designing deep learning with complex-valued computing machines — https://www.nature.com/articles/s44387-026-00175-2\nEvidence: QAMNet: Fast and Efficient Optical QAM Neural Networks — https://arxiv.org/abs/2409.12305",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://www.nature.com/articles/s44387-026-00175-2",
-      "id": "urn:rase:ai:record:RSI-REC-4dc0d24ac41e819bd4e0105d",
-      "summary": "npj Artificial Intelligence published accepted QAMNet research on using both components of an optical signal to encode neural-network calculations.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "QAMNet journal paper explores lower-energy optical neural-network encoding",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/qamnet-optical-neural-network-research"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Google Cloud release notes",
-            "url": "https://docs.cloud.google.com/release-notes"
-          },
-          {
-            "kind": "primary",
-            "title": "The TabFM model in BigQuery",
-            "url": "https://docs.cloud.google.com/bigquery/docs/tabfm-model"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Google made TabFM1.1 the default preview model for BigQuery AI.PREDICT and AI.EVALUATE, expanding supported table inputs.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-25T14:05:48Z.\nEvidence: Google Cloud release notes — https://docs.cloud.google.com/release-notes\nEvidence: The TabFM model in BigQuery — https://docs.cloud.google.com/bigquery/docs/tabfm-model",
-      "date_published": "2026-11-25T14:05:48Z",
-      "external_url": "https://docs.cloud.google.com/release-notes",
-      "id": "urn:rase:ai:record:RSI-REC-aaf91c0fd3f2d2bba4fa9773",
-      "summary": "Google made TabFM1.1 the default preview model for BigQuery AI.PREDICT and AI.EVALUATE, expanding supported table inputs.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "BigQuery previews TabFM1.1 for larger tabular prediction tasks",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/bigquery-tabfm1-1-preview"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Paradromics Advances High-Performance AI Computing for Brain-Computer Interfaces with NVIDIA",
-            "url": "https://paradromics.com/news/paradromics-advances-high-performance-ai-computing-for-brain-computer-interfaces-with-nvidia/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The companies announced work integrating Holoscan and edge computing into speech-decoding research.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: Paradromics Advances High-Performance AI Computing for Brain-Computer Interfaces with NVIDIA — https://paradromics.com/news/paradromics-advances-high-performance-ai-computing-for-brain-computer-interfaces-with-nvidia/",
-      "date_published": "2026-11-24T14:32:03Z",
-      "external_url": "https://paradromics.com/news/paradromics-advances-high-performance-ai-computing-for-brain-computer-interfaces-with-nvidia/",
-      "id": "urn:rase:ai:record:RSI-REC-b231bbcedbbd7f3b9040e972",
-      "summary": "The companies announced work integrating Holoscan and edge computing into speech-decoding research.",
-      "tags": [
-        "Healthcare, biotechnology & medical AI"
-      ],
-      "title": "Paradromics and NVIDIA plan an edge-computing stack for investigational speech BCIs",
-      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/paradromics-nvidia-bci-computing-collaboration"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "OpenAI ChatGPT release notes for November 18, 2026",
-            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_event_publication"
-      },
-      "content_text": "OpenAI dates the Chat-specific rollout November 23, distinct from the existing November 17 model-family milestone.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-18T19:15:06Z.\nPublic content reviewed/published: 2026-11-24T01:30:31Z.\nEvidence: OpenAI ChatGPT release notes for November 18, 2026 — https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "date_modified": "2026-11-24T01:30:31Z",
-      "date_published": "2026-11-18T19:15:06Z",
-      "external_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "id": "urn:rase:ai:record:RSI-NEWS-20261118-001",
-      "summary": "OpenAI dates the Chat-specific rollout November 23, distinct from the existing November 17 model-family milestone.",
-      "tags": [
-        "Foundation models, assistants & multimodal AI"
-      ],
-      "title": "GPT-6.2 begins rollout in ChatGPT’s Chat tab",
-      "url": "https://rasesolutions.com/ai/foundation-models-assistants-multimodal-ai/gpt-6-2-astra-and-sol"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Working with AI",
-            "url": "https://www.anthropic.com/research/working-with-ai"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The report examines enterprise adoption through interviews; its findings should retain the sample and observational limits.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Working with AI — https://www.anthropic.com/research/working-with-ai",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://www.anthropic.com/research/working-with-ai",
-      "id": "urn:rase:ai:record:RSI-REC-cd6889ee1ecd2f1c74c73822",
-      "summary": "The report examines enterprise adoption through interviews; its findings should retain the sample and observational limits.",
-      "tags": [
-        "Education, research & scientific discovery"
-      ],
-      "title": "Anthropic publishes Working with AI",
-      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/working-with-ai-enterprise-interview-study"
     }
   ],
   "language": "en",
