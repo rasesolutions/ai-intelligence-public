@@ -50,6 +50,36 @@
         "sources": [
           {
             "kind": "primary",
+            "title": "A measurement noise scaling law for cellular representation learning",
+            "url": "https://www.nature.com/articles/s42256-026-01332-7"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 Version of Record reports research on measurement noise in cellular representation learning. The author preprint was first submitted in March 2025.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-27T01:18:15Z.\nEvidence: A measurement noise scaling law for cellular representation learning — https://www.nature.com/articles/s42256-026-01332-7",
+      "date_published": "2026-11-27T01:18:15Z",
+      "external_url": "https://www.nature.com/articles/s42256-026-01332-7",
+      "id": "urn:rase:ai:record:RSI-REC-2a65748f4135d643486c8551",
+      "summary": "The November 26 Version of Record reports research on measurement noise in cellular representation learning. The author preprint was first submitted in March 2025.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Nature Machine Intelligence publishes the cellular noise-scaling study",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/measurement-noise-scaling-for-cellular-representation-learning"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
             "title": "Accelerating inverse materials design using generative diffusion models with reinforcement learning",
             "url": "https://www.nature.com/articles/s42256-026-01334-5"
           }
@@ -98,6 +128,121 @@
       ],
       "title": "ggml-org introduces llama.cpp AMD benchmark dashboard",
       "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/llama-cpp-amd-benchmark-dashboard"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Government of Canada boosts AI innovation from Canadian SMEs with an expanded AI Compute Access Fund",
+            "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-boosts-the-ai-compute-access-fund-with-700-million-expansion.html"
+          },
+          {
+            "kind": "primary",
+            "title": "Expanded Fund opens new call and announces funding for 45 Canadian companies",
+            "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/backgrounder-government-of-canada-announces-support-for-45-canadian-companies-through-the-ai-compute-access-fund.html"
+          },
+          {
+            "kind": "primary",
+            "title": "Program Guide: AI Compute Access Fund",
+            "url": "https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy/ai-compute-access-fund/program-guide-ai-compute-access-fund"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 government release announces a new programme phase and funding recipients. The current call targets health and life sciences; assessment and contribution agreements remain necessary.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-27T01:18:15Z.\nEvidence: Government of Canada boosts AI innovation from Canadian SMEs with an expanded AI Compute Access Fund — https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-boosts-the-ai-compute-access-fund-with-700-million-expansion.html\nEvidence: Expanded Fund opens new call and announces funding for 45 Canadian companies — https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/backgrounder-government-of-canada-announces-support-for-45-canadian-companies-through-the-ai-compute-access-fund.html\nEvidence: Program Guide: AI Compute Access Fund — https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy/ai-compute-access-fund/program-guide-ai-compute-access-fund",
+      "date_published": "2026-11-27T01:18:15Z",
+      "external_url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-boosts-the-ai-compute-access-fund-with-700-million-expansion.html",
+      "id": "urn:rase:ai:record:RSI-REC-6708728ccae93c06be36cfdb",
+      "summary": "The November 26 government release announces a new programme phase and funding recipients. The current call targets health and life sciences; assessment and contribution agreements remain necessary.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "Canada announces the expanded AI Compute Access Fund call and 45 recipients",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/canada-ai-compute-access-fund-expanded-call"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Ming-Image-0.2-Design official model card",
+            "url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design"
+          },
+          {
+            "kind": "primary",
+            "title": "inclusionAI Ming-Image reference repository",
+            "url": "https://github.com/inclusionAI/Ming-Image"
+          },
+          {
+            "kind": "primary",
+            "title": "Ming-Image 0.2 Design model license",
+            "url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/blob/main/LICENSE"
+          },
+          {
+            "kind": "primary",
+            "title": "Official X embed of the November 26 Ant Ling announcement",
+            "url": "https://publish.twitter.com/oembed?url=https%3A%2F%2Fx.com%2FAntLingAGI%2Fstatus%2F2125916926048358827&omit_script=true"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 maker post announces Design weights and separately plans a later 0.2 Layer release.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-27T01:18:15Z.\nEvidence: Ming-Image-0.2-Design official model card — https://huggingface.co/inclusionAI/Ming-Image-0.2-Design\nEvidence: inclusionAI Ming-Image reference repository — https://github.com/inclusionAI/Ming-Image\nEvidence: Ming-Image 0.2 Design model license — https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/blob/main/LICENSE\nEvidence: Official X embed of the November 26 Ant Ling announcement — https://publish.twitter.com/oembed?url=https%3A%2F%2Fx.com%2FAntLingAGI%2Fstatus%2F2125916926048358827&omit_script=true",
+      "date_published": "2026-11-27T01:18:15Z",
+      "external_url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+      "id": "urn:rase:ai:record:RSI-REC-c90658a66d55d5943f5a1e9d",
+      "summary": "The November 26 maker post announces Design weights and separately plans a later 0.2 Layer release.",
+      "tags": [
+        "Generative video, audio, images, design & creative tools"
+      ],
+      "title": "inclusionAI announces Ming-Image 0.2 Design availability",
+      "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/ming-image-0-2-design"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Financial Stability Report — November 2026",
+            "url": "https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 Financial Stability Report describes adaptations to cyber testing and planned 2026/2027 exercises. It does not establish that future tests have occurred or that a new AI-specific legal regime has been enacted.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-27T01:18:15Z.\nEvidence: Financial Stability Report — November 2026 — https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026",
+      "date_published": "2026-11-27T01:18:15Z",
+      "external_url": "https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026",
+      "id": "urn:rase:ai:record:RSI-REC-587b107f013afdbe51bb08b0",
+      "summary": "The November 26 Financial Stability Report describes adaptations to cyber testing and planned 2026/2027 exercises. It does not establish that future tests have occurred or that a new AI-specific legal regime has been enacted.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "Bank of England publishes its frontier-AI risk and resilience-testing update",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/bank-of-england-frontier-ai-resilience-report-and-testing-plans"
     },
     {
       "_rase": {
@@ -235,6 +380,66 @@
       ],
       "title": "AWS releases a developer preview for durable MicroVM orchestration",
       "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/aws-lambda-durable-microvm-orchestration-preview"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "What defenders need to know about ARTEX — Microsoft Threat Intelligence",
+            "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 25 publication consolidates framework analysis and defensive guidance for existing agent-assisted threat activity.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-27T01:18:15Z.\nEvidence: What defenders need to know about ARTEX — Microsoft Threat Intelligence — https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+      "date_published": "2026-11-27T01:18:15Z",
+      "external_url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+      "id": "urn:rase:ai:record:RSI-REC-b5e35d42a5fba5db1984f08f",
+      "summary": "The November 25 publication consolidates framework analysis and defensive guidance for existing agent-assisted threat activity.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "Microsoft publishes an ARTEX defender analysis",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/microsoft-artex-defender-analysis"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "XPENG presents IRON’s physical-AI architecture at AI Day",
+            "url": "https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 25 issuer statement names a planned purpose-built Robotaxi. The existing Guangzhou employee pilot and future model release remain separate from unrestricted commercial ride availability.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-27T01:18:15Z.\nEvidence: XPENG presents IRON’s physical-AI architecture at AI Day — https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174",
+      "date_published": "2026-11-27T01:18:15Z",
+      "external_url": "https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174",
+      "id": "urn:rase:ai:record:RSI-REC-d7408f7469792670b2e74229",
+      "summary": "The November 25 issuer statement names a planned purpose-built Robotaxi. The existing Guangzhou employee pilot and future model release remain separate from unrestricted commercial ride availability.",
+      "tags": [
+        "Transportation, manufacturing, agriculture & energy"
+      ],
+      "title": "XPENG announces a 2027 release target for YOYO-01",
+      "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/xpeng-yoyo-01-planned-robotaxi"
     },
     {
       "_rase": {
@@ -1456,201 +1661,6 @@
       ],
       "title": "Connect AI agents add suggestions to step-by-step guides",
       "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/amazon-connect-customer-ai-guide-filling"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Amazon EC2 Capacity Blocks for ML now supports search across multiple instance types and AWS Regions",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The update improves reservation discovery while distinguishing console breadth from the API's per-Region search.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Amazon EC2 Capacity Blocks for ML now supports search across multiple instance types and AWS Regions — https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/",
-      "id": "urn:rase:ai:record:RSI-REC-308b0e3429d59a6093472eac",
-      "summary": "The update improves reservation discovery while distinguishing console breadth from the API's per-Region search.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "AWS adds multi-type and multi-Region console search for Capacity Blocks",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-ec2-capacity-blocks-for-ml-flexible-search"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Google Cloud release notes",
-            "url": "https://docs.cloud.google.com/release-notes"
-          },
-          {
-            "kind": "primary",
-            "title": "AI.EMBED built-in models and billing",
-            "url": "https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-embed"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "BigQuery added EmbeddingGemma2 as a preview built-in model for AI.EMBED, allowing text and code embeddings without a separate Agent Platform endpoint.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-25T14:05:48Z.\nEvidence: Google Cloud release notes — https://docs.cloud.google.com/release-notes\nEvidence: AI.EMBED built-in models and billing — https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-embed",
-      "date_published": "2026-11-25T14:05:48Z",
-      "external_url": "https://docs.cloud.google.com/release-notes",
-      "id": "urn:rase:ai:record:RSI-REC-150d371b7ce03ff45c77d7bb",
-      "summary": "BigQuery added EmbeddingGemma2 as a preview built-in model for AI.EMBED, allowing text and code embeddings without a separate Agent Platform endpoint.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "BigQuery adds a built-in EmbeddingGemma2 preview",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/bigquery-built-in-embeddinggemma2-preview"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Larsen & Toubro secures order for deploying an AI cluster",
-            "url": "https://www.larsentoubro.com/pressreleases/2026/2026-11-23-larsen-toubro-secures-large-order-for-deploying-ai-cluster"
-          },
-          {
-            "kind": "primary",
-            "title": "Larsen & Toubro issuer disclosure enclosing the Chennai AI cluster order announcement",
-            "url": "https://nsearchives.nseindia.com/corporate/PAM_23112026093338_PressRelease23112026.pdf"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The issuer describes an expansion order rather than newly commissioned GPUs or a new public cloud service.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-23T14:24:44Z.\nEvidence: Larsen & Toubro secures order for deploying an AI cluster — https://www.larsentoubro.com/pressreleases/2026/2026-11-23-larsen-toubro-secures-large-order-for-deploying-ai-cluster\nEvidence: Larsen & Toubro issuer disclosure enclosing the Chennai AI cluster order announcement — https://nsearchives.nseindia.com/corporate/PAM_23112026093338_PressRelease23112026.pdf",
-      "date_published": "2026-11-23T14:24:44Z",
-      "external_url": "https://www.larsentoubro.com/pressreleases/2026/2026-11-23-larsen-toubro-secures-large-order-for-deploying-ai-cluster",
-      "id": "urn:rase:ai:record:RSI-REC-b8accc2cc28dd1f79a6f00f6",
-      "summary": "The issuer describes an expansion order rather than newly commissioned GPUs or a new public cloud service.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "L&T announces additional Chennai B300 deployment engagement",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/ltn-compute-chennai-b300-expansion-engagement"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Sovereign AI and National Security Strategic Investment Fund backing British autonomous defence systems firm",
-            "url": "https://www.gov.uk/government/news/sovereign-ai-and-national-security-strategic-investment-fund-backing-british-autonomous-defence-systems-firm"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The Cabinet Office announced that Sovereign AI and NSSIF are backing Agon’s development of infrastructure for training and testing autonomous defence systems.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Sovereign AI and National Security Strategic Investment Fund backing British autonomous defence systems firm — https://www.gov.uk/government/news/sovereign-ai-and-national-security-strategic-investment-fund-backing-british-autonomous-defence-systems-firm",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://www.gov.uk/government/news/sovereign-ai-and-national-security-strategic-investment-fund-backing-british-autonomous-defence-systems-firm",
-      "id": "urn:rase:ai:record:RSI-REC-0f0d21524f9045d64ec8adb6",
-      "summary": "The Cabinet Office announced that Sovereign AI and NSSIF are backing Agon’s development of infrastructure for training and testing autonomous defence systems.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "UK government funds back Agon’s defence AI testing infrastructure",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/agon-autonomous-defence-ai-infrastructure"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "OpenAI and Cisco introduce Shirudo",
-            "url": "https://openai.com/index/introducing-shirudo/"
-          },
-          {
-            "kind": "primary",
-            "title": "Shirudo project repository",
-            "url": "https://github.com/shirudo-dev/shirudo"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The joint announcement documents targeted runtime protections and an operator-controlled workflow, without claiming universal exploit prevention.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: OpenAI and Cisco introduce Shirudo — https://openai.com/index/introducing-shirudo/\nEvidence: Shirudo project repository — https://github.com/shirudo-dev/shirudo",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://openai.com/index/introducing-shirudo/",
-      "id": "urn:rase:ai:record:RSI-REC-93a68846281766dfce0e6fe0",
-      "summary": "The joint announcement documents targeted runtime protections and an operator-controlled workflow, without claiming universal exploit prevention.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "OpenAI and Cisco announce the Shirudo security runtime",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/shirudo"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "SageMaker Studio adds HyperPod training and deployment forms",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "AWS introduces forms and diagnostics for EKS HyperPod workloads, distinct from cluster-creation configuration.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: SageMaker Studio adds HyperPod training and deployment forms — https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/",
-      "date_published": "2026-11-24T14:32:03Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/",
-      "id": "urn:rase:ai:record:RSI-REC-63698fb33e826c9d2fb1c69c",
-      "summary": "AWS introduces forms and diagnostics for EKS HyperPod workloads, distinct from cluster-creation configuration.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "SageMaker Studio adds HyperPod workload submission and deployment",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-sagemaker-studio-hyperpod-workload-interface"
     }
   ],
   "language": "en",
