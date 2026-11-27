@@ -11,6 +11,146 @@
   "items": [
     {
       "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "NEURA Robotics, Aragón and Costa Group announce a planned Physical AI hub",
+            "url": "https://neura-robotics.com/neura-robotics-aragon-government-costa-group-physical-ai/"
+          },
+          {
+            "kind": "primary",
+            "title": "Government of Aragón describes the NEURA Gym agreement",
+            "url": "https://pro.aragonhoy.es/presidencia-de-gobierno/neura-robotics-desarrollara-aragon-nuevo-motor-crecimiento-industrial-puesta-marcha-neura-gym-107206"
+          },
+          {
+            "kind": "primary",
+            "title": "Aragón government dated news listing — November 26, 2026",
+            "url": "https://pro.aragonhoy.es/portada-dia"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 regional announcement describes an MOU-backed training hub and test zone; opening remains planned.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-27T14:37:09Z.\nEvidence: NEURA Robotics, Aragón and Costa Group announce a planned Physical AI hub — https://neura-robotics.com/neura-robotics-aragon-government-costa-group-physical-ai/\nEvidence: Government of Aragón describes the NEURA Gym agreement — https://pro.aragonhoy.es/presidencia-de-gobierno/neura-robotics-desarrollara-aragon-nuevo-motor-crecimiento-industrial-puesta-marcha-neura-gym-107206\nEvidence: Aragón government dated news listing — November 26, 2026 — https://pro.aragonhoy.es/portada-dia",
+      "date_published": "2026-11-27T14:37:09Z",
+      "external_url": "https://neura-robotics.com/neura-robotics-aragon-government-costa-group-physical-ai/",
+      "id": "urn:rase:ai:record:RSI-REC-7bce2d3e3d93e9c873935ca8",
+      "summary": "The November 26 regional announcement describes an MOU-backed training hub and test zone; opening remains planned.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "NEURA and Aragón announce the planned Physical AI hub",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/neura-gym-aragon-planned-physical-ai-hub"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Volvo Cars trains Hexagon Robotics’ humanoids for manufacturing",
+            "url": "https://www.volvocars.com/uk/media/press-releases/5B712552CE36E240/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 notice describes task training before planned 2027 factory use.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-27T14:37:09Z.\nEvidence: Volvo Cars trains Hexagon Robotics’ humanoids for manufacturing — https://www.volvocars.com/uk/media/press-releases/5B712552CE36E240/",
+      "date_published": "2026-11-27T14:37:09Z",
+      "external_url": "https://www.volvocars.com/uk/media/press-releases/5B712552CE36E240/",
+      "id": "urn:rase:ai:record:RSI-REC-b15a7d577bfc1240ded98f55",
+      "summary": "The November 26 notice describes task training before planned 2027 factory use.",
+      "tags": [
+        "Transportation, manufacturing, agriculture & energy"
+      ],
+      "title": "Volvo announces AEON training at Ghent",
+      "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/volvo-cars-hexagon-aeon-factory-training-programme"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Kioxia and NVIDIA collaborate to expand effective high-bandwidth memory capacity with SSDs",
+            "url": "https://www.kioxia.com/en-jp/business/news/2026/20261126-1.html"
+          },
+          {
+            "kind": "primary",
+            "title": "Kioxia Japanese original: SSD-based effective-memory expansion evaluation with NVIDIA",
+            "url": "https://www.kioxia.com/ja-jp/business/news/2026/20261126-1.html"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 issuer account describes SSD-backed dataset-access evaluation, not a commercial HBM release.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-27T14:37:09Z.\nEvidence: Kioxia and NVIDIA collaborate to expand effective high-bandwidth memory capacity with SSDs — https://www.kioxia.com/en-jp/business/news/2026/20261126-1.html\nEvidence: Kioxia Japanese original: SSD-based effective-memory expansion evaluation with NVIDIA — https://www.kioxia.com/ja-jp/business/news/2026/20261126-1.html",
+      "date_published": "2026-11-27T14:37:09Z",
+      "external_url": "https://www.kioxia.com/en-jp/business/news/2026/20261126-1.html",
+      "id": "urn:rase:ai:record:RSI-REC-8b635730f0ef1ee36ddf36c9",
+      "summary": "The November 26 issuer account describes SSD-backed dataset-access evaluation, not a commercial HBM release.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "Kioxia reports its NVIDIA SCADA memory proof of concept",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/kioxia-nvidia-ssd-backed-gpu-memory-proof-of-concept"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Tunable diffusive memristor arrays for neuromorphic temporal computing",
+            "url": "https://www.nature.com/articles/s41563-026-02815-z"
+          },
+          {
+            "kind": "primary",
+            "title": "HOTS using diffusive memristor — author code repository",
+            "url": "https://github.com/Yunzhiumass/HOTS-using-diffusive-memristor"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 journal publication describes prototype temporal-computing hardware.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-27T14:37:09Z.\nEvidence: Tunable diffusive memristor arrays for neuromorphic temporal computing — https://www.nature.com/articles/s41563-026-02815-z\nEvidence: HOTS using diffusive memristor — author code repository — https://github.com/Yunzhiumass/HOTS-using-diffusive-memristor",
+      "date_published": "2026-11-27T14:37:09Z",
+      "external_url": "https://www.nature.com/articles/s41563-026-02815-z",
+      "id": "urn:rase:ai:record:RSI-REC-ef4e9c500679c4c0cf8ef41c",
+      "summary": "The November 26 journal publication describes prototype temporal-computing hardware.",
+      "tags": [
+        "Education, research & scientific discovery"
+      ],
+      "title": "Nature Materials publishes tunable memristor research",
+      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/tunable-diffusive-memristor-temporal-computing-study"
+    },
+    {
+      "_rase": {
         "event_type": "research_publication",
         "original_event_date": {
           "certainty": "verified",
@@ -213,6 +353,46 @@
       ],
       "title": "inclusionAI announces Ming-Image 0.2 Design availability",
       "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/ming-image-0-2-design"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "AngelSpec official release notes and DFly2 overview",
+            "url": "https://github.com/Tencent/AngelSpec"
+          },
+          {
+            "kind": "primary",
+            "title": "Hy4-flash-DFly2-B6 official model card",
+            "url": "https://huggingface.co/AngelSlim/Hy4-flash-DFly2-B6"
+          },
+          {
+            "kind": "primary",
+            "title": "DFly2 technical report, full text",
+            "url": "https://arxiv.org/html/2611.34776v1"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 maker release note covers weights, training code and a report, while earlier training support and the November 25 preprint remain distinct.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-27T14:37:09Z.\nEvidence: AngelSpec official release notes and DFly2 overview — https://github.com/Tencent/AngelSpec\nEvidence: Hy4-flash-DFly2-B6 official model card — https://huggingface.co/AngelSlim/Hy4-flash-DFly2-B6\nEvidence: DFly2 technical report, full text — https://arxiv.org/html/2611.34776v1",
+      "date_published": "2026-11-27T14:37:09Z",
+      "external_url": "https://github.com/Tencent/AngelSpec",
+      "id": "urn:rase:ai:record:RSI-REC-3e01c41f9f1fcb6cc9a17896",
+      "summary": "The November 26 maker release note covers weights, training code and a report, while earlier training support and the November 25 preprint remain distinct.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "Tencent announces the complete DFly2 package and three MoE drafts",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/dfly2-speculative-decoding-release-package"
     },
     {
       "_rase": {
@@ -647,6 +827,36 @@
       ],
       "title": "GitHub announces a planned December 30 Copilot review-billing default change",
       "url": "https://rasesolutions.com/ai/ai-software-development-programming/github-copilot"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-25"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Migrating our Messages API to Rust",
+            "url": "https://www.anthropic.com/research/migrating-api-to-rust"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 25 engineering publication explains verification during an earlier migration. Only publication of the account is dated here.\n\nVerified development date: 2026-11-25 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-27T14:37:09Z.\nEvidence: Migrating our Messages API to Rust — https://www.anthropic.com/research/migrating-api-to-rust",
+      "date_published": "2026-11-27T14:37:09Z",
+      "external_url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "id": "urn:rase:ai:record:RSI-REC-8cf54c496bdb9b2daa4bc74c",
+      "summary": "The November 25 engineering publication explains verification during an earlier migration. Only publication of the account is dated here.",
+      "tags": [
+        "AI software development & programming"
+      ],
+      "title": "Anthropic publishes its Messages API Rust migration case study",
+      "url": "https://rasesolutions.com/ai/ai-software-development-programming/anthropic-messages-api-rust-migration-case-study"
     },
     {
       "_rase": {
@@ -1465,202 +1675,6 @@
       ],
       "title": "Google releases native file slicing controls for the Gemini API",
       "url": "https://rasesolutions.com/ai/ai-software-development-programming/gemini-api-file-slicing-controls"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Connect adds comparisons before evaluation-model upgrades",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-test-ai-model-version-upgrades-automated-evaluations/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "reviewed_event_publication"
-      },
-      "content_text": "Managers can compare old and new scoring on the same contacts and select their model-upgrade approach.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nPublic content reviewed/published: 2026-11-24T14:32:03Z.\nEvidence: Connect adds comparisons before evaluation-model upgrades — https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-test-ai-model-version-upgrades-automated-evaluations/",
-      "date_modified": "2026-11-24T14:32:03Z",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-test-ai-model-version-upgrades-automated-evaluations/",
-      "id": "urn:rase:ai:record:RSI-REC-843538304b0ffbf74522bfb4",
-      "summary": "Managers can compare old and new scoring on the same contacts and select their model-upgrade approach.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "Connect adds evaluation-model version comparisons",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/amazon-connect-customer-multilingual-ai-evaluations"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Azure Databricks November 2026 release notes",
-            "url": "https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/november"
-          },
-          {
-            "kind": "primary",
-            "title": "Impact analysis",
-            "url": "https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/impact-analysis"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The dated feature adds downstream impact review; documentation warns that incomplete lineage is not proof of a safe change.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Azure Databricks November 2026 release notes — https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/november\nEvidence: Impact analysis — https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/impact-analysis",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/november",
-      "id": "urn:rase:ai:record:RSI-REC-e49bbcbdb55420c8c583aa0a",
-      "summary": "The dated feature adds downstream impact review; documentation warns that incomplete lineage is not proof of a safe change.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "Azure Databricks announces beta impact analysis with optional AI summaries",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/azure-databricks-ai-assisted-lineage-impact-analysis"
-    },
-    {
-      "_rase": {
-        "event_type": "research_publication",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "LitMOF: An LLM Multi-Agent for Literature-Validated Metal-Organic Frameworks Database Correction and Expansion",
-            "url": "https://www.nature.com/articles/s41467-026-79242-w"
-          },
-          {
-            "kind": "primary",
-            "title": "LitMOF preprint and submission history",
-            "url": "https://arxiv.org/abs/2512.01693"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "Nature Communications published accepted research on LitMOF, a multi-agent system that checks metal–organic framework structures against their original literature.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: LitMOF: An LLM Multi-Agent for Literature-Validated Metal-Organic Frameworks Database Correction and Expansion — https://www.nature.com/articles/s41467-026-79242-w\nEvidence: LitMOF preprint and submission history — https://arxiv.org/abs/2512.01693",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://www.nature.com/articles/s41467-026-79242-w",
-      "id": "urn:rase:ai:record:RSI-REC-11e2a08b0e68b259075397c4",
-      "summary": "Nature Communications published accepted research on LitMOF, a multi-agent system that checks metal–organic framework structures against their original literature.",
-      "tags": [
-        "Education, research & scientific discovery"
-      ],
-      "title": "LitMOF journal paper examines AI-assisted repair of materials databases",
-      "url": "https://rasesolutions.com/ai/education-research-scientific-discovery/litmof-scientific-database-curation-research"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Azure Databricks November 2026 release notes",
-            "url": "https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/november"
-          },
-          {
-            "kind": "primary",
-            "title": "Set up Genie Search",
-            "url": "https://learn.microsoft.com/en-us/azure/databricks/genie/genie-ontology/search-index"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The November 23 release-note entry dates beta indexing; setup documentation defines permissions and regional requirements.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Azure Databricks November 2026 release notes — https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/november\nEvidence: Set up Genie Search — https://learn.microsoft.com/en-us/azure/databricks/genie/genie-ontology/search-index",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/november",
-      "id": "urn:rase:ai:record:RSI-REC-4ea79807327151f65a9992ab",
-      "summary": "The November 23 release-note entry dates beta indexing; setup documentation defines permissions and regional requirements.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "Azure Databricks announces beta SharePoint support for Genie Search",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/azure-databricks-genie-search-sharepoint-connector"
-    },
-    {
-      "_rase": {
-        "event_type": "market_launch",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "AgentCore runtime instances expand to GovCloud US-West",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "AWS adds regional availability for customer-account agent compute without claiming a new underlying agent model.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: AgentCore runtime instances expand to GovCloud US-West — https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud/",
-      "date_published": "2026-11-24T14:32:03Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud/",
-      "id": "urn:rase:ai:record:RSI-REC-812eafc609c5d18df789a576",
-      "summary": "AWS adds regional availability for customer-account agent compute without claiming a new underlying agent model.",
-      "tags": [
-        "AI infrastructure, hardware & open-source"
-      ],
-      "title": "AgentCore runtime instances become available in GovCloud US-West",
-      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-bedrock-agentcore-runtime-instances-in-govcloud"
-    },
-    {
-      "_rase": {
-        "event_type": "significant_update",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Connect AI agents suggest entries in live workflow guides",
-            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The update fills guide fields from conversation context while retaining human review and editing.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T14:32:03Z.\nEvidence: Connect AI agents suggest entries in live workflow guides — https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/",
-      "date_published": "2026-11-24T14:32:03Z",
-      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/",
-      "id": "urn:rase:ai:record:RSI-REC-6277366283d2726601972fff",
-      "summary": "The update fills guide fields from conversation context while retaining human review and editing.",
-      "tags": [
-        "Business, finance, sales & productivity"
-      ],
-      "title": "Connect AI agents add suggestions to step-by-step guides",
-      "url": "https://rasesolutions.com/ai/business-finance-sales-productivity/amazon-connect-customer-ai-guide-filling"
     }
   ],
   "language": "en",
