@@ -11,6 +11,166 @@
   "items": [
     {
       "_rase": {
+        "event_type": "public_release",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-27"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Amazon Neptune introduces Neptune Graph Sessions",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available/"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The new mode starts smaller per-task graphs and suspends idle compute while retaining graph data.\n\nVerified development date: 2026-11-27 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-28T01:28:40Z.\nEvidence: Amazon Neptune introduces Neptune Graph Sessions — https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available/",
+      "date_published": "2026-11-28T01:28:40Z",
+      "external_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available/",
+      "id": "urn:rase:ai:record:RSI-REC-6d09879b37e0414ea13e1241",
+      "summary": "The new mode starts smaller per-task graphs and suspends idle compute while retaining graph data.",
+      "tags": [
+        "AI infrastructure, hardware & open-source"
+      ],
+      "title": "AWS announces Neptune Graph Sessions availability",
+      "url": "https://rasesolutions.com/ai/ai-infrastructure-hardware-open-source/amazon-neptune-graph-sessions"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-27"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Generating proteins with computationally predicted functions and multiple states via multimodal diffusion",
+            "url": "https://www.nature.com/articles/s42256-026-01329-2"
+          },
+          {
+            "kind": "primary",
+            "title": "ProDiT author implementation",
+            "url": "https://github.com/bjing2016/ProDiT"
+          },
+          {
+            "kind": "primary",
+            "title": "ProDiT current author README",
+            "url": "https://raw.githubusercontent.com/bjing2016/ProDiT/main/README.md"
+          },
+          {
+            "kind": "primary",
+            "title": "Generating functional and multistate proteins with a multimodal diffusion transformer",
+            "url": "https://www.biorxiv.org/content/10.1101/2025.09.03.672144v2"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 27 journal article reports computational multimodal protein design, following an earlier preprint.\n\nVerified development date: 2026-11-27 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-28T01:28:40Z.\nEvidence: Generating proteins with computationally predicted functions and multiple states via multimodal diffusion — https://www.nature.com/articles/s42256-026-01329-2\nEvidence: ProDiT author implementation — https://github.com/bjing2016/ProDiT\nEvidence: ProDiT current author README — https://raw.githubusercontent.com/bjing2016/ProDiT/main/README.md\nEvidence: Generating functional and multistate proteins with a multimodal diffusion transformer — https://www.biorxiv.org/content/10.1101/2025.09.03.672144v2",
+      "date_published": "2026-11-28T01:28:40Z",
+      "external_url": "https://www.nature.com/articles/s42256-026-01329-2",
+      "id": "urn:rase:ai:record:RSI-REC-dde22d045803084844470e18",
+      "summary": "The November 27 journal article reports computational multimodal protein design, following an earlier preprint.",
+      "tags": [
+        "Healthcare, biotechnology & medical AI"
+      ],
+      "title": "ProDiT study published in Nature Machine Intelligence",
+      "url": "https://rasesolutions.com/ai/healthcare-biotechnology-medical-ai/prodit-multimodal-protein-design-research"
+    },
+    {
+      "_rase": {
+        "event_type": "announcement",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-27"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "American SI Exports Program; On-Demand Consortia for Specific Foreign Opportunities",
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/html/2026-24107.htm"
+          },
+          {
+            "kind": "primary",
+            "title": "Official Federal Register metadata for document 2026-24107",
+            "url": "https://www.federalregister.gov/api/v1/documents/2026-24107.json"
+          },
+          {
+            "kind": "primary",
+            "title": "Commerce designates SI export packages and announces next phase",
+            "url": "https://www.trade.gov/press-release/department-commerce-designates-si-export-packages-announces-next-phase-american-si"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 27 Federal Register notice documents requirements for the previously announced pathway; November 30 intake remains prospective.\n\nVerified development date: 2026-11-27 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-28T01:28:40Z.\nEvidence: American SI Exports Program; On-Demand Consortia for Specific Foreign Opportunities — https://www.govinfo.gov/content/pkg/FR-2026-11-27/html/2026-24107.htm\nEvidence: Official Federal Register metadata for document 2026-24107 — https://www.federalregister.gov/api/v1/documents/2026-24107.json\nEvidence: Commerce designates SI export packages and announces next phase — https://www.trade.gov/press-release/department-commerce-designates-si-export-packages-announces-next-phase-american-si",
+      "date_published": "2026-11-28T01:28:40Z",
+      "external_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/html/2026-24107.htm",
+      "id": "urn:rase:ai:record:RSI-REC-04a7a7c837135f9eeab5892a",
+      "summary": "The November 27 Federal Register notice documents requirements for the previously announced pathway; November 30 intake remains prospective.",
+      "tags": [
+        "AI security, safety, governance & emerging research"
+      ],
+      "title": "ITA publishes on-demand SI export consortium notice",
+      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/american-si-exports-program-on-demand-consortia-notice"
+    },
+    {
+      "_rase": {
+        "event_type": "research_publication",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Learning beyond rigid manipulation with hybrid soft-rigid robots",
+            "url": "https://www.nature.com/articles/s41467-026-79571-w"
+          },
+          {
+            "kind": "primary",
+            "title": "Learning Beyond Rigid Manipulation with Hybrid Soft-Rigid Robots: preprint history",
+            "url": "https://arxiv.org/abs/2410.07787"
+          },
+          {
+            "kind": "primary",
+            "title": "Hybrid soft-rigid robots: author preprint v4",
+            "url": "https://arxiv.org/html/2410.07787v4"
+          },
+          {
+            "kind": "primary",
+            "title": "Hybrid soft-rigid robot ROS workspace",
+            "url": "https://github.com/MRamirez25/hybrid_ws"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The November 26 accepted journal article follows earlier preprint versions; it does not establish first hardware availability.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-28T01:28:40Z.\nEvidence: Learning beyond rigid manipulation with hybrid soft-rigid robots — https://www.nature.com/articles/s41467-026-79571-w\nEvidence: Learning Beyond Rigid Manipulation with Hybrid Soft-Rigid Robots: preprint history — https://arxiv.org/abs/2410.07787\nEvidence: Hybrid soft-rigid robots: author preprint v4 — https://arxiv.org/html/2410.07787v4\nEvidence: Hybrid soft-rigid robot ROS workspace — https://github.com/MRamirez25/hybrid_ws",
+      "date_published": "2026-11-28T01:28:40Z",
+      "external_url": "https://www.nature.com/articles/s41467-026-79571-w",
+      "id": "urn:rase:ai:record:RSI-REC-d014989ee6dabbd3807108f9",
+      "summary": "The November 26 accepted journal article follows earlier preprint versions; it does not establish first hardware availability.",
+      "tags": [
+        "Robotics, humanoids, household robots & physical AI"
+      ],
+      "title": "Hybrid soft-rigid manipulation study receives journal publication",
+      "url": "https://rasesolutions.com/ai/robotics-humanoids-household-robots-physical-ai/hybrid-soft-rigid-robot-imitation-learning-study"
+    },
+    {
+      "_rase": {
         "event_type": "announcement",
         "original_event_date": {
           "certainty": "verified",
@@ -353,6 +513,41 @@
       ],
       "title": "inclusionAI announces Ming-Image 0.2 Design availability",
       "url": "https://rasesolutions.com/ai/generative-video-audio-images-design-creative-tools/ming-image-0-2-design"
+    },
+    {
+      "_rase": {
+        "event_type": "significant_update",
+        "original_event_date": {
+          "certainty": "verified",
+          "precision": "day",
+          "value": "2026-11-26"
+        },
+        "sources": [
+          {
+            "kind": "primary",
+            "title": "Managed Service for Apache Airflow release notes",
+            "url": "https://docs.cloud.google.com/composer/docs/release-notes"
+          },
+          {
+            "kind": "primary",
+            "title": "Upgrade Managed Airflow environments",
+            "url": "https://docs.cloud.google.com/composer/docs/composer-3/upgrade-environments"
+          }
+        ],
+        "summary_scope": "event",
+        "website_publication_scope": "profile",
+        "website_update_scope": "profile_first_publication"
+      },
+      "content_text": "The new console check uses static workflow inspection to recommend compatibility changes without executing DAGs or upgrading the environment.\n\nVerified development date: 2026-11-26 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-28T01:28:40Z.\nEvidence: Managed Service for Apache Airflow release notes — https://docs.cloud.google.com/composer/docs/release-notes\nEvidence: Upgrade Managed Airflow environments — https://docs.cloud.google.com/composer/docs/composer-3/upgrade-environments",
+      "date_published": "2026-11-28T01:28:40Z",
+      "external_url": "https://docs.cloud.google.com/composer/docs/release-notes",
+      "id": "urn:rase:ai:record:RSI-REC-c53aad2bfb813465c9b2c416",
+      "summary": "The new console check uses static workflow inspection to recommend compatibility changes without executing DAGs or upgrading the environment.",
+      "tags": [
+        "Autonomous agents, MCP & workflow automation"
+      ],
+      "title": "Google documents the Managed Airflow agentic upgrade check",
+      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/managed-airflow-agentic-upgrade-check"
     },
     {
       "_rase": {
@@ -1520,161 +1715,6 @@
       ],
       "title": "Claude announces Skills over MCP beta and Tasks/Elicitation availability",
       "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/model-context-protocol-mcp"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-24"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Workspace MCP servers, CLI and governance rollout",
-            "url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html"
-          },
-          {
-            "kind": "primary",
-            "title": "Google Workspace developer release notes",
-            "url": "https://developers.google.com/workspace/release-notes"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The November 24 release combines managed agent access, administrative controls and usage tiers, with staged availability and later enforcement dates.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-25T14:24:34Z.\nEvidence: Workspace MCP servers, CLI and governance rollout — https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html\nEvidence: Google Workspace developer release notes — https://developers.google.com/workspace/release-notes",
-      "date_published": "2026-11-25T14:24:34Z",
-      "external_url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
-      "id": "urn:rase:ai:record:RSI-REC-04fbd0a11f7c2c2daa96389b",
-      "summary": "The November 24 release combines managed agent access, administrative controls and usage tiers, with staged availability and later enforcement dates.",
-      "tags": [
-        "Autonomous agents, MCP & workflow automation"
-      ],
-      "title": "Google announces Workspace MCP servers and CLI GA rollout",
-      "url": "https://rasesolutions.com/ai/autonomous-agents-mcp-workflow-automation/google-workspace-mcp-servers-and-cli-general-availability"
-    },
-    {
-      "_rase": {
-        "event_type": "legislative",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-24"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Commons Hansard: Cyber Security and Resilience(Network and Information Systems)Bill,24November2026",
-            "url": "https://hansard.parliament.uk/Commons/2026-11-24/debates/9696CEE9-A8C3-449D-9B15-89FA9F00CF8E/CyberSecurityAndResilience%28NetworkAndInformationSystems%29Bill"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "On November 24, MPs rejected a proposed change to amendment 33 and then agreed the group containing it.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-25T14:05:48Z.\nEvidence: Commons Hansard: Cyber Security and Resilience(Network and Information Systems)Bill,24November2026 — https://hansard.parliament.uk/Commons/2026-11-24/debates/9696CEE9-A8C3-449D-9B15-89FA9F00CF8E/CyberSecurityAndResilience%28NetworkAndInformationSystems%29Bill",
-      "date_published": "2026-11-25T14:05:48Z",
-      "external_url": "https://hansard.parliament.uk/Commons/2026-11-24/debates/9696CEE9-A8C3-449D-9B15-89FA9F00CF8E/CyberSecurityAndResilience%28NetworkAndInformationSystems%29Bill",
-      "id": "urn:rase:ai:record:RSI-REC-8ad0fc29d519347d7791184c",
-      "summary": "On November 24, MPs rejected a proposed change to amendment 33 and then agreed the group containing it.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "Commons agrees the cyber bill’s proposed AI-agent oversight clause",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/uk-cyber-bill-ai-agent-oversight-clause-commons-milestone"
-    },
-    {
-      "_rase": {
-        "event_type": "announcement",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-24"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "ABB helps scale industrial AI with world’s first motor featuring built-in intelligence",
-            "url": "https://www.abb.com/global/en/news/140646/abb-helps-scale-industrial-ai-with-worlds-first-motor-featuring-built-in-intelligence"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The November 24 announcement places Intelleqt in customer co-creation; broader rollout is planned for 2027.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-25T14:05:48Z.\nEvidence: ABB helps scale industrial AI with world’s first motor featuring built-in intelligence — https://www.abb.com/global/en/news/140646/abb-helps-scale-industrial-ai-with-worlds-first-motor-featuring-built-in-intelligence",
-      "date_published": "2026-11-25T14:05:48Z",
-      "external_url": "https://www.abb.com/global/en/news/140646/abb-helps-scale-industrial-ai-with-worlds-first-motor-featuring-built-in-intelligence",
-      "id": "urn:rase:ai:record:RSI-REC-200dcc7afaaa112e72a8c798",
-      "summary": "The November 24 announcement places Intelleqt in customer co-creation; broader rollout is planned for 2027.",
-      "tags": [
-        "Transportation, manufacturing, agriculture & energy"
-      ],
-      "title": "ABB introduces Intelleqt motor intelligence for customer co-creation",
-      "url": "https://rasesolutions.com/ai/transportation-manufacturing-agriculture-energy/abb-intelleqt-factory-integrated-motor-intelligence"
-    },
-    {
-      "_rase": {
-        "event_type": "research_disclosure",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-24"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Measuring and mitigating agent sandbox escape with Siren",
-            "url": "https://safeguards.anthropic.com/2026/siren/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The November 24 report distinguishes controlled boundary-crossing behavior from unauthorized use, with explicit experimental limits.\n\nVerified development date: 2026-11-24 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-26T01:36:30Z.\nEvidence: Measuring and mitigating agent sandbox escape with Siren — https://safeguards.anthropic.com/2026/siren/",
-      "date_published": "2026-11-26T01:36:30Z",
-      "external_url": "https://safeguards.anthropic.com/2026/siren/",
-      "id": "urn:rase:ai:record:RSI-REC-8a61c8d1adc4496f7a8b0b40",
-      "summary": "The November 24 report distinguishes controlled boundary-crossing behavior from unauthorized use, with explicit experimental limits.",
-      "tags": [
-        "AI security, safety, governance & emerging research"
-      ],
-      "title": "Anthropic publishes Siren evaluation design and mitigation findings",
-      "url": "https://rasesolutions.com/ai/ai-security-safety-governance-emerging-research/siren-sandbox-boundary-evaluation"
-    },
-    {
-      "_rase": {
-        "event_type": "public_release",
-        "original_event_date": {
-          "certainty": "verified",
-          "precision": "day",
-          "value": "2026-11-23"
-        },
-        "sources": [
-          {
-            "kind": "primary",
-            "title": "Introducing file slicing controls in the Gemini API",
-            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/"
-          }
-        ],
-        "summary_scope": "event",
-        "website_publication_scope": "profile",
-        "website_update_scope": "profile_first_publication"
-      },
-      "content_text": "The dated release adds targeted file processing and expanded document formats; upload limits remain in force.\n\nVerified development date: 2026-11-23 (day precision).\nFirst published in the Rase catalog (profile): 2026-11-24T01:30:31Z.\nEvidence: Introducing file slicing controls in the Gemini API — https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
-      "date_published": "2026-11-24T01:30:31Z",
-      "external_url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
-      "id": "urn:rase:ai:record:RSI-REC-87a00a5e4c4db74e4289ea23",
-      "summary": "The dated release adds targeted file processing and expanded document formats; upload limits remain in force.",
-      "tags": [
-        "AI software development & programming"
-      ],
-      "title": "Google releases native file slicing controls for the Gemini API",
-      "url": "https://rasesolutions.com/ai/ai-software-development-programming/gemini-api-file-slicing-controls"
     }
   ],
   "language": "en",
